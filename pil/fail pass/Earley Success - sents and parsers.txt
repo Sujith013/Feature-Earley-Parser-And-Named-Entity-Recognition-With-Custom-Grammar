@@ -1,0 +1,1755 @@
+betaferon
+(S (NP1 (NP2 (N betaferon))))
+
+important information please read carefully
+(S
+  (NP1 (NP2 (N important) (N information)) (NP2 (N please)))
+  (VP1 (VP2 (VP2 (V read)) (advP (adv carefully)))))
+
+betaferon contains the following substances composition
+(S
+  (NP1 (NP2 (N betaferon)) (NP2 (N contains) (N the)))
+  (VP1
+    (VP2 (V following) (NP2 (N substances)))
+    (NP2 (N composition))))
+
+active ingredients
+(S (NP1 (NP2 (adjP (adj active)) (NP2 (N ingredients)))))
+
+1 ml of the prepared solution for injection contains 025 mg 8 million iu of interferon beta1b
+(S
+  (NP1 (NP2 (CDP (cd 1)) (N ml)))
+  (VP1
+    (VP2
+      (PP2
+        (prep of)
+        (NP2 (det the) (adjP (adj prepared)) (N solution)))
+      (VP2
+        (PP2 (prep for) (NP2 (N injection)))
+        (VP2 (V contains) (NP2 (CDP (cd 025)) (N mg)))))
+    (NP2 (CDP (cd 8) (cd million)) (N iu)))
+  (PP1 (PP2 (prep of) (NP2 (N interferon) (N beta1b)))))
+
+inactive ingredients human albumin dextrose
+(S
+  (NP1
+    (NP2 (adjP (adj inactive)) (NP2 (N ingredients)))
+    (NP2 (N human)))
+  (VP1 (NP1 (NP2 (N albumin))) (VP2 (V dextrose))))
+
+what presentations of betaferon are available
+(S
+  (NP1 (NP2 (wp what) (NP2 (N presentations))))
+  (VP1
+    (VP2
+      (VP2 (PP2 (prep of) (NP2 (N betaferon))) (VP2 (V are)))
+      (adjP (adj available)))))
+
+each pack of betaferon contains 15 vials of interferon beta1b and 15 vials of 054 sodium chloride solution
+(S
+  (NP1 (NP2 (det each) (N pack)) (NP2 (N of) (N betaferon)))
+  (VP1
+    (VP2
+      (VP2
+        (V contains)
+        (NP2 (CDP (cd 15)) (N vials))
+        (PP2 (prep of) (NP2 (N interferon) (N beta1b))))
+      (conj and)
+      (NP2 (CDP (cd 15)) (N vials)))
+    (NP1
+      (NP2 (N of) (CDP (cd 054)))
+      (NP2 (adjP (adj sodium) (adj chloride)) (NP2 (N solution))))))
+
+how does betaferon work
+(S
+  (VP1
+    (VP2 (wp how) (VP2 (V does) (NP2 (N betaferon))))
+    (VP2 (V work))))
+
+properties of the preparation
+(S
+  (NP1
+    (NP2
+      (N properties)
+      (PP2 (prep of) (NP2 (N the) (N preparation))))))
+
+multiple sclerosis ms is a disease of the central nervous system cns ie
+(S
+  (NP1 (NP2 (adjP (adj multiple)) (NP2 (N sclerosis))) (NP2 (N ms)))
+  (VP1
+    (VP2
+      (VP2 (V is) (NP2 (N a) (N disease)) (PP2 (prep of) (det the)))
+      (adjP (adj central)))
+    (NP1
+      (NP2 (adjP (adj nervous)) (NP2 (N system) (N cns)))
+      (NP2 (N ie)))))
+
+brain and spinal cord and its exact cause is unknown
+(S
+  (NP1
+    (NP2
+      (NP2 (N brain))
+      (conj and)
+      (NP2 (adjP (adj spinal)) (NP2 (N cord)))))
+  (VP1
+    (NP1
+      (NP2 (N and))
+      (NP2 (prp its) (NP2 (adjP (adj exact)) (NP2 (N cause)))))
+    (VP2 (VP2 (V is)) (adjP (adj unknown)))))
+
+interferons belong to the family of cytokines which are naturally occurring proteins
+(S
+  (VP1
+    (NP1 (NP2 (N interferons)))
+    (VP2 (V belong) (NP2 (N to) (N the))))
+  (NP1
+    (NP2 (N family) (PP2 (prep of) (NP2 (N cytokines))))
+    (NP2 (wp which) (NP2 (N are))))
+  (VP1
+    (VP2 (advP (adv naturally)) (VP2 (V occurring)))
+    (NP1 (NP2 (N proteins)))))
+
+who is responsible for betaferon
+(S
+  (NP1
+    (NP2
+      (wp who)
+      (NP2 (N is) (PP2 (adjP (adj responsible)) (prep for))))
+    (NP2 (N betaferon))))
+
+schering ag d13342 berlin
+(S (VP1 (VP2 (V schering) (NP2 (N ag) (N d13342))) (NP2 (N berlin))))
+
+for what purpose is betaferon used
+(S
+  (VP1
+    (VP2
+      (PP2 (prep for) (NP2 (wp what) (NP2 (N purpose))))
+      (VP2 (V is) (NP2 (N betaferon))))
+    (VP2 (V used))))
+
+indications
+(S (NP1 (NP2 (N indications))))
+
+the effect of betaferon on performance of daily activities or in the social field is not known
+(S
+  (NP1
+    (NP2 (N the))
+    (NP2
+      (N effect)
+      (PP2
+        (prep of)
+        (NP2
+          (N betaferon)
+          (PP2 (prep on) (NP2 (N performance) (N of)))))))
+  (VP1
+    (NP1
+      (NP2
+        (NP2 (adjP (adj daily)) (NP2 (N activities)))
+        (conj or)
+        (NP2 (N in) (N the)))
+      (NP2 (adjP (adj social)) (NP2 (N field) (N is))))
+    (VP2 (advP (adv not)) (V known))))
+
+betaferon has not yet been investigated in patients with progressive multiple sclerosis
+(S
+  (VP1 (NP1 (NP2 (N betaferon))) (VP2 (V has)))
+  (NP1 (NP2 (N not)))
+  (VP1
+    (VP2 (advP (adv yet)) (V been))
+    (VP2
+      (V investigated)
+      (NP2 (N in) (N patients))
+      (PP2
+        (prep with)
+        (NP2
+          (adjP (adj progressive) (adj multiple))
+          (NP2 (N sclerosis)))))))
+
+there is no evidence of an effect on disability
+(S
+  (VP1
+    (VP2 (advP (adv there)) (VP2 (NP2 (N is)) (advP (adv no))))
+    (NP1
+      (NP2 (N evidence) (PP2 (prep of) (det an)))
+      (NP2 (N effect) (PP2 (prep on) (NP2 (N disability)))))))
+
+clinical studies show that not all patients respond to treatment with betaferon
+(S
+  (NP1
+    (NP2
+      (adjP (adj clinical))
+      (NP2
+        (N studies)
+        (PP2
+          (VP2 (V show))
+          (prep that)
+          (VP2 (advP (adv not)) (N all))))))
+  (VP1
+    (NP1 (NP2 (N patients)))
+    (VP2
+      (V respond)
+      (NP2 (N to) (N treatment))
+      (PP2 (prep with) (NP2 (N betaferon))))))
+
+despite treatment worsening of the symptoms during attacks has been observed in some patients
+(S
+  (VP1
+    (VP2
+      (PP2 (prep despite) (NP2 (N treatment) (N worsening)))
+      (VP2
+        (PP2 (prep of) (NP2 (det the) (N symptoms)))
+        (VP2
+          (PP2 (prep during) (NP2 (N attacks)))
+          (VP2 (V has) (V been)))))
+    (NP1
+      (NP2 (adjP (adj observed)) (NP2 (N in)))
+      (NP2 (det some) (N patients)))))
+
+it is not possible to foresee which patients will not respond or whose symptoms will worsen despite treatment
+(S
+  (NP1
+    (NP2 (prp it) (NP2 (N is) (N not)))
+    (NP2 (adjP (adj possible)) (NP2 (N to))))
+  (VP1
+    (VP2 (V foresee))
+    (VP2
+      (NP2 (wp which) (NP2 (N patients)))
+      (md will)
+      (VP2
+        (NP2
+          (NP2 (N not) (N respond))
+          (conj or)
+          (NP2 (wp whose) (NP2 (N symptoms))))
+        (md will)
+        (VP2 (V worsen)))))
+  (PP1 (PP2 (prep despite) (NP2 (N treatment)))))
+
+when should betaferon not be used
+(S
+  (NP1 (NP2 (wp when) (NP2 (N should) (N betaferon))) (NP2 (N not)))
+  (VP1 (VP2 (V be)) (VP2 (V used))))
+
+contraindications
+(S (NP1 (NP2 (N contraindications))))
+
+you should not use betaferon if you are pregnant or if you have a history of hypersensitivity to natural or recombinant interferon beta or human albumin
+(S
+  (NP1
+    (NP2 (prp you) (N should))
+    (NP2
+      (N not)
+      (PP2
+        (VP2 (V use) (NP2 (N betaferon)))
+        (prep if)
+        (VP2 (prp you) (VP2 (V are) (V pregnant))))))
+  (conj or)
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (N you)))
+      (VP2
+        (VP2
+          (VP2
+            (V have)
+            (NP2 (N a) (N history))
+            (PP2 (prep of) (NP2 (N hypersensitivity) (N to))))
+          (adjP (adj natural)))
+        (conj or)
+        (NP2 (adjP (adj recombinant)) (NP2 (N interferon)))))
+    (NP2 (N beta)))
+  (conj or)
+  (NP1 (NP2 (N human) (N albumin))))
+
+you should not use betaferon if you are under 18 years of age because it has not been investigated in this age group
+(S
+  (VP1 (VP2 (prp you) (VP2 (md should) (V not))))
+  (NP1
+    (NP2
+      (adjP (adj use))
+      (NP2
+        (N betaferon)
+        (PP2
+          (prep if)
+          (NP2 (prp you) (NP2 (N are) (PP2 (prep under) (cd 18)))))))
+    (NP2 (N years) (PP2 (prep of) (NP2 (N age)))))
+  (VP1
+    (VP2
+      (PP2 (prep because) (VP2 (prp it) (VP2 (V has) (V not))))
+      (VP2 (V been) (V investigated)))
+    (NP1 (NP2 (N in) (N this)) (NP2 (N age) (N group)))))
+
+it has not been investigated in this age group
+(S
+  (VP1 (VP2 (prp it) (V has)))
+  (NP1 (NP2 (N not)))
+  (VP1
+    (VP2 (V been) (V investigated))
+    (NP1 (NP2 (N in) (N this)) (NP2 (N age) (N group)))))
+
+you should also not use betaferon if you have a history of severe depressive illness and/or suicidal thoughts liver failure or inadequately treated epilepsy
+(S
+  (VP1
+    (VP2 (VP2 (prp you) (md should)) (advP (adv also)))
+    (VP2
+      (V not)
+      (NP2 (adjP (adj use)) (NP2 (N betaferon)))
+      (PP2 (prep if) (NP2 (prp you) (NP2 (N have) (N a))))))
+  (NP1
+    (NP2
+      (N history)
+      (PP2
+        (prep of)
+        (NP2
+          (adjP (adj severe) (adj depressive))
+          (NP2 (N illness) (N and/or)))))
+    (NP2 (N suicidal) (N thoughts)))
+  (VP1
+    (VP2
+      (VP2 (V liver) (NP2 (N failure)))
+      (conj or)
+      (VP2 (advP (adv inadequately)) (VP2 (V treated))))
+    (NP1 (NP2 (N epilepsy)))))
+
+if a serious hypersensitivity reaction occurs treatment with betaferon should be discontinued
+(S
+  (VP1
+    (NP1
+      (NP2 (N if) (N a))
+      (NP2
+        (adjP (adj serious))
+        (NP2 (N hypersensitivity) (N reaction))))
+    (VP2 (V occurs)))
+  (NP1 (NP2 (N treatment)) (NP2 (N with) (N betaferon)))
+  (VP1 (VP2 (md should) (V be)) (VP2 (V discontinued))))
+
+what precautions must be observed during the use of betaferon
+(S
+  (NP1 (NP2 (wp what) (NP2 (N precautions))))
+  (VP1 (VP2 (V must) (V be)) (VP2 (V observed)))
+  (PP1
+    (PP2 (prep during) (NP2 (N the) (N use)))
+    (PP2 (prep of) (NP2 (N betaferon)))))
+
+depression and suicidal thoughts have been reported by patients
+(S
+  (NP1
+    (NP2
+      (NP2 (N depression))
+      (conj and)
+      (NP2 (N suicidal) (N thoughts))))
+  (VP1 (VP2 (V have) (V been)) (VP2 (V reported)))
+  (PP1 (PP2 (prep by) (NP2 (N patients)))))
+
+in rare cases this may lead to suicidal  attempts
+(S
+  (NP1 (NP2 (N in)) (NP2 (adjP (adj rare)) (NP2 (N cases))))
+  (VP1
+    (VP2 (NP2 (N this)) (md may) (VP2 (V lead) (NP2 (N to))))
+    (NP2 (N suicidal) (N attempts))))
+
+if you experience such symptoms contact your doctor promptly
+(S
+  (VP1
+    (VP2
+      (PP2
+        (prep if)
+        (VP2
+          (VP2
+            (prp you)
+            (VP2
+              (V experience)
+              (NP2 (adjP (adj such)) (NP2 (N symptoms) (N contact)))))
+          (adjP (adj your))))
+      (VP2 (NP2 (N doctor)) (advP (adv promptly))))))
+
+if you have a history of seizures or of depression or if you suffer from preexisting heart disorders betaferon should be administered with caution
+(S
+  (PP1
+    (PP2
+      (prep if)
+      (VP2
+        (VP2
+          (prp you)
+          (VP2
+            (V have)
+            (NP2 (N a) (N history))
+            (PP2 (prep of) (NP2 (N seizures)))))
+        (conj or)
+        (VP2
+          (PP2
+            (prep of)
+            (NP2 (NP2 (N depression)) (conj or) (NP2 (N if))))
+          (VP2 (prp you) (V suffer)))))
+    (PP2 (prep from) (NP2 (adjP (adj preexisting)) (NP2 (N heart)))))
+  (NP1 (NP2 (N disorders)))
+  (VP1
+    (VP2
+      (NP2 (N betaferon))
+      (md should)
+      (VP2 (V be) (V administered)))
+    (NP2 (N with) (N caution))))
+
+caution should also be exercised if you are taking antiepileptic drugs
+(S
+  (NP1
+    (NP2 (N caution))
+    (NP2
+      (N should)
+      (PP2
+        (VP2 (advP (adv also)) (VP2 (V be) (V exercised)))
+        (prep if)
+        (VP2 (prp you) (V are)))))
+  (VP1
+    (VP2 (VP2 (V taking)) (adjP (adj antiepileptic)))
+    (NP2 (N drugs))))
+
+betaferon should also be administered with caution if you have a bone marrow disorder
+(S
+  (VP1
+    (VP2
+      (NP2 (N betaferon))
+      (md should)
+      (VP2 (advP (adv also)) (VP2 (V be))))
+    (VP2 (V administered)))
+  (NP1 (NP2 (N with) (N caution)))
+  (VP1
+    (VP2 (PP2 (prep if) (NP2 (N you))) (VP2 (V have) (NP2 (N a))))
+    (NP1 (NP2 (N bone) (N marrow)) (NP2 (N disorder)))))
+
+if your white blood cell count decreases your doctor should monitor you closely for the development of fever or infection
+(S
+  (PP1
+    (PP2
+      (prep if)
+      (NP2 (adjP (adj your) (adj white)) (NP2 (N blood) (N cell)))))
+  (NP1
+    (NP2 (N count) (N decreases))
+    (NP2 (adjP (adj your)) (NP2 (N doctor) (N should))))
+  (VP1
+    (VP2 (VP2 (V monitor) (NP2 (N you))) (advP (adv closely)))
+    (NP1
+      (NP2 (N for) (N the))
+      (NP2
+        (NP2 (N development) (PP2 (prep of) (NP2 (N fever))))
+        (conj or)
+        (NP2 (N infection))))))
+
+it is not known if betaferon has a negative effect on human fertility but based on the experience with other interferons a decrease in male or female fertility cannot be ruled out
+(S
+  (NP1
+    (NP2 (prp it) (NP2 (N is) (N not)))
+    (NP2 (adjP (adj known)) (NP2 (N if) (N betaferon))))
+  (VP1
+    (VP2
+      (VP2
+        (V has)
+        (NP2 (det a) (adjP (adj negative)) (N effect))
+        (PP2 (prep on) (NP2 (N human) (N fertility))))
+      (conj but)
+      (VP2 (V based)))
+    (VP2
+      (PP2 (prep on) (NP2 (N the) (N experience)))
+      (VP2
+        (PP2
+          (prep with)
+          (NP2 (adjP (adj other)) (NP2 (N interferons) (N a))))
+        (VP2 (V decrease) (NP2 (N in) (N male))))))
+  (conj or)
+  (NP1
+    (NP2 (adjP (adj female)) (NP2 (N fertility)))
+    (NP2 (N cannot)))
+  (VP1 (VP2 (V be) (V ruled)) (NP1 (NP2 (N out)))))
+
+there is no information on the use of betaferon in patients with kidney problems
+(S
+  (VP1
+    (VP2
+      (advP (adv there))
+      (VP2
+        (V is)
+        (NP2 (det no) (N information))
+        (PP2 (prep on) (det the))))
+    (NP1
+      (NP2
+        (N use)
+        (PP2
+          (prep of)
+          (NP2
+            (N betaferon)
+            (PP2 (prep in) (NP2 (N patients) (N with))))))
+      (NP2 (N kidney) (N problems)))))
+
+during the treatment with betaferon your body may produce substances which may reduce the effectiveness of the treatment
+(S
+  (VP1
+    (VP2
+      (PP2 (prep during) (NP2 (det the) (N treatment)))
+      (VP2
+        (PP2 (prep with) (NP2 (N betaferon) (N your)))
+        (VP2 (NP2 (N body)) (md may) (VP2 (V produce)))))
+    (NP2 (N substances)))
+  (NP1 (NP2 (wp which) (NP2 (N may))))
+  (VP1
+    (VP2
+      (V reduce)
+      (NP2 (N the) (N effectiveness))
+      (PP2 (prep of) (NP2 (N the) (N treatment))))))
+
+this is called neutralising activity and only occurs in some patients
+(S
+  (VP1
+    (NP1 (NP2 (N this)))
+    (VP2 (VP2 (V is) (V called)) (adjP (adj neutralising))))
+  (NP1 (NP2 (N activity)))
+  (VP1
+    (VP2 (NP2 (N and)) (advP (adv only)))
+    (NP1
+      (NP2 (N occurs) (PP2 (prep in) (det some)))
+      (NP2 (N patients)))))
+
+however it is not possible to foresee whether you belong to this group of patients with reduced efficacy or not
+(S
+  (VP1
+    (VP2 (advP (adv however)) (VP2 (prp it) (V is)))
+    (VP2 (V not)))
+  (NP1
+    (NP2
+      (adjP (adj possible))
+      (NP2
+        (N to)
+        (PP2
+          (VP2 (V foresee))
+          (prep whether)
+          (VP2 (prp you) (V belong)))))
+    (NP2 (N to)))
+  (VP1
+    (NP1 (NP2 (N this)) (NP2 (N group)))
+    (VP2
+      (VP2
+        (PP2 (prep of) (NP2 (N patients) (N with)))
+        (VP2 (V reduced) (NP2 (N efficacy))))
+      (conj or)
+      (VP2 (V not)))))
+
+may betaferon be used during pregnancy and lactation
+(S
+  (NP1 (NP2 (N may)) (NP2 (N betaferon)))
+  (VP1
+    (VP2
+      (V be)
+      (NP2 (N used))
+      (PP2
+        (prep during)
+        (NP2 (N pregnancy) (conj and) (N lactation))))))
+
+betaferon should not be used during pregnancy or if you are trying to become pregnant
+(S
+  (NP1 (NP2 (N betaferon) (N should)) (NP2 (N not)))
+  (VP1
+    (VP2
+      (VP2
+        (V be)
+        (NP2 (N used))
+        (PP2 (prep during) (NP2 (N pregnancy))))
+      (conj or)
+      (VP2
+        (PP2 (prep if) (VP2 (prp you) (V are)))
+        (VP2 (V trying) (NP2 (N to)))))
+    (VP2 (VP2 (V become)) (adjP (adj pregnant)))))
+
+if you wish to become pregnant discuss the matter with your doctor first
+(S
+  (VP1
+    (VP2
+      (VP2
+        (PP2 (prep if) (VP2 (prp you) (VP2 (V wish) (NP2 (N to)))))
+        (VP2 (V become)))
+      (adjP (adj pregnant))))
+  (NP1 (NP2 (N discuss) (N the)))
+  (VP1
+    (VP2 (VP2 (V matter) (NP2 (N with))) (adjP (adj your)))
+    (VP2 (NP2 (N doctor)) (advP (adv first)))))
+
+while using betaferon women of childbearing age should take appropriate contraceptive measures
+(S
+  (VP1 (NP1 (NP2 (N while))) (VP2 (V using)))
+  (NP1 (NP2 (N betaferon)) (NP2 (N women)))
+  (VP1
+    (VP2
+      (PP2 (prep of) (VP2 (V childbearing)))
+      (VP2 (NP2 (N age)) (md should)))
+    (NP1
+      (NP2 (N take))
+      (NP2
+        (adjP (adj appropriate) (adj contraceptive))
+        (NP2 (N measures))))))
+
+if you do become pregnant you should stop your treatment and contact your doctor immediately
+(S
+  (VP1 (NP1 (NP2 (N if)) (NP2 (prp you) (N do))) (VP2 (V become)))
+  (NP1
+    (NP2
+      (adjP (adj pregnant))
+      (NP2 (prp you) (NP2 (N should) (N stop))))
+    (NP2 (prp your) (N treatment)))
+  (VP1
+    (NP1 (NP2 (N and)) (NP2 (N contact) (N your)))
+    (VP2 (NP2 (N doctor)) (advP (adv immediately)))))
+
+it is not known whether interferon beta1b is excreted in human milk
+(S
+  (NP1
+    (NP2 (prp it) (N is))
+    (NP2 (N not) (PP2 (adjP (adj known)) (prep whether))))
+  (VP1
+    (NP1 (NP2 (N interferon) (N beta1b)) (NP2 (N is)))
+    (VP2 (V excreted)))
+  (PP1 (PP2 (prep in) (NP2 (adjP (adj human)) (NP2 (N milk))))))
+
+what to be aware of if you are taking any other medicine interactions
+(S
+  (VP1
+    (NP1 (NP2 (wp what) (NP2 (N to))))
+    (VP2 (VP2 (V be)) (adjP (adj aware))))
+  (NP1 (NP2 (N of)))
+  (VP1
+    (VP2 (PP2 (prep if) (NP2 (N you))) (VP2 (V are)))
+    (NP1
+      (NP2 (N taking))
+      (NP2
+        (det any)
+        (adjP (adj other) (adj medicine))
+        (N interactions)))))
+
+with the exception of corticoids or acth betaferon should not be used with substances modifying the immune system response
+(S
+  (PP1 (PP2 (prep with) (NP2 (N the))))
+  (NP1
+    (NP2
+      (N exception)
+      (PP2
+        (prep of)
+        (VP2
+          (NP2
+            (NP2 (N corticoids))
+            (conj or)
+            (NP2 (N acth) (N betaferon)))
+          (md should)
+          (VP2 (advP (adv not)) (VP2 (V be) (V used)))))))
+  (VP1
+    (VP2
+      (PP2 (prep with) (NP2 (N substances)))
+      (VP2 (V modifying) (NP2 (N the))))
+    (NP1 (NP2 (N immune) (N system)) (NP2 (N response)))))
+
+how is betaferon used
+(S
+  (VP1
+    (VP2 (wp how) (VP2 (V is) (NP2 (N betaferon))))
+    (VP2 (V used))))
+
+dosage and administration
+(S (NP1 (NP2 (N dosage) (conj and) (N administration))))
+
+the treatment with betaferon should be initiated under the supervision of a physician experienced in the treatment of the disease
+(S
+  (NP1 (NP2 (N the)) (NP2 (N treatment)))
+  (VP1
+    (VP2
+      (PP2
+        (prep with)
+        (VP2
+          (NP2 (N betaferon))
+          (md should)
+          (VP2 (V be) (V initiated))))
+      (VP2
+        (PP2 (prep under) (NP2 (N the) (N supervision)))
+        (VP2
+          (PP2 (prep of) (NP2 (det a) (N physician)))
+          (VP2 (V experienced) (NP2 (N in) (N the))))))
+    (NP1 (NP2 (N treatment) (N of)) (NP2 (det the) (N disease)))))
+
+at the present time it is not known how long treatment with betaferon should last
+(S
+  (PP1 (PP2 (prep at) (NP2 (det the) (adjP (adj present)) (N time))))
+  (NP1 (NP2 (N it)))
+  (VP1
+    (NP1
+      (NP2 (N is) (N not))
+      (NP2
+        (adjP (adj known))
+        (NP2 (wp how) (NP2 (adjP (adj long)) (NP2 (N treatment))))))
+    (VP2
+      (VP2 (NP2 (N with) (N betaferon)) (md should))
+      (adjP (adj last)))))
+
+effectiveness of this therapy for more than two years has not been established
+(S
+  (VP1
+    (NP1
+      (NP2 (N effectiveness) (PP2 (prep of) (det this)))
+      (NP2 (N therapy) (PP2 (prep for) (adv more))))
+    (VP2
+      (PP2 (prep than) (NP2 (CDP (cd two)) (N years)))
+      (VP2 (V has))))
+  (NP1 (NP2 (N not)))
+  (VP1 (VP2 (V been)) (VP2 (V established))))
+
+the duration of treatment will be decided by your doctor
+(S
+  (NP1
+    (NP2 (N the))
+    (NP2 (N duration) (PP2 (prep of) (NP2 (N treatment)))))
+  (VP1 (VP2 (md will) (V be)) (VP2 (V decided)))
+  (PP1 (PP2 (prep by) (NP2 (prp your) (N doctor)))))
+
+treatment is not recommended if you have had fewer than two ms attacks in the previous two years
+(S
+  (NP1 (NP2 (N treatment)))
+  (VP1
+    (VP2
+      (V is)
+      (NP2
+        (N not)
+        (PP2
+          (VP2 (V recommended))
+          (prep if)
+          (VP2
+            (VP2 (prp you) (VP2 (V have) (V had)))
+            (adjP (adj fewer)))))
+      (PP2 (prep than) (NP2 (CDP (cd two)) (N ms))))
+    (NP1
+      (NP2
+        (N attacks)
+        (PP2 (prep in) (NP2 (N the) (CDP (adj previous) (cd two)))))
+      (NP2 (N years)))))
+
+10 ml of the prepared betaferon solution for injection is then injected subcutaneously under the skin every other day
+(S
+  (VP1
+    (NP1 (NP2 (CDP (cd 10)) (N ml)) (NP2 (N of) (N the)))
+    (VP2 (V prepared) (NP2 (N betaferon) (N solution))))
+  (NP1 (NP2 (N for) (N injection)) (NP2 (N is)))
+  (VP1
+    (VP2
+      (advP (adv then))
+      (VP2 (VP2 (V injected)) (advP (adv subcutaneously))))
+    (VP2
+      (PP2 (prep under) (det the))
+      (VP2 (V skin) (NP2 (det every) (adjP (adj other)) (N day))))))
+
+this is equal to 025 mg 8 million iu
+(S
+  (NP1 (NP2 (N this)))
+  (VP1
+    (VP2 (V is) (NP2 (adjP (adj equal)) (NP2 (N to) (CDP (cd 025)))))
+    (NP1 (NP2 (N mg) (CDP (cd 8) (cd million))) (NP2 (N iu)))))
+
+to assist you in subcutaneous selfadministration of betaferon detailed instructions for selfinjection are provided with this leaflet
+(S
+  (VP1
+    (NP1 (NP2 (N to)))
+    (VP2
+      (VP2
+        (V assist)
+        (NP2
+          (N you)
+          (PP2
+            (prep in)
+            (NP2
+              (adjP (adj subcutaneous))
+              (NP2 (N selfadministration)))))
+        (PP2 (prep of) (NP2 (N betaferon))))
+      (adjP (adj detailed))))
+  (NP1 (NP2 (N instructions)))
+  (VP1
+    (VP2
+      (PP2 (prep for) (NP2 (adjP (adj selfinjection)) (NP2 (N are))))
+      (VP2 (V provided) (NP2 (N with))))
+    (NP2 (N this) (N leaflet))))
+
+these instructions also tell you how the betaferon solution for injection is prepared
+(S
+  (VP1 (VP2 (NP2 (det these) (N instructions)) (advP (adv also))))
+  (NP1 (NP2 (N tell) (N you)) (NP2 (N how) (N the)))
+  (VP1
+    (NP1 (NP2 (N betaferon)) (NP2 (N solution)))
+    (VP2
+      (VP2 (PP2 (prep for) (NP2 (N injection))) (VP2 (V is)))
+      (adjP (adj prepared)))))
+
+what to do if you miss an injection
+(S
+  (NP1 (NP2 (wp what) (NP2 (N to))) (NP2 (N do)))
+  (VP1
+    (VP2 (PP2 (prep if) (NP2 (N you))) (VP2 (V miss)))
+    (NP2 (det an) (N injection))))
+
+if you forget to administer your injection at the correct time you should give it as soon as you remember
+(S
+  (VP1
+    (VP2 (PP2 (prep if) (NP2 (N you))) (VP2 (V forget)))
+    (NP2 (N to)))
+  (NP1 (NP2 (N administer) (N your)))
+  (VP1
+    (NP1
+      (NP2 (N injection) (PP2 (prep at) (det the)))
+      (NP2
+        (adjP (adj correct))
+        (NP2
+          (N time)
+          (PP2
+            (VP2
+              (NP2 (N you))
+              (md should)
+              (VP2 (V give) (NP2 (N it))))
+            (prep as)
+            (VP2 (advP (adv soon)) (N as))))))
+    (VP2 (prp you) (V remember))))
+
+your next injection should be given 48 hours later
+(S
+  (NP1 (NP2 (adjP (adj your) (adj next)) (NP2 (N injection))))
+  (VP1
+    (VP2 (md should) (V be))
+    (VP2
+      (VP2 (V given) (NP2 (CDP (cd 48)) (N hours)))
+      (advP (adv later)))))
+
+what effect could an overdose of betaferon have
+(S
+  (VP1
+    (VP2
+      (NP2 (wp what) (NP2 (N effect)))
+      (md could)
+      (NP2 (det an) (N overdose)))
+    (VP2 (PP2 (prep of) (NP2 (N betaferon))) (VP2 (V have)))))
+
+overdosage
+(S (NP1 (NP2 (N overdosage))))
+
+administration of many times the dose of betaferon recommended for the treatment of ms did not lead to lifethreatening situations
+(S
+  (VP1
+    (NP1
+      (NP2
+        (N administration)
+        (PP2
+          (prep of)
+          (NP2 (adjP (adj many)) (NP2 (N times) (N the)))))
+      (NP2 (N dose) (PP2 (prep of) (NP2 (N betaferon)))))
+    (VP2 (V recommended) (NP2 (N for) (N the))))
+  (NP1
+    (NP2 (N treatment) (PP2 (prep of) (NP2 (N ms))))
+    (NP2 (N did) (N not)))
+  (VP1
+    (VP2 (VP2 (V lead) (NP2 (N to))) (adjP (adj lifethreatening)))
+    (NP2 (N situations))))
+
+however in the case of accidental overdosage please consult the doctor who has prescribed betaferon for you
+(S
+  (VP1 (VP2 (advP (adv however)) (N in)) (NP1 (NP2 (N the))))
+  (NP1
+    (NP2 (N case) (N of))
+    (NP2 (adjP (adj accidental)) (NP2 (N overdosage))))
+  (VP1
+    (NP1 (NP2 (N please) (N consult)) (NP2 (N the) (N doctor)))
+    (VP2
+      (wp who)
+      (VP2
+        (V has)
+        (NP2 (adjP (adj prescribed)) (NP2 (N betaferon)))
+        (PP2 (prep for) (NP2 (N you)))))))
+
+also if by mistake you administer your injection too frequently eg
+(S
+  (VP1
+    (VP2 (advP (adv also)) (N if))
+    (VP2
+      (PP2 (prep by) (NP2 (N mistake)))
+      (VP2 (prp you) (V administer))))
+  (NP1 (NP2 (N your)))
+  (VP1
+    (NP1 (NP2 (N injection)))
+    (VP2 (advP (adv too) (adv frequently)) (V eg))))
+
+are there any side effects during the use of betaferon
+(S
+  (NP1 (NP2 (N are)))
+  (VP1
+    (VP2 (advP (adv there)) (N any))
+    (NP1
+      (NP2
+        (adjP (adj side))
+        (NP2 (N effects) (PP2 (prep during) (NP2 (det the) (N use)))))
+      (NP2 (N of) (N betaferon)))))
+
+ injection site reactions including inflammation pain hypersensitivity skin celldeath necrosis and nonspecific reactions occur frequently
+(S
+  (VP1
+    (NP1 (NP2 (N injection) (N site)) (NP2 (N reactions)))
+    (VP2 (V including) (NP2 (N inflammation))))
+  (NP1 (NP2 (N pain) (N hypersensitivity)))
+  (VP1
+    (VP2 (V skin) (NP2 (N celldeath)))
+    (VP2
+      (NP2
+        (NP2 (N necrosis))
+        (conj and)
+        (NP2 (adjP (adj nonspecific)) (NP2 (N reactions) (N occur))))
+      (advP (adv frequently)))))
+
+the occurrence of injection site reactions usually decreases over time
+(S
+  (NP1
+    (NP2 (N the))
+    (NP2 (N occurrence) (PP2 (prep of) (NP2 (N injection) (N site)))))
+  (VP1
+    (VP2 (NP2 (N reactions)) (advP (adv usually)))
+    (NP2 (N decreases) (PP2 (prep over) (NP2 (N time))))))
+
+flulike symptoms fever chills muscular pain a general feeling of being unwell or sweating have been seen frequently
+(S
+  (NP1 (NP2 (N flulike) (N symptoms)) (NP2 (N fever) (N chills)))
+  (VP1
+    (NP1
+      (NP2 (adjP (adj muscular)) (NP2 (N pain) (N a)))
+      (NP2 (adjP (adj general)) (NP2 (N feeling))))
+    (VP2
+      (VP2
+        (PP2
+          (prep of)
+          (VP2
+            (V being)
+            (NP2
+              (NP2 (N unwell))
+              (conj or)
+              (NP2 (N sweating) (N have)))))
+        (VP2 (V been) (V seen)))
+      (advP (adv frequently)))))
+
+the occurrence of the symptoms decreased over time
+(S
+  (NP1 (NP2 (N the)) (NP2 (N occurrence) (PP2 (prep of) (det the))))
+  (VP1 (NP1 (NP2 (N symptoms))) (VP2 (V decreased)))
+  (PP1 (PP2 (prep over) (NP2 (N time)))))
+
+menstrual disorders may occur in premenopausal women
+(S
+  (VP1
+    (VP2
+      (NP2 (adjP (adj menstrual)) (NP2 (N disorders)))
+      (md may)
+      (VP2 (VP2 (V occur) (NP2 (N in))) (adjP (adj premenopausal))))
+    (NP2 (N women))))
+
+central nervous system cns related adverse events including depression anxiety emotional instability loss of identity or reality depersonalization convulsions suicide attempts and confusion have been observed
+(S
+  (NP1
+    (NP2 (adjP (adj central) (adj nervous)) (NP2 (N system) (N cns)))
+    (NP2 (adjP (adj related) (adj adverse)) (NP2 (N events))))
+  (VP1
+    (VP2 (V including) (NP2 (N depression) (N anxiety)))
+    (NP1
+      (NP2 (adjP (adj emotional)) (NP2 (N instability)))
+      (NP2 (N loss) (PP2 (prep of) (NP2 (N identity))))))
+  (conj or)
+  (NP1 (NP2 (N reality)))
+  (VP1
+    (NP1
+      (NP2 (N depersonalization) (N convulsions))
+      (NP2
+        (NP2 (N suicide) (N attempts))
+        (conj and)
+        (NP2 (N confusion))))
+    (VP2 (VP2 (V have) (V been)) (adjP (adj observed)))))
+
+serious hypersensitivity reactions are rare
+(S
+  (NP1
+    (NP2 (adjP (adj serious)) (NP2 (N hypersensitivity)))
+    (NP2 (N reactions)))
+  (VP1 (VP2 (VP2 (V are)) (adjP (adj rare)))))
+
+if a severe reaction occurs consult your doctor immediately
+(S
+  (PP1
+    (PP2 (prep if) (NP2 (det a) (adjP (adj severe)) (N reaction))))
+  (NP1 (NP2 (N occurs)))
+  (VP1
+    (VP2 (VP2 (V consult)) (adjP (adj your)))
+    (VP2 (NP2 (N doctor)) (advP (adv immediately)))))
+
+the number of white blood cells can decrease and the activity of enzymes which are closely related to the function of the liver may increase
+(S
+  (VP1
+    (NP1
+      (NP2 (N the))
+      (NP2
+        (N number)
+        (PP2
+          (prep of)
+          (VP2
+            (NP2 (adjP (adj white)) (NP2 (N blood) (N cells)))
+            (md can)
+            (NP2
+              (NP2 (N decrease))
+              (conj and)
+              (NP2 (N the) (N activity)))))))
+    (VP2
+      (PP2 (prep of) (NP2 (N enzymes)))
+      (VP2 (NP2 (wp which) (NP2 (N are))) (advP (adv closely)))))
+  (NP1
+    (NP2 (adjP (adj related)) (NP2 (N to) (N the)))
+    (NP2 (N function) (PP2 (prep of) (NP2 (N the) (N liver)))))
+  (VP1 (NP1 (NP2 (N may))) (VP2 (V increase))))
+
+if side effects are severe or if you notice any other side effects please inform your doctor
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (N side) (N effects)))
+      (VP2
+        (VP2 (VP2 (V are)) (adjP (adj severe)))
+        (conj or)
+        (VP2
+          (PP2
+            (prep if)
+            (VP2
+              (prp you)
+              (VP2
+                (V notice)
+                (NP2
+                  (det any)
+                  (adjP (adj other) (adj side))
+                  (N effects)))))
+          (VP2 (V please) (V inform)))))
+    (NP2 (prp your) (N doctor))))
+
+how should betaferon be stored
+(S
+  (NP1 (NP2 (N how)))
+  (md should)
+  (NP1 (NP2 (N betaferon)))
+  (VP1 (VP2 (V be)) (VP2 (V stored))))
+
+betaferon must be kept cold 28°c
+(S
+  (VP1
+    (VP2 (NP2 (N betaferon)) (md must) (VP2 (V be)))
+    (VP2 (VP2 (VP2 (V kept)) (adjP (adj cold))) (adjP (adj 28°c)))))
+
+store it in a refrigerator but not in a freezer or the freezing compartment before reconstitution preparing the betaferon solution for injection
+(S
+  (NP1 (NP2 (N store)))
+  (VP1
+    (VP2
+      (prp it)
+      (VP2
+        (PP2
+          (prep in)
+          (NP2
+            (NP2
+              (NP2 (N a) (N refrigerator))
+              (conj but)
+              (NP2 (N not) (PP2 (prep in) (NP2 (N a) (N freezer)))))
+            (conj or)
+            (NP2 (det the) (adjP (adj freezing)) (N compartment))))
+        (VP2
+          (PP2 (prep before) (NP2 (N reconstitution)))
+          (VP2 (V preparing) (NP2 (N the) (N betaferon))))))
+    (NP2 (N solution)))
+  (PP1 (PP2 (prep for) (NP2 (N injection)))))
+
+if after reconstitution you do not inject betaferon at once you can store the reconstituted solution in a refrigerator but not in a freezer or the freezing compartment up to 3 hours
+(S
+  (NP1
+    (NP2 (N if) (PP2 (prep after) (NP2 (N reconstitution) (N you))))
+    (NP2
+      (N do)
+      (PP2
+        (VP2 (advP (adv not)) (VP2 (V inject) (NP2 (N betaferon))))
+        (prep at)
+        (VP2 (V once)))))
+  (VP1
+    (VP2
+      (NP2 (N you))
+      (md can)
+      (VP2
+        (V store)
+        (NP2 (det the) (adjP (adj reconstituted)) (N solution))
+        (PP2
+          (prep in)
+          (NP2
+            (NP2
+              (NP2 (N a) (N refrigerator))
+              (conj but)
+              (NP2 (N not) (PP2 (prep in) (NP2 (N a) (N freezer)))))
+            (conj or)
+            (NP2 (N the))))))
+    (NP1
+      (NP2
+        (adjP (adj freezing))
+        (NP2
+          (N compartment)
+          (PP2 (prep up) (NP2 (N to) (CDP (cd 3))))))
+      (NP2 (N hours)))))
+
+please note the expiry date on the pack
+(S
+  (NP1 (NP2 (N please)))
+  (VP1 (VP2 (V note)) (NP2 (det the) (adjP (adj expiry)) (N date)))
+  (PP1 (PP2 (prep on) (NP2 (N the) (N pack)))))
+
+do not use after this date
+(S
+  (NP1 (NP2 (N do) (N not)))
+  (VP1 (VP2 (V use) (NP2 (N after))) (NP2 (N this) (N date))))
+
+store all drugs properly and keep them out of the reach of children
+(S
+  (NP1 (NP2 (N store)))
+  (VP1
+    (VP2
+      (advP (adv all))
+      (VP2
+        (VP2 (NP2 (N drugs)) (advP (adv properly)))
+        (conj and)
+        (VP2
+          (V keep)
+          (NP2
+            (prp them)
+            (NP2 (N out) (PP2 (prep of) (NP2 (N the) (N reach)))))
+          (PP2 (prep of) (NP2 (N children))))))))
+
+package insert was last updated on
+(S
+  (NP1 (NP2 (N package)) (NP2 (N insert)))
+  (VP1 (VP2 (V was)))
+  (PP1 (PP2 (adjP (adj last) (adj updated)) (prep on))))
+
+july 12 1995
+(S (NP1 (NP2 (N july) (CDP (cd 12) (cd 1995)))))
+
+annex
+(S (NP1 (NP2 (N annex))))
+
+selfinjection procedure
+(S (NP1 (NP2 (N selfinjection) (N procedure))))
+
+please read the instructions carefully and follow them step by step
+(S
+  (NP1
+    (NP2
+      (N please)
+      (PP2
+        (VP2
+          (VP2
+            (VP2 (V read) (NP2 (N the) (N instructions)))
+            (advP (adv carefully)))
+          (conj and)
+          (VP2 (V follow) (NP2 (prp them) (NP2 (N step)))))
+        (prep by)
+        (VP2 (V step))))))
+
+your doctor or his/her assistant will instruct and assist you in learning the procedure and the technique of selfadministration
+(S
+  (NP1 (NP2 (N your)))
+  (VP1
+    (VP2
+      (NP2
+        (NP2 (N doctor))
+        (conj or)
+        (NP2 (N his/her) (N assistant)))
+      (md will)))
+  (PP1
+    (PP2
+      (VP2
+        (VP2 (V instruct))
+        (conj and)
+        (VP2 (V assist) (NP2 (N you))))
+      (prep in)
+      (VP2
+        (V learning)
+        (NP2
+          (NP2 (N the) (N procedure))
+          (conj and)
+          (NP2 (N the) (N technique)))
+        (PP2 (prep of) (NP2 (N selfadministration)))))))
+
+the instructions comprise the following main steps
+(S
+  (VP1 (NP1 (NP2 (N the)) (NP2 (N instructions))) (VP2 (V comprise)))
+  (NP1 (NP2 (N the)))
+  (VP1 (VP2 (VP2 (V following)) (adjP (adj main))) (NP2 (N steps))))
+
+preparing for selfinjection
+(S
+  (VP1
+    (VP2
+      (VP2 (V preparing) (NP2 (N for)))
+      (adjP (adj selfinjection)))))
+
+drawing up the diluent sodium chloride solution into the syringe
+(S
+  (VP1
+    (VP2 (VP2 (V drawing)) (advP (adv up)))
+    (NP1
+      (NP2 (det the) (adjP (adj diluent) (adj sodium)) (N chloride))
+      (NP2
+        (N solution)
+        (PP2 (prep into) (NP2 (det the) (N syringe)))))))
+
+injecting the required volume of diluent 12 ml into the vial of betaferon
+(S
+  (VP1 (VP2 (V injecting)))
+  (NP1 (NP2 (N the)))
+  (VP1
+    (VP2
+      (V required)
+      (NP2
+        (N volume)
+        (PP2 (prep of) (NP2 (N diluent) (CDP (cd 12)))))
+      (PP2 (adjP (adj ml)) (prep into)))
+    (NP1 (NP2 (N the) (N vial)) (NP2 (N of) (N betaferon)))))
+
+drawing up the required volume of the solution for injection 10 ml into the syringe
+(S
+  (VP1 (VP2 (VP2 (V drawing)) (advP (adv up))))
+  (NP1 (NP2 (N the)))
+  (VP1
+    (VP2 (V required) (NP2 (N volume)) (PP2 (prep of) (det the)))
+    (NP1
+      (NP2
+        (N solution)
+        (PP2 (prep for) (NP2 (N injection) (CDP (cd 10)))))
+      (NP2 (N ml) (PP2 (prep into) (NP2 (det the) (N syringe)))))))
+
+preparing for selfinjection
+(S
+  (VP1
+    (VP2
+      (VP2 (V preparing) (NP2 (N for)))
+      (adjP (adj selfinjection)))))
+
+collect
+(S (VP1 (VP2 (V collect))))
+
+ all your equipment before you begin the process
+(S
+  (VP1
+    (VP2 (advP (adv all)) (N your))
+    (NP1
+      (NP2
+        (N equipment)
+        (PP2
+          (prep before)
+          (VP2 (prp you) (VP2 (V begin) (NP2 (N the))))))
+      (NP2 (N process)))))
+
+you will need
+(S (VP1 (VP2 (prp you) (md will)) (VP2 (V need))))
+
+vial of diluent for betaferonsodium chloride solution 054
+(S
+  (NP1
+    (NP2
+      (N vial)
+      (PP2
+        (prep of)
+        (NP2
+          (N diluent)
+          (PP2 (prep for) (NP2 (N betaferonsodium) (N chloride))))))
+    (NP2 (N solution) (CDP (cd 054)))))
+
+vial of betaferon
+(S (NP1 (NP2 (N vial) (PP2 (prep of) (NP2 (N betaferon))))))
+
+2ml syringe
+(S (NP1 (NP2 (adjP (adj 2ml)) (NP2 (N syringe)))))
+
+21gauge needle
+(S (NP1 (NP2 (adjP (adj 21gauge)) (NP2 (N needle)))))
+
+27gauge needle
+(S (NP1 (NP2 (adjP (adj 27gauge)) (NP2 (N needle)))))
+
+alcohol wipes
+(S (NP1 (NP2 (N alcohol)) (NP2 (N wipes))))
+
+disposal unit a container for used syringes and needles
+(S
+  (NP1 (NP2 (N disposal)))
+  (VP1
+    (NP1 (NP2 (N unit) (N a)) (NP2 (N container) (N for)))
+    (VP2
+      (VP2 (V used) (NP2 (N syringes)))
+      (conj and)
+      (NP2 (N needles)))))
+
+wash
+(S (VP1 (VP2 (V wash))))
+
+ your hands thoroughly with soap and water
+(S
+  (NP1 (NP2 (prp your) (N hands)))
+  (VP1
+    (VP2 (advP (adv thoroughly)) (N with))
+    (NP2 (N soap) (conj and) (N water))))
+
+remove
+(S (VP1 (VP2 (V remove))))
+
+ the protective caps from both vials
+(S
+  (NP1
+    (NP2 (N the))
+    (NP2
+      (adjP (adj protective))
+      (NP2 (N caps) (PP2 (prep from) (NP2 (det both) (N vials)))))))
+
+use alcohol wipes to
+(S (VP1 (VP2 (V use) (NP2 (N alcohol) (N wipes))) (NP2 (N to))))
+
+clean
+(S (VP1 (VP2 (V clean))))
+
+ the tops of the vials move in one direction and use one wipe per vial
+(S
+  (NP1 (NP2 (N the)) (NP2 (N tops) (PP2 (prep of) (det the))))
+  (VP1 (NP1 (NP2 (N vials))) (VP2 (V move)))
+  (PP1
+    (PP2
+      (prep in)
+      (NP2
+        (NP2 (N one) (N direction))
+        (conj and)
+        (NP2 (adjP (adj use)) (NP2 (N one) (N wipe)))))
+    (PP2 (prep per) (NP2 (N vial)))))
+
+note
+(S (VP1 (VP2 (V note))))
+
+leave
+(S (VP1 (VP2 (V leave))))
+
+ an alcohol wipe on top of each vial until you are ready to use it
+(S
+  (NP1
+    (NP2 (det an) (N alcohol))
+    (NP2
+      (N wipe)
+      (PP2
+        (prep on)
+        (NP2 (N top) (PP2 (prep of) (NP2 (det each) (N vial)))))))
+  (VP1
+    (VP2
+      (PP2 (prep until) (NP2 (N you)))
+      (VP2 (V are) (NP2 (adjP (adj ready)) (NP2 (N to)))))
+    (NP2 (N use) (N it))))
+
+drawing up the diluent sodium chloride solution into the syringe
+(S
+  (VP1
+    (VP2 (VP2 (V drawing)) (advP (adv up)))
+    (NP1
+      (NP2 (det the) (adjP (adj diluent) (adj sodium)) (N chloride))
+      (NP2
+        (N solution)
+        (PP2 (prep into) (NP2 (det the) (N syringe)))))))
+
+only the vial of diluent liquid that comes inside your prescription package should be used to dissolve the white powder in the betaferon vial
+(S
+  (VP1
+    (VP2
+      (VP2
+        (PP2
+          (VP2 (VP2 (advP (adv only)) (N the)) (adjP (adj vial)))
+          (prep of)
+          (VP2
+            (PP2
+              (VP2
+                (PP2 (adjP (adj diluent) (adj liquid)) (prep that))
+                (VP2 (V comes)))
+              (prep inside)
+              (VP2
+                (NP2
+                  (adjP (adj your))
+                  (NP2 (N prescription) (N package)))
+                (md should)))
+            (VP2 (V be) (NP2 (N used) (N to)))))
+        (VP2
+          (V dissolve)
+          (NP2 (det the) (adjP (adj white)) (N powder))
+          (PP2 (prep in) (NP2 (N the) (N betaferon)))))
+      (adjP (adj vial)))))
+
+resting your hands on a stable surface
+(S
+  (VP1
+    (VP2
+      (VP2
+        (V resting)
+        (NP2 (prp your) (N hands))
+        (PP2 (prep on) (det a)))
+      (adjP (adj stable)))
+    (NP1 (NP2 (N surface)))))
+
+remove
+(S (VP1 (VP2 (V remove))))
+
+ the syringe from its wrapping
+(S
+  (NP1
+    (NP2 (N the))
+    (NP2
+      (N syringe)
+      (PP2 (prep from) (VP2 (prp its) (VP2 (V wrapping)))))))
+
+do not touch the tip nozzle of the syringe
+(S
+  (NP1 (NP2 (N do)))
+  (VP1
+    (VP2 (advP (adv not)) (VP2 (V touch) (NP2 (N the) (N tip))))
+    (NP1
+      (NP2 (adjP (adj nozzle)) (NP2 (N of)))
+      (NP2 (N the) (N syringe)))))
+
+take the 21gauge needle out of its wrapping and place it firmly
+(S
+  (NP1
+    (NP2 (N take))
+    (NP2 (det the) (adjP (adj 21gauge) (adj needle)) (N out)))
+  (VP1
+    (NP1 (NP2 (N of)))
+    (VP2
+      (prp its)
+      (VP2
+        (VP2 (VP2 (V wrapping)) (conj and) (NP2 (N place) (N it)))
+        (advP (adv firmly))))))
+
+remove
+(S (VP1 (VP2 (V remove))))
+
+ the needle guard from the needle
+(S
+  (NP1
+    (NP2 (N the) (N needle))
+    (NP2 (N guard) (PP2 (prep from) (NP2 (det the) (N needle))))))
+
+do not touch the needle
+(S
+  (NP1 (NP2 (N do)))
+  (VP1
+    (VP2 (advP (adv not)) (VP2 (V touch) (NP2 (N the))))
+    (NP2 (N needle))))
+
+pull back
+(S (VP1 (VP2 (VP2 (V pull)) (adjP (adj back)))))
+
+note read the label on the vials  find the diluent vial and throw away the alcohol wipe on top of it
+(S
+  (NP1 (NP2 (N note) (N read)) (NP2 (N the) (N label)))
+  (VP1
+    (VP2
+      (VP2
+        (PP2 (prep on) (NP2 (N the) (N vials)))
+        (VP2 (V find) (NP2 (det the) (adjP (adj diluent)) (N vial))))
+      (conj and)
+      (VP2 (V throw) (NP2 (N away))))
+    (NP1
+      (NP2 (N the) (N alcohol))
+      (NP2 (N wipe) (PP2 (prep on) (NP2 (N top))))))
+  (PP1 (PP2 (prep of) (NP2 (N it)))))
+
+holding the vial of diluent on a stable surface slowly insert the needle straight through the rubber stopper into the top of the vial
+(S
+  (VP1
+    (VP2
+      (VP2
+        (V holding)
+        (NP2 (N the) (N vial))
+        (PP2 (prep of) (NP2 (N diluent) (PP2 (prep on) (NP2 (N a))))))
+      (adjP (adj stable))))
+  (NP1 (NP2 (N surface)))
+  (VP1
+    (VP2
+      (advP (adv slowly))
+      (VP2
+        (V insert)
+        (NP2 (det the) (adjP (adj needle)) (N straight))
+        (PP2 (prep through) (NP2 (N the) (N rubber)))))
+    (NP1
+      (NP2 (N stopper) (PP2 (prep into) (NP2 (N the))))
+      (NP2 (N top) (PP2 (prep of) (NP2 (det the) (N vial)))))))
+
+if you touch a stopper clean it with a fresh alcohol b wipe
+(S
+  (VP1
+    (VP2
+      (PP2
+        (prep if)
+        (VP2 (prp you) (VP2 (V touch) (NP2 (N a) (N stopper)))))
+      (VP2 (V clean) (NP2 (N it)) (PP2 (prep with) (det a))))
+    (NP1
+      (NP2 (adjP (adj fresh)) (NP2 (N alcohol) (N b)))
+      (NP2 (N wipe)))))
+
+if you touch a needle or the tip nozzle of the  syringe throw it away into the disposal unit and start with a new one
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (N you)))
+      (VP2
+        (VP2
+          (VP2 (V touch) (NP2 (N a) (N needle)))
+          (conj or)
+          (NP2 (N the) (N tip)))
+        (adjP (adj nozzle))))
+    (VP2
+      (PP2 (prep of) (NP2 (N the) (N syringe)))
+      (VP2
+        (V throw)
+        (NP2 (prp it) (N away))
+        (PP2 (prep into) (det the)))))
+  (NP1 (NP2 (N disposal) (N unit)) (NP2 (N and)))
+  (VP1
+    (VP2 (VP2 (V start) (NP2 (N with) (N a))) (adjP (adj new)))
+    (NP1 (NP2 (N one)))))
+
+if the needle touches any surface throw it away into the disposal unit and start with a new one
+(S
+  (PP1 (PP2 (prep if) (NP2 (N the))))
+  (NP1
+    (NP2 (adjP (adj needle)) (NP2 (N touches) (N any)))
+    (NP2 (N surface)))
+  (VP1
+    (VP2
+      (V throw)
+      (NP2 (prp it) (N away))
+      (PP2 (prep into) (NP2 (N the) (N disposal))))
+    (NP1
+      (NP2
+        (NP2 (N unit))
+        (conj and)
+        (NP2 (N start) (PP2 (prep with) (det a))))
+      (NP2 (adjP (adj new)) (NP2 (N one))))))
+
+push
+(S (VP1 (VP2 (V push))))
+
+ in the plunger all the way to gently inject air into the vial 
+(S
+  (NP1 (NP2 (N in)) (NP2 (det the) (N plunger)))
+  (VP1
+    (NP1 (NP2 (N all) (N the)) (NP2 (N way) (N to)))
+    (VP2 (advP (adv gently)) (VP2 (V inject) (NP2 (N air)))))
+  (PP1 (PP2 (prep into) (NP2 (N the) (N vial)))))
+
+leave
+(S (VP1 (VP2 (V leave))))
+
+turn the vial of diluent
+(S
+  (VP1
+    (VP2
+      (VP2 (V turn) (NP2 (N the)) (PP2 (adjP (adj vial)) (prep of)))
+      (adjP (adj diluent)))))
+
+upside down
+(S (VP1 (VP2 (VP2 (V upside)) (adjP (adj down)))))
+
+note keep the needle tip in the liquid
+(S
+  (NP1 (NP2 (N note)))
+  (VP1
+    (VP2
+      (VP2
+        (V keep)
+        (NP2 (det the) (adjP (adj needle)) (N tip))
+        (PP2 (prep in) (det the)))
+      (adjP (adj liquid)))))
+
+resting your hands on a stable surface hold the vial and syringe in one hand and slowly
+(S
+  (VP1
+    (VP2
+      (V resting)
+      (NP2 (prp your) (N hands))
+      (PP2 (prep on) (NP2 (det a) (adjP (adj stable)) (N surface))))
+    (NP1 (NP2 (N hold) (N the)) (NP2 (N vial))))
+  (NP1 (NP2 (N and) (N syringe)) (NP2 (N in)))
+  (VP1
+    (NP1 (NP2 (N one)))
+    (VP2 (NP2 (N hand) (N and)) (advP (adv slowly)))))
+
+pull back
+(S (VP1 (VP2 (VP2 (V pull)) (adjP (adj back)))))
+
+keeping the vial upside down gently
+(S
+  (VP1
+    (VP2 (V keeping) (NP2 (N the)))
+    (VP2
+      (VP2 (NP2 (N vial)) (advP (adv upside)))
+      (advP (adv down) (adv gently)))))
+
+tap
+(S (VP1 (VP2 (V tap))))
+
+carefully
+(S (NP1 (NP2 (N carefully))))
+
+push
+(S (VP1 (VP2 (V push))))
+
+ in the plunger to eject only the air through the needle
+(S
+  (NP1 (NP2 (N in) (N the)) (NP2 (N plunger) (N to)))
+  (VP1 (VP2 (V eject) (NP2 (N only) (N the))) (NP2 (N air)))
+  (PP1 (PP2 (prep through) (NP2 (det the) (N needle)))))
+
+make sure that the syringe contains 12 ml of diluent
+(S
+  (NP1 (NP2 (N make)) (NP2 (N sure) (PP2 (prep that) (det the))))
+  (VP1
+    (NP1 (NP2 (N syringe)))
+    (VP2
+      (V contains)
+      (NP2 (CDP (cd 12)) (N ml))
+      (PP2 (prep of) (NP2 (N diluent))))))
+
+remove
+(S (VP1 (VP2 (V remove))))
+
+injecting the required volume of diluent 12 ml into the vial of betaferon
+(S
+  (VP1 (VP2 (V injecting)))
+  (NP1 (NP2 (N the)))
+  (VP1
+    (VP2
+      (V required)
+      (NP2
+        (N volume)
+        (PP2 (prep of) (NP2 (N diluent) (CDP (cd 12)))))
+      (PP2 (adjP (adj ml)) (prep into)))
+    (NP1 (NP2 (N the) (N vial)) (NP2 (N of) (N betaferon)))))
+
+ note find the betaferon vial and throw away the alcohol wipe on top of it
+(S
+  (NP1 (NP2 (N note)))
+  (VP1
+    (VP2
+      (VP2
+        (VP2 (V find) (NP2 (det the) (N betaferon)))
+        (adjP (adj vial)))
+      (conj and)
+      (VP2 (V throw) (NP2 (N away))))
+    (NP1
+      (NP2 (N the) (N alcohol))
+      (NP2 (N wipe) (PP2 (prep on) (NP2 (N top))))))
+  (PP1 (PP2 (prep of) (NP2 (N it)))))
+
+holding the betaferon vial on a stable surface slowly
+(S
+  (VP1
+    (VP2 (V holding) (NP2 (N the) (N betaferon)))
+    (VP2
+      (NP2
+        (N vial)
+        (PP2 (prep on) (NP2 (det a) (adjP (adj stable)) (N surface))))
+      (advP (adv slowly)))))
+
+insert
+(S (VP1 (VP2 (V insert))))
+
+ the needle of the syringe containing 12 ml of liquid all the way through the stopper of the vial
+(S
+  (NP1
+    (NP2 (det the) (adjP (adj needle)) (N of))
+    (NP2 (N the) (N syringe)))
+  (VP1
+    (VP2
+      (VP2
+        (V containing)
+        (NP2 (CDP (cd 12)) (N ml))
+        (PP2 (prep of) (NP2 (N liquid))))
+      (advP (adv all)))
+    (NP1
+      (NP2 (N the))
+      (NP2 (N way) (PP2 (prep through) (NP2 (det the) (N stopper))))))
+  (PP1 (PP2 (prep of) (NP2 (N the) (N vial)))))
+
+push the plunger down slowly
+(S
+  (VP1
+    (VP2
+      (V push)
+      (NP2 (N the) (N plunger))
+      (PP2 (prep down) (NP2 (N slowly))))))
+
+directing
+(S (VP1 (VP2 (V directing))))
+
+ the needle toward the side of the vial to allow the liquid to run down the inside wall injecting diluent directly onto the powder will cause excess foaming
+(S
+  (VP1
+    (NP1
+      (NP2 (N the) (PP2 (adjP (adj needle)) (prep toward)))
+      (NP2 (N the) (N side)))
+    (VP2
+      (PP2 (prep of) (NP2 (det the) (adjP (adj vial)) (N to)))
+      (VP2
+        (PP2 (prep allow) (NP2 (det the) (adjP (adj liquid)) (N to)))
+        (VP2 (V run) (NP2 (adjP (adj down)) (NP2 (N the)))))))
+  (NP1
+    (NP2 (N inside))
+    (NP2
+      (N wall)
+      (PP2
+        (VP2
+          (VP2 (V injecting) (NP2 (N diluent)))
+          (advP (adv directly)))
+        (prep onto)
+        (VP2 (NP2 (N the) (N powder)) (md will)))))
+  (VP1 (VP2 (VP2 (V cause)) (adjP (adj excess))) (NP2 (N foaming))))
+
+make sure that the needle
+(S
+  (NP1
+    (NP2 (N make) (PP2 (adjP (adj sure)) (prep that)))
+    (NP2 (N the) (N needle))))
+
+does not come into contact
+(S
+  (VP1
+    (VP2
+      (V does)
+      (NP2 (N not))
+      (PP2 (VP2 (V come)) (prep into) (VP2 (V contact))))))
+
+ with the powder or the resulting solution
+(S
+  (NP1
+    (NP2 (N with) (N the))
+    (NP2
+      (NP2 (N powder))
+      (conj or)
+      (NP2 (det the) (adjP (adj resulting)) (N solution)))))
+
+hold
+(S (VP1 (VP2 (V hold))))
+
+ the vial between your thumb forefinger and middle finger
+(S
+  (NP1
+    (NP2 (N the))
+    (NP2
+      (NP2
+        (N vial)
+        (PP2
+          (prep between)
+          (NP2 (prp your) (NP2 (N thumb) (N forefinger)))))
+      (conj and)
+      (NP2 (adjP (adj middle)) (NP2 (N finger))))))
+

@@ -1,0 +1,4970 @@
+tpi 112040038/1   patient information leaflet
+(S
+  (NP1 (NP2 (N tpi) (CDP (cd 112040038/1))))
+  (VP1 (VP2 (V patient) (NP2 (N information))) (NP2 (N leaflet))))
+
+adipine&trade mr 10
+(S (NP1 (NP2 (N adipine&trade)) (NP2 (N mr) (CDP (cd 10)))))
+
+adipine&trade mr
+(S (NP1 (NP2 (N adipine&trade)) (NP2 (N mr))))
+
+please read this leaflet carefully because it contains important information on how to use this medication effectively and safely
+(S
+  (VP1 (VP2 (V please)) (NP1 (NP2 (N read))))
+  (NP1
+    (NP2 (N this) (N leaflet))
+    (NP2
+      (N carefully)
+      (PP2
+        (prep because)
+        (NP2 (prp it) (NP2 (N contains) (N important))))))
+  (VP1
+    (NP1 (NP2 (N information)))
+    (VP2
+      (VP2
+        (PP2 (prep on) (NP2 (N how) (N to)))
+        (VP2 (V use) (NP2 (N this) (N medication))))
+      (advP (adv effectively) (conj and) (adv safely)))))
+
+if you have any questions or are not sure about anything do not hesitate to ask your doctor or pharmacist
+(S
+  (VP1
+    (VP2
+      (PP2
+        (prep if)
+        (VP2
+          (VP2 (prp you) (VP2 (V have) (NP2 (N any) (N questions))))
+          (conj or)
+          (VP2
+            (PP2
+              (VP2 (VP2 (V are) (NP2 (N not))) (adjP (adj sure)))
+              (prep about)
+              (VP2 (NP2 (N anything) (N do)) (advP (adv not))))
+            (VP2 (V hesitate) (NP2 (N to))))))
+      (VP2 (V ask)))
+    (NP1
+      (NP2
+        (adjP (adj your))
+        (NP2 (NP2 (N doctor)) (conj or) (NP2 (N pharmacist)))))))
+
+adipine&trade mr 10
+(S (NP1 (NP2 (N adipine&trade)) (NP2 (N mr) (CDP (cd 10)))))
+
+active ingredient
+(S (NP1 (NP2 (adjP (adj active)) (NP2 (N ingredient)))))
+
+presentation and contents
+(S (NP1 (NP2 (N presentation) (conj and) (N contents))))
+
+apricot coated round slightly biconvex tablets
+(S
+  (NP1 (NP2 (N apricot)))
+  (VP1
+    (VP2
+      (VP2 (VP2 (V coated) (NP2 (N round))) (advP (adv slightly)))
+      (adjP (adj biconvex)))
+    (NP1 (NP2 (N tablets)))))
+
+adipine&trade mr 10 is available in packs of 56 tablets
+(S
+  (NP1 (NP2 (N adipine&trade)) (NP2 (N mr) (CDP (cd 10))))
+  (VP1
+    (VP2
+      (V is)
+      (NP2 (adjP (adj available)) (NP2 (N in) (N packs)))
+      (PP2 (prep of) (NP2 (CDP (cd 56)) (N tablets))))))
+
+sole distribution
+(S (NP1 (NP2 (adjP (adj sole)) (NP2 (N distribution)))))
+
+why have i been prescribed adipine&trade mr 10
+(S
+  (NP1 (NP2 (wp why) (NP2 (N have))))
+  (VP1
+    (VP2
+      (prp i)
+      (VP2
+        (V been)
+        (NP2 (adjP (adj prescribed)) (NP2 (N adipine&trade)))))
+    (NP2 (N mr) (CDP (cd 10)))))
+
+when should i not take adipine&trade mr 10
+(S
+  (NP1 (NP2 (wp when) (NP2 (N should))))
+  (VP1
+    (VP2 (prp i) (VP2 (V not)))
+    (NP1 (NP2 (N take) (N adipine&trade)) (NP2 (N mr) (CDP (cd 10))))))
+
+what special precautions should i take
+(S
+  (NP1
+    (NP2 (wp what) (NP2 (adjP (adj special)) (NP2 (N precautions))))
+    (NP2 (N should)))
+  (VP1 (VP2 (prp i) (VP2 (V take)))))
+
+before starting treatment
+(S (NP1 (NP2 (N before)) (NP2 (N starting) (N treatment))))
+
+you should remind your doctor of other problems you may have eg kidney or liver disease
+(S
+  (VP1 (VP2 (prp you) (VP2 (md should) (V remind))))
+  (NP1
+    (NP2 (prp your) (NP2 (N doctor) (PP2 (prep of) (NP2 (N other))))))
+  (VP1
+    (NP1 (NP2 (N problems)))
+    (VP2
+      (VP2
+        (NP2 (N you))
+        (md may)
+        (VP2 (V have) (NP2 (N eg) (N kidney))))
+      (conj or)
+      (NP2 (N liver) (N disease)))))
+
+whilst taking adipine&trade mr 10
+(S
+  (NP1 (NP2 (N whilst)))
+  (VP1
+    (VP2 (V taking) (NP2 (N adipine&trade)))
+    (NP2 (N mr) (CDP (cd 10)))))
+
+you should have your blood pressure checked regularly as your treatment may need to be adjusted
+(S
+  (NP1
+    (NP2 (prp you) (NP2 (N should) (N have)))
+    (NP2 (prp your) (NP2 (N blood) (N pressure))))
+  (VP1
+    (VP2
+      (PP2
+        (VP2 (VP2 (V checked)) (advP (adv regularly)))
+        (prep as)
+        (VP2
+          (prp your)
+          (VP2 (NP2 (N treatment)) (md may) (NP2 (N need) (N to)))))
+      (VP2 (V be)))
+    (VP2 (V adjusted))))
+
+you should be very careful about driving or operating machinery since when starting on adipine&trade mr 10 for the first time or when switching over from some other medication you may experience dizziness fatigue marked fall in blood pressure and transient visual disturbances
+(S
+  (PP1
+    (PP2
+      (VP2
+        (prp you)
+        (VP2
+          (VP2 (VP2 (md should) (V be)) (advP (adv very)))
+          (adjP (adj careful))))
+      (prep about)
+      (VP2
+        (VP2 (V driving))
+        (conj or)
+        (PP2
+          (VP2 (V operating) (NP2 (N machinery)))
+          (prep since)
+          (VP2 (wp when) (VP2 (V starting))))))
+    (PP2 (prep on) (NP2 (N adipine&trade))))
+  (NP1 (NP2 (N mr) (CDP (cd 10))) (NP2 (N for) (N the)))
+  (VP1
+    (VP2
+      (VP2 (advP (adv first)) (N time))
+      (conj or)
+      (VP2
+        (wp when)
+        (VP2
+          (PP2
+            (VP2 (V switching))
+            (prep over)
+            (VP2
+              (PP2 (prep from) (det some))
+              (VP2
+                (NP2 (adjP (adj other)) (NP2 (N medication) (N you)))
+                (md may)
+                (VP2 (V experience) (NP2 (N dizziness) (N fatigue))))))
+          (VP2 (V marked)))))
+    (NP1
+      (NP2
+        (N fall)
+        (PP2
+          (prep in)
+          (VP2
+            (VP2
+              (VP2 (V blood) (NP2 (N pressure) (N and)))
+              (adjP (adj transient)))
+            (adjP (adj visual)))))
+      (NP2 (N disturbances)))))
+
+alcohol aggravates these symptoms
+(S
+  (NP1 (NP2 (N alcohol)))
+  (VP1 (VP2 (V aggravates)) (NP1 (NP2 (det these) (N symptoms)))))
+
+how many tablets how often and how should i take adipine&trade mr 10
+(S
+  (NP1
+    (NP2 (wp how) (NP2 (adjP (adj many)) (NP2 (N tablets) (N how))))
+    (NP2 (NP2 (N often)) (conj and) (NP2 (N how) (N should))))
+  (VP1
+    (VP2 (prp i) (VP2 (V take) (NP2 (N adipine&trade))))
+    (NP2 (N mr) (CDP (cd 10)))))
+
+you should take the number of tablets prescribed by your doctor
+(S
+  (NP1 (NP2 (prp you) (N should)))
+  (VP1
+    (VP2 (V take) (NP2 (N the)))
+    (NP1
+      (NP2
+        (N number)
+        (PP2
+          (prep of)
+          (NP2 (N tablets) (PP2 (adjP (adj prescribed)) (prep by)))))
+      (NP2 (prp your) (N doctor)))))
+
+unless otherwise specified the usual dose is one tablet twice daily
+(S
+  (VP1
+    (VP2
+      (VP2
+        (PP2 (prep unless) (VP2 (V otherwise)))
+        (VP2 (V specified) (NP2 (N the))))
+      (adjP (adj usual))))
+  (NP1 (NP2 (N dose)))
+  (VP1
+    (NP1 (NP2 (N is)))
+    (VP2
+      (VP2 (NP2 (N one) (N tablet)) (advP (adv twice)))
+      (adjP (adj daily)))))
+
+your doctor may change the dose according to your response to the treatment
+(S
+  (VP1 (NP1 (NP2 (prp your) (N doctor))) (VP2 (md may) (V change)))
+  (NP1 (NP2 (N the)) (NP2 (N dose)))
+  (VP1
+    (VP2 (V according) (NP2 (N to)))
+    (NP1
+      (NP2 (adjP (adj your)) (NP2 (N response) (N to)))
+      (NP2 (N the) (N treatment)))))
+
+you should swallow the tablets whole with some liquid after food
+(S
+  (NP1 (NP2 (prp you) (N should)))
+  (VP1 (VP2 (V swallow) (NP2 (N the) (N tablets))) (NP2 (N whole)))
+  (PP1
+    (PP2 (prep with) (NP2 (det some) (N liquid)))
+    (PP2 (prep after) (NP2 (N food)))))
+
+do not bite chew or break up the tablets
+(S
+  (NP1 (NP2 (N do) (N not)))
+  (VP1
+    (VP2
+      (VP2 (V bite) (NP2 (N chew)))
+      (conj or)
+      (VP2 (NP2 (N break)) (advP (adv up))))
+    (NP2 (N the) (N tablets))))
+
+you should not take the next dose less than 4 hours after the first dose
+(S
+  (NP1 (NP2 (N you)))
+  (VP1
+    (NP1 (NP2 (N should)))
+    (VP2
+      (VP2
+        (advP (adv not))
+        (VP2 (VP2 (V take) (NP2 (N the))) (adjP (adj next))))
+      (adjP (adj dose) (adj less))))
+  (PP1
+    (PP2 (prep than) (NP2 (CDP (cd 4)) (N hours)))
+    (PP2 (prep after) (NP2 (det the) (adjP (adj first)) (N dose)))))
+
+for how long do i need to take adipine&trade mr 10
+(S
+  (VP1
+    (VP2
+      (PP2
+        (prep for)
+        (VP2
+          (wp how)
+          (VP2
+            (advP (adv long))
+            (VP2 (V do) (NP2 (prp i) (NP2 (N need) (N to)))))))
+      (VP2 (V take) (NP2 (N adipine&trade))))
+    (NP2 (N mr) (CDP (cd 10)))))
+
+high blood pressure and angina pectoris require long term treatment
+(S
+  (NP1
+    (NP2
+      (NP2 (adjP (adj high)) (NP2 (N blood) (N pressure)))
+      (conj and)
+      (NP2 (adjP (adj angina)) (NP2 (N pectoris)))))
+  (VP1
+    (VP2 (V require) (NP2 (adjP (adj long)) (NP2 (N term))))
+    (NP2 (N treatment))))
+
+your doctor will monitor your progress and determine the duration of your treatment
+(S
+  (VP1
+    (VP2
+      (VP2
+        (prp your)
+        (VP2
+          (NP2 (N doctor))
+          (md will)
+          (VP2 (V monitor) (NP2 (prp your) (N progress)))))
+      (conj and)
+      (VP2
+        (V determine)
+        (NP2 (N the) (N duration))
+        (PP2 (prep of) (NP2 (prp your) (N treatment)))))))
+
+if you wish to stop adipine&trade mr 10 temporarily or permanently your should consult your doctor
+(S
+  (VP1
+    (VP2 (PP2 (prep if) (NP2 (N you))) (VP2 (V wish)))
+    (NP2 (N to)))
+  (NP1 (NP2 (N stop) (N adipine&trade)))
+  (VP1
+    (VP2
+      (VP2 (NP2 (N mr) (CDP (cd 10))) (advP (adv temporarily)))
+      (conj or)
+      (VP2 (advP (adv permanently)) (VP2 (prp your) (md should))))
+    (NP1 (NP2 (N consult)) (NP2 (prp your) (N doctor)))))
+
+discontinuation of adipine&trade mr 10 should be gradual especially if you have been taking high doses
+(S
+  (NP1
+    (NP2
+      (N discontinuation)
+      (PP2
+        (VP2
+          (PP2 (prep of) (NP2 (N adipine&trade)))
+          (VP2
+            (NP2 (N mr) (CDP (cd 10)))
+            (md should)
+            (VP2
+              (VP2 (VP2 (V be)) (adjP (adj gradual)))
+              (advP (adv especially)))))
+        (prep if)
+        (VP2 (prp you) (V have)))))
+  (VP1
+    (VP2 (VP2 (V been) (NP2 (N taking))) (adjP (adj high)))
+    (NP2 (N doses))))
+
+what should i do if i miss a dose
+(S
+  (NP1
+    (NP2
+      (wp what)
+      (NP2
+        (N should)
+        (PP2
+          (VP2 (prp i) (VP2 (V do)))
+          (prep if)
+          (VP2 (prp i) (VP2 (V miss) (NP2 (N a)))))))
+    (NP2 (N dose))))
+
+if you miss a dose and it is more than 4 hours before the next dose then take your usual treatment
+(S
+  (PP1
+    (PP2
+      (prep if)
+      (VP2
+        (VP2 (prp you) (VP2 (V miss) (NP2 (N a) (N dose))))
+        (conj and)
+        (VP2 (prp it) (VP2 (NP2 (N is)) (advP (adv more))))))
+    (PP2 (prep than) (cd 4)))
+  (NP1 (NP2 (N hours) (PP2 (prep before) (det the))))
+  (VP1
+    (VP2 (NP2 (adjP (adj next)) (NP2 (N dose))) (advP (adv then)))
+    (NP1
+      (NP2 (N take) (N your))
+      (NP2 (adjP (adj usual)) (NP2 (N treatment))))))
+
+if it is less than 4 hours then you should wait till your next usual dosing time before taking the medication
+(S
+  (VP1
+    (NP1 (NP2 (N if)))
+    (VP2
+      (VP2
+        (prp it)
+        (VP2
+          (PP2
+            (VP2 (VP2 (V is)) (adjP (adj less)))
+            (prep than)
+            (VP2 (NP2 (CDP (cd 4)) (N hours)) (advP (adv then))))
+          (VP2 (NP2 (N you)) (md should) (VP2 (V wait) (V till)))))
+      (adjP (adj your) (adj next))))
+  (NP1 (NP2 (adjP (adj usual)) (NP2 (N dosing))) (NP2 (N time)))
+  (VP1
+    (VP2 (advP (adv before)) (VP2 (V taking) (NP2 (N the))))
+    (NP2 (N medication))))
+
+you should never take a double dose to make up for the missed dose
+(S
+  (NP1 (NP2 (N you)))
+  (md should)
+  (NP1 (NP2 (N never)))
+  (VP1
+    (VP2 (VP2 (V take) (NP2 (N a))) (adjP (adj double)))
+    (NP1
+      (NP2
+        (adjP (adj dose))
+        (NP2
+          (N to)
+          (PP2
+            (VP2 (V make))
+            (prep up)
+            (VP2 (PP2 (prep for) (det the)) (VP2 (V missed))))))
+      (NP2 (N dose)))))
+
+what undesirable effects may occur with the treatment
+(S
+  (VP1
+    (VP2
+      (NP2 (wp what) (NP2 (N undesirable) (N effects)))
+      (md may)
+      (NP2 (N occur) (N with)))
+    (NP2 (N the) (N treatment))))
+
+at the start of treatment worsening of angina pectoris may occur
+(S
+  (PP1 (PP2 (prep at) (NP2 (N the))))
+  (NP1
+    (NP2 (N start) (PP2 (prep of) (NP2 (N treatment))))
+    (NP2 (N worsening)))
+  (VP1
+    (NP1 (NP2 (N of) (N angina)) (NP2 (N pectoris) (N may)))
+    (VP2 (V occur))))
+
+patients may experience headache flushing or reddening of the skin associated with a feeling of warmth
+(S
+  (NP1 (NP2 (N patients)) (NP2 (N may)))
+  (VP1 (VP2 (V experience) (NP2 (N headache))) (VP2 (V flushing)))
+  (conj or)
+  (NP1 (NP2 (N reddening) (PP2 (prep of) (det the))))
+  (VP1 (NP1 (NP2 (N skin))) (VP2 (V associated)))
+  (PP1
+    (PP2 (prep with) (NP2 (N a) (N feeling)))
+    (PP2 (prep of) (NP2 (N warmth)))))
+
+rarely there have been reports of diarrhoea nausea and a feeling of fullness
+(S
+  (VP1
+    (VP2 (advP (adv rarely) (adv there)) (VP2 (V have) (V been)))
+    (NP1
+      (NP2
+        (NP2
+          (N reports)
+          (PP2 (prep of) (NP2 (N diarrhoea) (N nausea))))
+        (conj and)
+        (NP2 (N a) (N feeling)))
+      (NP2 (N of) (N fullness)))))
+
+allergic skin reactions have been reported eg
+(S
+  (VP1 (VP2 (VP2 (V allergic)) (adjP (adj skin))))
+  (NP1 (NP2 (N reactions)) (NP2 (N have)))
+  (VP1 (VP2 (V been) (V reported)) (NP1 (NP2 (N eg)))))
+
+itching hives and rashes and rarely inflammation and peeling of the skin
+(S
+  (VP1
+    (VP2
+      (NP2
+        (NP2 (N itching) (N hives))
+        (conj and)
+        (NP2 (N rashes) (N and)))
+      (advP (adv rarely))))
+  (NP1 (NP2 (N inflammation) (conj and) (N peeling)))
+  (VP1 (NP1 (NP2 (N of)) (NP2 (N the))) (VP2 (V skin))))
+
+in those who have kidney impairment their kidney function may deteriorate transiently
+(S
+  (VP1
+    (VP2
+      (PP2 (prep in) (det those))
+      (VP2 (wp who) (VP2 (V have) (NP2 (N kidney) (N impairment)))))
+    (VP2
+      (prp their)
+      (VP2
+        (VP2
+          (NP2 (N kidney) (N function))
+          (md may)
+          (VP2 (V deteriorate)))
+        (advP (adv transiently))))))
+
+should you experience any effects not described above please let your doctor know immediately
+(S
+  (NP1 (NP2 (N should)) (NP2 (N you)))
+  (VP1
+    (VP2
+      (VP2
+        (V experience)
+        (NP2 (N any) (N effects))
+        (PP2
+          (VP2 (advP (adv not)) (V described))
+          (prep above)
+          (VP2 (V please) (V let))))
+      (adjP (adj your)))
+    (NP1 (NP2 (N doctor)) (NP2 (N know) (N immediately)))))
+
+what should i do if an overdose has been taken
+(S
+  (VP1 (VP2 (wp what) (md should)))
+  (NP1 (NP2 (prp i) (NP2 (N do))))
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (det an) (N overdose)))
+      (VP2 (V has) (V been)))
+    (VP2 (V taken))))
+
+in case of an overdose medical advice should be sought immediately
+(S
+  (NP1 (NP2 (N in) (N case)))
+  (VP1
+    (VP2
+      (PP2 (prep of) (NP2 (det an) (N overdose)))
+      (VP2
+        (NP2 (N medical) (N advice))
+        (md should)
+        (VP2 (V be) (V sought))))
+    (NP2 (N immediately))))
+
+how should i store adipine&trade mr 10
+(S
+  (VP1
+    (VP2 (NP2 (N how)) (md should) (VP2 (prp i) (VP2 (V store))))
+    (NP1 (NP2 (N adipine&trade)) (NP2 (N mr) (CDP (cd 10))))))
+
+the tablets should be kept in the original container in a cool dry place below 25c
+(S
+  (NP1 (NP2 (N the)))
+  (VP1
+    (VP2 (NP2 (N tablets)) (md should) (VP2 (V be) (V kept)))
+    (NP1
+      (NP2 (N in) (N the))
+      (NP2
+        (adjP (adj original))
+        (NP2
+          (N container)
+          (PP2
+            (prep in)
+            (NP2 (det a) (adjP (adj cool) (adj dry)) (N place)))))))
+  (PP1 (PP2 (prep below) (cd 25c))))
+
+the expiry date of the medicine is printed on the package
+(S
+  (NP1
+    (NP2 (N the) (N expiry))
+    (NP2
+      (N date)
+      (PP2 (prep of) (NP2 (det the) (adjP (adj medicine)) (N is)))))
+  (VP1 (VP2 (V printed)))
+  (PP1 (PP2 (prep on) (NP2 (N the) (N package)))))
+
+do not use this product after this expiry date
+(S
+  (NP1 (NP2 (N do) (N not)))
+  (VP1
+    (VP2 (V use) (NP2 (N this) (N product)))
+    (NP1 (NP2 (N after) (N this)) (NP2 (N expiry) (N date)))))
+
+keep out of reach of children
+(S
+  (VP1
+    (VP2 (V keep) (NP2 (N out) (N of)))
+    (NP1 (NP2 (N reach)) (NP2 (N of) (N children)))))
+
+this medicine has been prescribed only for you
+(S
+  (NP1 (NP2 (N this)) (NP2 (N medicine)))
+  (VP1
+    (VP2 (V has))
+    (VP2
+      (V been)
+      (NP2 (adjP (adj prescribed)) (NP2 (N only)))
+      (PP2 (prep for) (NP2 (N you))))))
+
+do not give it to anyone else under any circumstances
+(S
+  (NP1 (NP2 (N do)))
+  (VP1
+    (VP2
+      (VP2
+        (advP (adv not))
+        (VP2 (V give) (NP2 (prp it) (NP2 (N to) (N anyone)))))
+      (advP (adv else))))
+  (PP1 (PP2 (prep under) (NP2 (N any) (N circumstances)))))
+
+date of preparation or last revision
+(S
+  (NP1
+    (NP2 (N date))
+    (NP2
+      (NP2 (N of) (N preparation))
+      (conj or)
+      (NP2 (N last) (N revision)))))
+
+october 1995 &tradetrade mark applied for
+(S
+  (NP1
+    (NP2 (N october) (CDP (cd 1995)))
+    (NP2 (N &tradetrade) (N mark)))
+  (VP1 (VP2 (V applied)) (NP1 (NP2 (N for)))))
+
+how many tablets how often and how should i take adipine&trade mr 10
+(S
+  (NP1
+    (NP2 (wp how) (NP2 (adjP (adj many)) (NP2 (N tablets) (N how))))
+    (NP2 (NP2 (N often)) (conj and) (NP2 (N how) (N should))))
+  (VP1
+    (VP2 (prp i) (VP2 (V take) (NP2 (N adipine&trade))))
+    (NP2 (N mr) (CDP (cd 10)))))
+
+you should take the number of tablets prescribed by your doctor
+(S
+  (NP1 (NP2 (prp you) (N should)))
+  (VP1
+    (VP2 (V take) (NP2 (N the)))
+    (NP1
+      (NP2
+        (N number)
+        (PP2
+          (prep of)
+          (NP2 (N tablets) (PP2 (adjP (adj prescribed)) (prep by)))))
+      (NP2 (prp your) (N doctor)))))
+
+unless otherwise specified the usual dose is one tablet twice daily
+(S
+  (VP1
+    (VP2
+      (VP2
+        (PP2 (prep unless) (VP2 (V otherwise)))
+        (VP2 (V specified) (NP2 (N the))))
+      (adjP (adj usual))))
+  (NP1 (NP2 (N dose)))
+  (VP1
+    (NP1 (NP2 (N is)))
+    (VP2
+      (VP2 (NP2 (N one) (N tablet)) (advP (adv twice)))
+      (adjP (adj daily)))))
+
+your doctor may change the dose according to your response to the treatment
+(S
+  (VP1 (NP1 (NP2 (prp your) (N doctor))) (VP2 (md may) (V change)))
+  (NP1 (NP2 (N the)) (NP2 (N dose)))
+  (VP1
+    (VP2 (V according) (NP2 (N to)))
+    (NP1
+      (NP2 (adjP (adj your)) (NP2 (N response) (N to)))
+      (NP2 (N the) (N treatment)))))
+
+you should swallow the tablets whole with some liquid after food
+(S
+  (NP1 (NP2 (prp you) (N should)))
+  (VP1 (VP2 (V swallow) (NP2 (N the) (N tablets))) (NP2 (N whole)))
+  (PP1
+    (PP2 (prep with) (NP2 (det some) (N liquid)))
+    (PP2 (prep after) (NP2 (N food)))))
+
+do not bite chew or break up the tablets
+(S
+  (NP1 (NP2 (N do) (N not)))
+  (VP1
+    (VP2
+      (VP2 (V bite) (NP2 (N chew)))
+      (conj or)
+      (VP2 (NP2 (N break)) (advP (adv up))))
+    (NP2 (N the) (N tablets))))
+
+you should not take the next dose less than 4 hours after the first dose
+(S
+  (NP1 (NP2 (N you)))
+  (VP1
+    (NP1 (NP2 (N should)))
+    (VP2
+      (VP2
+        (advP (adv not))
+        (VP2 (VP2 (V take) (NP2 (N the))) (adjP (adj next))))
+      (adjP (adj dose) (adj less))))
+  (PP1
+    (PP2 (prep than) (NP2 (CDP (cd 4)) (N hours)))
+    (PP2 (prep after) (NP2 (det the) (adjP (adj first)) (N dose)))))
+
+for how long do i need to take adipine&trade mr 10
+(S
+  (VP1
+    (VP2
+      (PP2
+        (prep for)
+        (VP2
+          (wp how)
+          (VP2
+            (advP (adv long))
+            (VP2 (V do) (NP2 (prp i) (NP2 (N need) (N to)))))))
+      (VP2 (V take) (NP2 (N adipine&trade))))
+    (NP2 (N mr) (CDP (cd 10)))))
+
+high blood pressure and angina pectoris require long term treatment
+(S
+  (NP1
+    (NP2
+      (NP2 (adjP (adj high)) (NP2 (N blood) (N pressure)))
+      (conj and)
+      (NP2 (adjP (adj angina)) (NP2 (N pectoris)))))
+  (VP1
+    (VP2 (V require) (NP2 (adjP (adj long)) (NP2 (N term))))
+    (NP2 (N treatment))))
+
+your doctor will monitor your progress and determine the duration of your treatment
+(S
+  (VP1
+    (VP2
+      (VP2
+        (prp your)
+        (VP2
+          (NP2 (N doctor))
+          (md will)
+          (VP2 (V monitor) (NP2 (prp your) (N progress)))))
+      (conj and)
+      (VP2
+        (V determine)
+        (NP2 (N the) (N duration))
+        (PP2 (prep of) (NP2 (prp your) (N treatment)))))))
+
+if you wish to stop adipine&trade mr 10 temporarily or permanently your should consult your doctor
+(S
+  (VP1
+    (VP2 (PP2 (prep if) (NP2 (N you))) (VP2 (V wish)))
+    (NP2 (N to)))
+  (NP1 (NP2 (N stop) (N adipine&trade)))
+  (VP1
+    (VP2
+      (VP2 (NP2 (N mr) (CDP (cd 10))) (advP (adv temporarily)))
+      (conj or)
+      (VP2 (advP (adv permanently)) (VP2 (prp your) (md should))))
+    (NP1 (NP2 (N consult)) (NP2 (prp your) (N doctor)))))
+
+discontinuation of adipine&trade mr 10 should be gradual especially if you have been taking high doses
+(S
+  (NP1
+    (NP2
+      (N discontinuation)
+      (PP2
+        (VP2
+          (PP2 (prep of) (NP2 (N adipine&trade)))
+          (VP2
+            (NP2 (N mr) (CDP (cd 10)))
+            (md should)
+            (VP2
+              (VP2 (VP2 (V be)) (adjP (adj gradual)))
+              (advP (adv especially)))))
+        (prep if)
+        (VP2 (prp you) (V have)))))
+  (VP1
+    (VP2 (VP2 (V been) (NP2 (N taking))) (adjP (adj high)))
+    (NP2 (N doses))))
+
+what should i do if i miss a dose
+(S
+  (NP1
+    (NP2
+      (wp what)
+      (NP2
+        (N should)
+        (PP2
+          (VP2 (prp i) (VP2 (V do)))
+          (prep if)
+          (VP2 (prp i) (VP2 (V miss) (NP2 (N a)))))))
+    (NP2 (N dose))))
+
+if you miss a dose and it is more than 4 hours before the next dose then take your usual treatment
+(S
+  (PP1
+    (PP2
+      (prep if)
+      (VP2
+        (VP2 (prp you) (VP2 (V miss) (NP2 (N a) (N dose))))
+        (conj and)
+        (VP2 (prp it) (VP2 (NP2 (N is)) (advP (adv more))))))
+    (PP2 (prep than) (cd 4)))
+  (NP1 (NP2 (N hours) (PP2 (prep before) (det the))))
+  (VP1
+    (VP2 (NP2 (adjP (adj next)) (NP2 (N dose))) (advP (adv then)))
+    (NP1
+      (NP2 (N take) (N your))
+      (NP2 (adjP (adj usual)) (NP2 (N treatment))))))
+
+if it is less than 4 hours then you should wait till your next usual dosing time before taking the medication
+(S
+  (VP1
+    (NP1 (NP2 (N if)))
+    (VP2
+      (VP2
+        (prp it)
+        (VP2
+          (PP2
+            (VP2 (VP2 (V is)) (adjP (adj less)))
+            (prep than)
+            (VP2 (NP2 (CDP (cd 4)) (N hours)) (advP (adv then))))
+          (VP2 (NP2 (N you)) (md should) (VP2 (V wait) (V till)))))
+      (adjP (adj your) (adj next))))
+  (NP1 (NP2 (adjP (adj usual)) (NP2 (N dosing))) (NP2 (N time)))
+  (VP1
+    (VP2 (advP (adv before)) (VP2 (V taking) (NP2 (N the))))
+    (NP2 (N medication))))
+
+you should never take a double dose to make up for the missed dose
+(S
+  (NP1 (NP2 (N you)))
+  (md should)
+  (NP1 (NP2 (N never)))
+  (VP1
+    (VP2 (VP2 (V take) (NP2 (N a))) (adjP (adj double)))
+    (NP1
+      (NP2
+        (adjP (adj dose))
+        (NP2
+          (N to)
+          (PP2
+            (VP2 (V make))
+            (prep up)
+            (VP2 (PP2 (prep for) (det the)) (VP2 (V missed))))))
+      (NP2 (N dose)))))
+
+what undesirable effects may occur with the treatment
+(S
+  (VP1
+    (VP2
+      (NP2 (wp what) (NP2 (N undesirable) (N effects)))
+      (md may)
+      (NP2 (N occur) (N with)))
+    (NP2 (N the) (N treatment))))
+
+patients may experience headache or reddening of the skin associated with a feeling of warmth
+(S
+  (NP1 (NP2 (N patients)) (NP2 (N may)))
+  (VP1 (VP2 (V experience)) (NP2 (N headache)))
+  (conj or)
+  (NP1 (NP2 (N reddening) (PP2 (prep of) (det the))))
+  (VP1 (NP1 (NP2 (N skin))) (VP2 (V associated)))
+  (PP1
+    (PP2 (prep with) (NP2 (N a) (N feeling)))
+    (PP2 (prep of) (NP2 (N warmth)))))
+
+at the start of treatment worsening of angina pectoris may occur
+(S
+  (PP1 (PP2 (prep at) (NP2 (N the))))
+  (NP1
+    (NP2 (N start) (PP2 (prep of) (NP2 (N treatment))))
+    (NP2 (N worsening)))
+  (VP1
+    (NP1 (NP2 (N of) (N angina)) (NP2 (N pectoris) (N may)))
+    (VP2 (V occur))))
+
+rarely there have been reports of diarrhoea nausea and a feeling of fullness
+(S
+  (VP1
+    (VP2 (advP (adv rarely) (adv there)) (VP2 (V have) (V been)))
+    (NP1
+      (NP2
+        (NP2
+          (N reports)
+          (PP2 (prep of) (NP2 (N diarrhoea) (N nausea))))
+        (conj and)
+        (NP2 (N a) (N feeling)))
+      (NP2 (N of) (N fullness)))))
+
+allergic skin reactions have been reported eg
+(S
+  (VP1 (VP2 (VP2 (V allergic)) (adjP (adj skin))))
+  (NP1 (NP2 (N reactions)) (NP2 (N have)))
+  (VP1 (VP2 (V been) (V reported)) (NP1 (NP2 (N eg)))))
+
+itching hives and rashes and rarely inflammation and peeling of the skin
+(S
+  (VP1
+    (VP2
+      (NP2
+        (NP2 (N itching) (N hives))
+        (conj and)
+        (NP2 (N rashes) (N and)))
+      (advP (adv rarely))))
+  (NP1 (NP2 (N inflammation) (conj and) (N peeling)))
+  (VP1 (NP1 (NP2 (N of)) (NP2 (N the))) (VP2 (V skin))))
+
+in those who have kidney impairment their kidney function may deteriorate transiently
+(S
+  (VP1
+    (VP2
+      (PP2 (prep in) (det those))
+      (VP2 (wp who) (VP2 (V have) (NP2 (N kidney) (N impairment)))))
+    (VP2
+      (prp their)
+      (VP2
+        (VP2
+          (NP2 (N kidney) (N function))
+          (md may)
+          (VP2 (V deteriorate)))
+        (advP (adv transiently))))))
+
+should you experience any effects not described above please let your doctor know immediately
+(S
+  (NP1 (NP2 (N should)) (NP2 (N you)))
+  (VP1
+    (VP2
+      (VP2
+        (V experience)
+        (NP2 (N any) (N effects))
+        (PP2
+          (VP2 (advP (adv not)) (V described))
+          (prep above)
+          (VP2 (V please) (V let))))
+      (adjP (adj your)))
+    (NP1 (NP2 (N doctor)) (NP2 (N know) (N immediately)))))
+
+what should i do if an overdose has been taken
+(S
+  (VP1 (VP2 (wp what) (md should)))
+  (NP1 (NP2 (prp i) (NP2 (N do))))
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (det an) (N overdose)))
+      (VP2 (V has) (V been)))
+    (VP2 (V taken))))
+
+in case of an overdose medical advice should be sought immediately
+(S
+  (NP1 (NP2 (N in) (N case)))
+  (VP1
+    (VP2
+      (PP2 (prep of) (NP2 (det an) (N overdose)))
+      (VP2
+        (NP2 (N medical) (N advice))
+        (md should)
+        (VP2 (V be) (V sought))))
+    (NP2 (N immediately))))
+
+how should i store adipine&trade mr 10
+(S
+  (VP1
+    (VP2 (NP2 (N how)) (md should) (VP2 (prp i) (VP2 (V store))))
+    (NP1 (NP2 (N adipine&trade)) (NP2 (N mr) (CDP (cd 10))))))
+
+the tablets should be kept in the original container in a cool dry place below 25c
+(S
+  (NP1 (NP2 (N the)))
+  (VP1
+    (VP2 (NP2 (N tablets)) (md should) (VP2 (V be) (V kept)))
+    (NP1
+      (NP2 (N in) (N the))
+      (NP2
+        (adjP (adj original))
+        (NP2
+          (N container)
+          (PP2
+            (prep in)
+            (NP2 (det a) (adjP (adj cool) (adj dry)) (N place)))))))
+  (PP1 (PP2 (prep below) (cd 25c))))
+
+the expiry date of the medicine is printed on the package
+(S
+  (NP1
+    (NP2 (N the) (N expiry))
+    (NP2
+      (N date)
+      (PP2 (prep of) (NP2 (det the) (adjP (adj medicine)) (N is)))))
+  (VP1 (VP2 (V printed)))
+  (PP1 (PP2 (prep on) (NP2 (N the) (N package)))))
+
+do not use this product after this expiry date
+(S
+  (NP1 (NP2 (N do) (N not)))
+  (VP1
+    (VP2 (V use) (NP2 (N this) (N product)))
+    (NP1 (NP2 (N after) (N this)) (NP2 (N expiry) (N date)))))
+
+keep out of reach of children
+(S
+  (VP1
+    (VP2 (V keep) (NP2 (N out) (N of)))
+    (NP1 (NP2 (N reach)) (NP2 (N of) (N children)))))
+
+this medicine has been prescribed only for you
+(S
+  (NP1 (NP2 (N this)) (NP2 (N medicine)))
+  (VP1
+    (VP2 (V has))
+    (VP2
+      (V been)
+      (NP2 (adjP (adj prescribed)) (NP2 (N only)))
+      (PP2 (prep for) (NP2 (N you))))))
+
+do not give it to anyone else under any circumstances
+(S
+  (NP1 (NP2 (N do)))
+  (VP1
+    (VP2
+      (VP2
+        (advP (adv not))
+        (VP2 (V give) (NP2 (prp it) (NP2 (N to) (N anyone)))))
+      (advP (adv else))))
+  (PP1 (PP2 (prep under) (NP2 (N any) (N circumstances)))))
+
+date of preparation or last revision
+(S
+  (NP1
+    (NP2 (N date))
+    (NP2
+      (NP2 (N of) (N preparation))
+      (conj or)
+      (NP2 (N last) (N revision)))))
+
+october 1995 &tradetrade mark applied for
+(S
+  (NP1
+    (NP2 (N october) (CDP (cd 1995)))
+    (NP2 (N &tradetrade) (N mark)))
+  (VP1 (VP2 (V applied)) (NP1 (NP2 (N for)))))
+
+please read this leaflet before you start to take your medicine
+(S
+  (VP1
+    (VP2 (V please) (NP2 (N read) (N this)))
+    (NP1
+      (NP2
+        (N leaflet)
+        (PP2
+          (prep before)
+          (VP2 (prp you) (VP2 (V start) (NP2 (N to) (N take))))))
+      (NP2 (prp your) (N medicine)))))
+
+it is essential to follow the advice of your doctor or dentist
+(S
+  (VP1
+    (VP2
+      (prp it)
+      (VP2 (V is) (NP2 (adjP (adj essential)) (NP2 (N to)))))
+    (VP2
+      (V follow)
+      (NP2 (N the) (N advice))
+      (PP2
+        (prep of)
+        (NP2
+          (adjP (adj your))
+          (NP2 (NP2 (N doctor)) (conj or) (NP2 (N dentist))))))))
+
+if there is anything you do not understand please ask your doctor or pharmacist chemist
+(S
+  (VP1
+    (VP2
+      (PP2
+        (prep if)
+        (VP2 (advP (adv there)) (VP2 (V is) (NP2 (N anything)))))
+      (VP2 (prp you) (V do)))
+    (VP2 (advP (adv not)) (V understand)))
+  (NP1 (NP2 (N please)))
+  (VP1
+    (VP2
+      (V ask)
+      (NP2
+        (prp your)
+        (NP2 (NP2 (N doctor)) (conj or) (NP2 (N pharmacist)))))
+    (NP1 (NP2 (N chemist)))))
+
+keep this leaflet until you have finished all your prescribed course of amoxil
+(S
+  (VP1 (VP2 (V keep)))
+  (NP1
+    (NP2 (N this))
+    (NP2 (N leaflet) (PP2 (prep until) (NP2 (N you)))))
+  (VP1
+    (VP2 (VP2 (V have) (NP2 (N finished) (N all))) (adjP (adj your)))
+    (VP2
+      (V prescribed)
+      (NP2 (N course))
+      (PP2 (prep of) (NP2 (N amoxil))))))
+
+if you are helping someone else to take this medicine please read this leaflet before you give the first dose
+(S
+  (VP1
+    (VP2
+      (VP2
+        (PP2 (prep if) (VP2 (prp you) (V are)))
+        (VP2 (V helping) (NP2 (N someone))))
+      (advP (adv else)))
+    (NP1 (NP2 (N to)) (NP2 (N take))))
+  (NP1 (NP2 (N this)) (NP2 (N medicine)))
+  (VP1
+    (NP1 (NP2 (N please) (N read)) (NP2 (N this) (N leaflet)))
+    (VP2
+      (VP2
+        (advP (adv before))
+        (VP2 (prp you) (VP2 (V give) (NP2 (N the)))))
+      (adjP (adj first) (adj dose)))))
+
+the name of your medicine is amoxil
+(S
+  (NP1
+    (NP2 (N the))
+    (NP2
+      (N name)
+      (PP2
+        (prep of)
+        (NP2
+          (adjP (adj your) (adj medicine))
+          (NP2 (N is) (N amoxil)))))))
+
+what is amoxil
+(S (NP1 (NP2 (wp what) (NP2 (N is) (N amoxil)))))
+
+it is one of a group of antibiotic medicines called penicillins
+(S
+  (NP1 (NP2 (prp it) (NP2 (N is) (CDP (cd one)))))
+  (VP1
+    (VP2
+      (PP2 (prep of) (NP2 (N a) (N group)))
+      (VP2
+        (PP2
+          (prep of)
+          (NP2 (adjP (adj antibiotic)) (NP2 (N medicines))))
+        (VP2 (V called))))
+    (NP2 (N penicillins))))
+
+the active ingredient in amoxil is amoxycillin
+(S
+  (NP1 (NP2 (N the)) (NP2 (adjP (adj active)) (NP2 (N ingredient))))
+  (VP1
+    (VP2 (PP2 (prep in) (NP2 (N amoxil))) (VP2 (V is)))
+    (NP2 (N amoxycillin))))
+
+what does amoxil do
+(S
+  (VP1 (VP2 (wp what) (VP2 (V does) (NP2 (N amoxil)))) (VP2 (V do))))
+
+it is used to treat a range of bacterial infections
+(S
+  (NP1 (NP2 (prp it) (N is)))
+  (VP1
+    (VP2 (V used) (NP2 (N to)))
+    (VP2
+      (V treat)
+      (NP2 (N a) (N range))
+      (PP2
+        (prep of)
+        (NP2 (adjP (adj bacterial)) (NP2 (N infections)))))))
+
+important things to know about amoxil
+(S
+  (NP1 (NP2 (N important) (N things)) (NP2 (N to)))
+  (VP1 (VP2 (V know)) (NP1 (NP2 (N about) (N amoxil)))))
+
+this medicine is unsuitable for people who are allergic to penicillin
+(S
+  (VP1 (NP1 (NP2 (N this)) (NP2 (N medicine))) (VP2 (V is)))
+  (NP1
+    (NP2 (adjP (adj unsuitable)) (NP2 (N for) (N people)))
+    (NP2 (wp who) (NP2 (N are) (N allergic))))
+  (VP1 (NP1 (NP2 (N to))) (VP2 (V penicillin))))
+
+you will find more information about this later in the leaflet
+(S
+  (VP1
+    (VP2 (prp you) (VP2 (VP2 (md will) (V find)) (adjP (adj more)))))
+  (NP1 (NP2 (N information)))
+  (VP1
+    (VP2
+      (PP2 (prep about) (det this))
+      (VP2 (advP (adv later)) (N in)))
+    (NP2 (N the) (N leaflet))))
+
+before taking any medicines you should tell your doctor if you are pregnant or think you may be or if you are breast feeding
+(S
+  (NP1 (NP2 (N before)))
+  (VP1
+    (NP1 (NP2 (N taking)))
+    (VP2
+      (VP2
+        (NP2
+          (N any)
+          (PP2
+            (VP2
+              (NP2 (N medicines) (N you))
+              (md should)
+              (VP2 (V tell) (NP2 (prp your) (N doctor))))
+            (prep if)
+            (VP2
+              (VP2 (prp you) (VP2 (V are) (V pregnant)))
+              (conj or)
+              (VP2 (V think) (NP2 (N you))))))
+        (md may)
+        (VP2 (V be)))
+      (conj or)
+      (PP2
+        (VP2 (PP2 (prep if) (NP2 (N you))) (VP2 (V are)))
+        (prep breast)
+        (VP2 (V feeding))))))
+
+take amoxil as directed by your doctor
+(S
+  (VP1
+    (VP2
+      (V take)
+      (NP2 (N amoxil) (PP2 (prep as) (VP2 (V directed))))
+      (PP2 (prep by) (NP2 (prp your) (N doctor))))))
+
+read the dispensing label
+(S
+  (NP1 (NP2 (N read) (N the)))
+  (VP1 (VP2 (V dispensing)) (NP1 (NP2 (N label)))))
+
+keep taking your amoxil until your prescribed course is finished
+(S
+  (VP1 (VP2 (V keep)))
+  (NP1 (NP2 (N taking)) (NP2 (prp your) (N amoxil)))
+  (VP1
+    (VP2
+      (PP2 (prep until) (NP2 (N your)))
+      (VP2 (V prescribed) (NP2 (N course))))
+    (NP2 (N is) (N finished))))
+
+do not stop just because you feel better
+(S
+  (VP1
+    (VP2 (V do) (NP2 (N not) (N stop)))
+    (VP2
+      (VP2
+        (advP (adv just))
+        (VP2 (PP2 (prep because) (NP2 (N you))) (VP2 (V feel))))
+      (advP (adv better)))))
+
+like all medicines amoxil can sometimes cause unwanted effects
+(S
+  (VP1 (VP2 (V like)))
+  (NP1 (NP2 (N all) (N medicines)))
+  (VP1
+    (NP1 (NP2 (N amoxil)) (NP2 (N can)))
+    (VP2
+      (advP (adv sometimes))
+      (VP2 (V cause) (NP2 (adjP (adj unwanted)) (NP2 (N effects)))))))
+
+you will find more information about this later in the leaflet
+(S
+  (VP1
+    (VP2 (prp you) (VP2 (VP2 (md will) (V find)) (adjP (adj more)))))
+  (NP1 (NP2 (N information)))
+  (VP1
+    (VP2
+      (PP2 (prep about) (det this))
+      (VP2 (advP (adv later)) (N in)))
+    (NP2 (N the) (N leaflet))))
+
+always keep medicines out of the reach of children
+(S
+  (NP1 (NP2 (N always)))
+  (VP1 (VP2 (V keep) (NP2 (N medicines))) (NP2 (N out)))
+  (PP1
+    (PP2 (prep of) (NP2 (N the) (N reach)))
+    (PP2 (prep of) (NP2 (N children)))))
+
+for more information about amoxil please read the rest of this leaflet
+(S
+  (VP1
+    (VP2
+      (PP2
+        (prep for)
+        (NP2
+          (adjP (adj more))
+          (NP2
+            (N information)
+            (PP2 (prep about) (NP2 (N amoxil) (N please))))))
+      (VP2
+        (V read)
+        (NP2 (N the) (N rest))
+        (PP2 (prep of) (NP2 (N this) (N leaflet)))))))
+
+before taking your medicine
+(S (NP1 (NP2 (N before) (N taking)) (NP2 (prp your) (N medicine))))
+
+am i allergic to penicillin
+(S
+  (NP1 (NP2 (N am)))
+  (VP1
+    (VP2 (prp i) (VP2 (V allergic) (NP2 (N to))))
+    (VP2 (V penicillin))))
+
+do you think or have you been told that you are allergic to penicillin
+(S
+  (VP1
+    (NP1 (NP2 (N do) (N you)))
+    (VP2 (VP2 (V think)) (conj or) (VP2 (V have))))
+  (NP1
+    (NP2
+      (N you)
+      (PP2
+        (VP2 (V been) (V told))
+        (prep that)
+        (VP2 (prp you) (VP2 (V are)))))
+    (NP2 (N allergic)))
+  (VP1 (NP1 (NP2 (N to))) (VP2 (V penicillin))))
+
+if so do not take amoxil tell your doctor
+(S
+  (NP1 (NP2 (N if)))
+  (VP1
+    (VP2
+      (PP2 (prep so) (VP2 (V do) (V not)))
+      (VP2 (V take) (NP2 (N amoxil) (N tell))))
+    (NP2 (prp your) (N doctor))))
+
+you may be given another medicine instead
+(S
+  (NP1 (NP2 (prp you) (N may)))
+  (VP1
+    (VP2 (V be))
+    (VP2
+      (VP2 (V given) (NP2 (det another) (N medicine)))
+      (advP (adv instead)))))
+
+taking your medicine
+(S (NP1 (NP2 (N taking)) (NP2 (prp your) (N medicine))))
+
+how much should i take and how often
+(S
+  (VP1
+    (VP2 (NP2 (N how)) (advP (adv much)))
+    (NP1
+      (NP2 (N should))
+      (NP2
+        (NP2 (prp i) (NP2 (N take)))
+        (conj and)
+        (NP2 (N how) (N often))))))
+
+follow your doctors directions about how and when to take your medicine
+(S
+  (VP1
+    (VP2
+      (VP2
+        (V follow)
+        (NP2 (prp your) (NP2 (N doctors) (N directions)))
+        (PP2 (prep about) (NP2 (N how))))
+      (conj and)
+      (NP2 (wp when) (NP2 (N to) (N take))))
+    (NP2 (prp your) (N medicine))))
+
+please read the dispensing label carefully
+(S
+  (VP1 (VP2 (V please)))
+  (NP1 (NP2 (N read)) (NP2 (N the)))
+  (VP1 (VP2 (V dispensing) (NP2 (N label))) (NP2 (N carefully))))
+
+your pharmacist or doctor can help if you are not sure
+(S
+  (NP1 (NP2 (N your)))
+  (VP1
+    (VP2
+      (NP2 (NP2 (N pharmacist)) (conj or) (NP2 (N doctor)))
+      (md can)
+      (VP2 (V help) (NP2 (N if) (N you))))
+    (NP1 (NP2 (N are)) (NP2 (N not) (N sure)))))
+
+amoxil capsules should be swallowed with water
+(S
+  (NP1 (NP2 (N amoxil)) (NP2 (N capsules)))
+  (VP1 (VP2 (md should) (V be)) (VP2 (V swallowed)))
+  (PP1 (PP2 (prep with) (NP2 (N water)))))
+
+space the doses as evenly as possible through the day
+(S
+  (NP1 (NP2 (N space)))
+  (VP1
+    (VP2
+      (VP2 (NP2 (N the) (N doses)) (advP (adv as)))
+      (advP (adv evenly)))
+    (NP1
+      (NP2 (N as) (PP2 (adjP (adj possible)) (prep through)))
+      (NP2 (N the) (N day)))))
+
+for example
+(S (NP1 (NP2 (N for) (N example))))
+
+if you have been told to take your amoxil 3 times a day
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (VP2 (prp you) (VP2 (V have) (V been))))
+      (VP2 (V told))))
+  (NP1 (NP2 (N to)))
+  (VP1
+    (VP2 (V take) (NP2 (prp your) (NP2 (N amoxil) (CDP (cd 3)))))
+    (NP1 (NP2 (N times) (N a)) (NP2 (N day)))))
+
+keep taking your amoxil until your prescribed course is finished
+(S
+  (VP1 (VP2 (V keep)))
+  (NP1 (NP2 (N taking)) (NP2 (prp your) (N amoxil)))
+  (VP1
+    (VP2
+      (PP2 (prep until) (NP2 (N your)))
+      (VP2 (V prescribed) (NP2 (N course))))
+    (NP2 (N is) (N finished))))
+
+do not stop just because you feel better
+(S
+  (VP1
+    (VP2 (V do) (NP2 (N not) (N stop)))
+    (VP2
+      (VP2
+        (advP (adv just))
+        (VP2 (PP2 (prep because) (NP2 (N you))) (VP2 (V feel))))
+      (advP (adv better)))))
+
+if you stop too soon the infection may start up again
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (N you)))
+      (VP2 (NP2 (N stop)) (advP (adv too))))
+    (NP2 (N soon)))
+  (NP1 (NP2 (N the)))
+  (VP1
+    (NP1 (NP2 (N infection)) (NP2 (N may)))
+    (VP2 (NP2 (N start)) (advP (adv up) (adv again)))))
+
+if you still feel unwell at the end of your prescribed course of treatment tell your doctor
+(S
+  (NP1 (NP2 (N if)))
+  (VP1
+    (VP2
+      (prp you)
+      (VP2
+        (advP (adv still))
+        (VP2
+          (V feel)
+          (NP2 (N unwell) (PP2 (prep at) (NP2 (N the) (N end))))
+          (PP2 (prep of) (NP2 (N your))))))
+    (NP1
+      (NP2
+        (adjP (adj prescribed))
+        (NP2 (N course) (PP2 (prep of) (NP2 (N treatment) (N tell)))))
+      (NP2 (prp your) (N doctor)))))
+
+what should i do if i forget to take a dose
+(S
+  (VP1 (VP2 (wp what) (md should)))
+  (NP1 (NP2 (prp i) (NP2 (N do))))
+  (VP1
+    (VP2
+      (PP2 (prep if) (VP2 (prp i) (VP2 (V forget) (NP2 (N to)))))
+      (VP2 (V take) (NP2 (N a))))
+    (NP2 (N dose))))
+
+if you forget to take a dose at the right time take it as soon as you remember
+(S
+  (VP1
+    (VP2 (PP2 (prep if) (NP2 (N you))) (VP2 (V forget) (NP2 (N to))))
+    (VP2 (V take) (NP2 (N a) (N dose)) (PP2 (prep at) (det the))))
+  (NP1
+    (NP2 (adjP (adj right)) (NP2 (N time) (N take)))
+    (NP2 (N it) (PP2 (prep as) (adv soon))))
+  (VP1 (NP1 (NP2 (N as))) (VP2 (prp you) (V remember))))
+
+after taking your medicine
+(S (NP1 (NP2 (N after) (N taking)) (NP2 (prp your) (N medicine))))
+
+what unwanted effects might it have
+(S
+  (VP1
+    (VP2
+      (NP2 (wp what) (NP2 (adjP (adj unwanted)) (NP2 (N effects))))
+      (md might))
+    (VP2 (prp it) (V have))))
+
+a few people may find that amoxil gives them diarrhoea or indigestion
+(S
+  (NP1
+    (NP2 (det a) (adjP (adj few)) (N people))
+    (NP2
+      (NP2
+        (N may)
+        (PP2
+          (prep find)
+          (VP2
+            (PP2 (prep that) (NP2 (N amoxil)))
+            (VP2 (V gives) (NP2 (prp them) (NP2 (N diarrhoea)))))))
+      (conj or)
+      (NP2 (N indigestion)))))
+
+if this happens these symptoms are usually mild
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (N this)))
+      (VP2 (V happens) (NP2 (det these) (N symptoms))))
+    (VP2 (VP2 (NP2 (N are)) (advP (adv usually))) (adjP (adj mild)))))
+
+if you suffer badly tell your doctor
+(S
+  (NP1 (NP2 (N if)))
+  (VP1
+    (VP2 (prp you) (VP2 (VP2 (V suffer)) (advP (adv badly))))
+    (NP1 (NP2 (N tell)) (NP2 (prp your) (N doctor)))))
+
+tell your doctor if you develop rashes or itching or any other unusual problems while you are taking this medicine
+(S
+  (NP1
+    (NP2 (N tell) (N your))
+    (NP2
+      (N doctor)
+      (PP2
+        (prep if)
+        (VP2
+          (VP2 (prp you) (VP2 (V develop) (NP2 (N rashes))))
+          (conj or)
+          (PP2
+            (VP2
+              (VP2 (V itching))
+              (conj or)
+              (NP2
+                (det any)
+                (adjP (adj other) (adj unusual))
+                (N problems)))
+            (prep while)
+            (VP2 (prp you) (V are)))))))
+  (VP1 (VP2 (V taking) (NP2 (N this))) (NP2 (N medicine))))
+
+if your doctor decides to stop the treatment return any leftover medicine to the pharmacist
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (prp your) (N doctor)))
+      (VP2 (V decides) (NP2 (N to))))
+    (VP2 (V stop)))
+  (NP1 (NP2 (N the)) (NP2 (N treatment)))
+  (VP1
+    (VP2 (VP2 (V return) (NP2 (N any))) (adjP (adj leftover)))
+    (NP1
+      (NP2 (adjP (adj medicine)) (NP2 (N to) (N the)))
+      (NP2 (N pharmacist)))))
+
+what if i have taken too much
+(S
+  (NP1 (NP2 (wp what) (NP2 (N if))) (NP2 (prp i) (NP2 (N have))))
+  (VP1
+    (VP2 (VP2 (VP2 (V taken)) (advP (adv too))) (adjP (adj much)))))
+
+storing your medicine
+(S (NP1 (NP2 (N storing)) (NP2 (prp your) (N medicine))))
+
+how should i store amoxil capsules
+(S
+  (VP1
+    (VP2 (NP2 (N how)) (md should) (VP2 (prp i) (VP2 (V store))))
+    (NP1 (NP2 (N amoxil)) (NP2 (N capsules)))))
+
+keep them in a dry place
+(S
+  (VP1
+    (VP2 (V keep) (NP2 (prp them) (NP2 (N in))))
+    (NP2 (det a) (adjP (adj dry)) (N place))))
+
+store all medicines out of the reach of children preferably in a locked cupboard or medicine cabinet
+(S
+  (VP1 (VP2 (V store)))
+  (NP1 (NP2 (N all)) (NP2 (N medicines)))
+  (VP1
+    (VP2
+      (PP2
+        (prep out)
+        (VP2
+          (PP2 (prep of) (NP2 (N the)))
+          (VP2 (V reach) (NP2 (N of) (N children)))))
+      (VP2 (advP (adv preferably)) (N in)))
+    (NP2
+      (NP2 (det a) (adjP (adj locked)) (N cupboard))
+      (conj or)
+      (NP2 (N medicine) (N cabinet)))))
+
+remember
+(S (VP1 (VP2 (V remember))))
+
+this medicine has been prescribed just for you
+(S
+  (NP1 (NP2 (N this)) (NP2 (N medicine)))
+  (VP1
+    (VP2 (V has) (V been))
+    (VP2 (VP2 (V prescribed)) (advP (adv just))))
+  (PP1 (PP2 (prep for) (NP2 (N you)))))
+
+never offer your medicine to other people
+(S
+  (NP1 (NP2 (N never)))
+  (VP1
+    (VP2 (VP2 (V offer)) (adjP (adj your)))
+    (NP1
+      (NP2 (adjP (adj medicine)) (NP2 (N to) (N other)))
+      (NP2 (N people)))))
+
+it may not be suitable for them even if their symptoms seem the same as yours
+(S
+  (NP1 (NP2 (N it)))
+  (md may)
+  (NP1
+    (NP2
+      (N not)
+      (PP2
+        (VP2 (VP2 (V be)) (adjP (adj suitable)))
+        (prep for)
+        (VP2 (prp them) (VP2 (advP (adv even)) (N if)))))
+    (NP2 (prp their) (NP2 (N symptoms))))
+  (VP1
+    (VP2 (VP2 (V seem) (NP2 (N the))) (adjP (adj same)))
+    (NP2 (N as) (N yours))))
+
+more information
+(S (NP1 (NP2 (adjP (adj more)) (NP2 (N information)))))
+
+amoxil capsules are available in two strengths containing either 250 mg or 500 mg of amoxycillin as amoxycillin trihydrate
+(S
+  (VP1
+    (NP1 (NP2 (N amoxil)) (NP2 (N capsules)))
+    (VP2 (VP2 (V are)) (adjP (adj available))))
+  (NP1 (NP2 (N in) (CDP (cd two))))
+  (VP1
+    (VP2
+      (NP2
+        (N strengths)
+        (PP2
+          (VP2
+            (V containing)
+            (NP2
+              (NP2 (CDP (adv either) (cd 250)) (N mg))
+              (conj or)
+              (NP2 (CDP (cd 500)) (N mg))))
+          (prep of)
+          (VP2 (V amoxycillin))))
+      (advP (adv as)))
+    (NP2 (N amoxycillin) (N trihydrate))))
+
+nonproprietary name amoxycillin capsules
+(S
+  (NP1
+    (NP2 (adjP (adj nonproprietary)) (NP2 (N name)))
+    (NP2 (N amoxycillin) (N capsules))))
+
+amoxil capsules do not contain tartrazine or any other azo dyes
+(S
+  (NP1 (NP2 (N amoxil) (N capsules)) (NP2 (N do) (N not)))
+  (VP1
+    (VP2 (V contain))
+    (NP1
+      (NP2 (NP2 (N tartrazine)) (conj or) (NP2 (N any) (N other)))
+      (NP2 (adjP (adj azo)) (NP2 (N dyes))))))
+
+how can i obtain more information about amoxil
+(S
+  (VP1
+    (VP2 (NP2 (N how)) (md can))
+    (VP2
+      (prp i)
+      (VP2
+        (V obtain)
+        (NP2 (adjP (adj more)) (NP2 (N information)))
+        (PP2 (prep about) (NP2 (N amoxil)))))))
+
+in this short leaflet we can only give you the most important patient information about amoxil
+(S
+  (VP1
+    (VP2
+      (PP2 (prep in) (NP2 (det this) (adjP (adj short)) (N leaflet)))
+      (VP2 (NP2 (prp we) (NP2 (N can))) (advP (adv only))))
+    (VP2 (V give)))
+  (NP1
+    (NP2 (prp you) (NP2 (det the) (adjP (adj most)) (N important))))
+  (VP1
+    (VP2 (V patient) (NP2 (N information)))
+    (NP2 (N about) (N amoxil))))
+
+if you would like to know more ask your doctor or pharmacist
+(S
+  (NP1
+    (NP2
+      (N if)
+      (PP2
+        (VP2 (prp you) (md would))
+        (prep like)
+        (VP2 (NP2 (N to) (N know)) (advP (adv more))))))
+  (VP1
+    (VP2 (VP2 (V ask)) (adjP (adj your)))
+    (NP2 (NP2 (N doctor)) (conj or) (NP2 (N pharmacist)))))
+
+amoxil
+(S (NP1 (NP2 (N amoxil))))
+
+leaflet prepared in august 1988
+(S
+  (NP1 (NP2 (N leaflet)))
+  (VP1
+    (VP2 (V prepared) (NP2 (N in)))
+    (NP2 (N august) (CDP (cd 1988)))))
+
+please read this leaflet before you start to take your medicine
+(S
+  (VP1
+    (VP2 (V please) (NP2 (N read) (N this)))
+    (NP1
+      (NP2
+        (N leaflet)
+        (PP2
+          (prep before)
+          (VP2 (prp you) (VP2 (V start) (NP2 (N to) (N take))))))
+      (NP2 (prp your) (N medicine)))))
+
+it is essential to follow your doctor advice
+(S
+  (VP1 (VP2 (prp it) (V is)))
+  (NP1
+    (NP2 (adjP (adj essential)) (NP2 (N to)))
+    (NP2 (N follow) (N your)))
+  (VP1 (NP1 (NP2 (N doctor))) (VP2 (V advice))))
+
+if there is anything you do not understand please ask your doctor or pharmacist chemist
+(S
+  (VP1
+    (VP2
+      (PP2
+        (prep if)
+        (VP2 (advP (adv there)) (VP2 (V is) (NP2 (N anything)))))
+      (VP2 (prp you) (V do)))
+    (VP2 (advP (adv not)) (V understand)))
+  (NP1 (NP2 (N please)))
+  (VP1
+    (VP2
+      (V ask)
+      (NP2
+        (prp your)
+        (NP2 (NP2 (N doctor)) (conj or) (NP2 (N pharmacist)))))
+    (NP1 (NP2 (N chemist)))))
+
+keep this leaflet until your baby has finished all the prescribed course of amoxil
+(S
+  (VP1
+    (NP1
+      (NP2 (N keep) (N this))
+      (NP2 (N leaflet) (PP2 (prep until) (NP2 (prp your) (N baby)))))
+    (VP2 (V has)))
+  (NP1 (NP2 (N finished)))
+  (VP1
+    (VP2 (advP (adv all)) (N the))
+    (VP2
+      (V prescribed)
+      (NP2 (N course))
+      (PP2 (prep of) (NP2 (N amoxil))))))
+
+the name of your babys medicine is amoxil
+(S
+  (NP1 (NP2 (N the)) (NP2 (N name)))
+  (VP1
+    (VP2
+      (PP2
+        (prep of)
+        (NP2 (adjP (adj your)) (NP2 (N babys) (N medicine))))
+      (VP2 (V is)))
+    (NP2 (N amoxil))))
+
+what is amoxil
+(S (NP1 (NP2 (wp what) (NP2 (N is) (N amoxil)))))
+
+it is one of a group of antibiotic medicines called penicillins
+(S
+  (NP1 (NP2 (prp it) (NP2 (N is) (CDP (cd one)))))
+  (VP1
+    (VP2
+      (PP2 (prep of) (NP2 (N a) (N group)))
+      (VP2
+        (PP2
+          (prep of)
+          (NP2 (adjP (adj antibiotic)) (NP2 (N medicines))))
+        (VP2 (V called))))
+    (NP2 (N penicillins))))
+
+the active ingredient in amoxil is amoxycillin
+(S
+  (NP1 (NP2 (N the)) (NP2 (adjP (adj active)) (NP2 (N ingredient))))
+  (VP1
+    (VP2 (PP2 (prep in) (NP2 (N amoxil))) (VP2 (V is)))
+    (NP2 (N amoxycillin))))
+
+what does amoxil do
+(S
+  (VP1 (VP2 (wp what) (VP2 (V does) (NP2 (N amoxil)))) (VP2 (V do))))
+
+it is used to treat a range of bacterial infections
+(S
+  (NP1 (NP2 (prp it) (N is)))
+  (VP1
+    (VP2 (V used) (NP2 (N to)))
+    (VP2
+      (V treat)
+      (NP2 (N a) (N range))
+      (PP2
+        (prep of)
+        (NP2 (adjP (adj bacterial)) (NP2 (N infections)))))))
+
+important things to know about amoxil
+(S
+  (NP1 (NP2 (N important) (N things)) (NP2 (N to)))
+  (VP1 (VP2 (V know)) (NP1 (NP2 (N about) (N amoxil)))))
+
+this medicine is unsuitable for babies who are allergic to penicillin
+(S
+  (VP1 (NP1 (NP2 (N this)) (NP2 (N medicine))) (VP2 (V is)))
+  (NP1
+    (NP2 (adjP (adj unsuitable)) (NP2 (N for) (N babies)))
+    (NP2 (wp who) (NP2 (N are) (N allergic))))
+  (VP1 (NP1 (NP2 (N to))) (VP2 (V penicillin))))
+
+you will find more information about this later in the leaflet
+(S
+  (VP1
+    (VP2 (prp you) (VP2 (VP2 (md will) (V find)) (adjP (adj more)))))
+  (NP1 (NP2 (N information)))
+  (VP1
+    (VP2
+      (PP2 (prep about) (det this))
+      (VP2 (advP (adv later)) (N in)))
+    (NP2 (N the) (N leaflet))))
+
+read the dispensing label
+(S
+  (NP1 (NP2 (N read) (N the)))
+  (VP1 (VP2 (V dispensing)) (NP1 (NP2 (N label)))))
+
+keep giving your baby amoxil until the prescribed course is finished
+(S
+  (VP1 (NP1 (NP2 (N keep))) (VP2 (VP2 (V giving)) (adjP (adj your))))
+  (NP1 (NP2 (N baby)) (NP2 (N amoxil)))
+  (VP1
+    (VP2
+      (PP2 (prep until) (det the))
+      (VP2 (V prescribed) (NP2 (N course))))
+    (NP2 (N is) (N finished))))
+
+do not stop just because your baby seems better
+(S
+  (VP1
+    (VP2 (V do) (NP2 (N not) (N stop)))
+    (VP2
+      (VP2
+        (advP (adv just))
+        (VP2
+          (PP2 (prep because) (NP2 (prp your) (N baby)))
+          (VP2 (V seems))))
+      (adjP (adj better)))))
+
+like all medicines amoxil can sometimes cause unwanted effects
+(S
+  (VP1 (VP2 (V like)))
+  (NP1 (NP2 (N all) (N medicines)))
+  (VP1
+    (NP1 (NP2 (N amoxil)) (NP2 (N can)))
+    (VP2
+      (advP (adv sometimes))
+      (VP2 (V cause) (NP2 (adjP (adj unwanted)) (NP2 (N effects)))))))
+
+you will find more information about this later in the leaflet
+(S
+  (VP1
+    (VP2 (prp you) (VP2 (VP2 (md will) (V find)) (adjP (adj more)))))
+  (NP1 (NP2 (N information)))
+  (VP1
+    (VP2
+      (PP2 (prep about) (det this))
+      (VP2 (advP (adv later)) (N in)))
+    (NP2 (N the) (N leaflet))))
+
+always keep medicines out of the reach of children
+(S
+  (NP1 (NP2 (N always)))
+  (VP1 (VP2 (V keep) (NP2 (N medicines))) (NP2 (N out)))
+  (PP1
+    (PP2 (prep of) (NP2 (N the) (N reach)))
+    (PP2 (prep of) (NP2 (N children)))))
+
+before giving your baby this medicine
+(S
+  (VP1
+    (VP2
+      (advP (adv before))
+      (VP2 (V giving) (NP2 (prp your) (NP2 (N baby) (N this)))))
+    (NP2 (N medicine))))
+
+is my baby allergic to penicillin
+(S
+  (NP1 (NP2 (N is)) (NP2 (prp my) (NP2 (N baby))))
+  (VP1 (VP2 (V allergic) (NP2 (N to))) (VP2 (V penicillin))))
+
+if you think your baby may be allergic to penicillin check with your doctor before giving this medicine
+(S
+  (VP1 (NP1 (NP2 (N if))) (VP2 (prp you) (V think)))
+  (NP1 (NP2 (prp your) (N baby)))
+  (VP1
+    (VP2 (md may) (V be))
+    (NP1
+      (NP2
+        (adjP (adj allergic))
+        (NP2
+          (N to)
+          (PP2
+            (VP2
+              (V penicillin)
+              (NP2 (N check))
+              (PP2 (prep with) (NP2 (prp your) (N doctor))))
+            (prep before)
+            (VP2 (V giving) (NP2 (N this))))))
+      (NP2 (N medicine)))))
+
+giving your baby this medicine
+(S
+  (VP1
+    (VP2 (V giving) (NP2 (prp your) (NP2 (N baby) (N this))))
+    (NP2 (N medicine))))
+
+how much should i give my baby and how often
+(S
+  (VP1
+    (VP2
+      (wp how)
+      (VP2
+        (NP2 (N much))
+        (md should)
+        (VP2 (prp i) (VP2 (V give) (NP2 (prp my) (NP2 (N baby)))))))
+    (VP2 (NP2 (N and) (N how)) (advP (adv often)))))
+
+please read the dispensing label carefully
+(S
+  (VP1 (VP2 (V please)))
+  (NP1 (NP2 (N read)) (NP2 (N the)))
+  (VP1 (VP2 (V dispensing) (NP2 (N label))) (NP2 (N carefully))))
+
+your pharmacist or doctor can help if you are not sure
+(S
+  (NP1 (NP2 (N your)))
+  (VP1
+    (VP2
+      (NP2 (NP2 (N pharmacist)) (conj or) (NP2 (N doctor)))
+      (md can)
+      (VP2 (V help) (NP2 (N if) (N you))))
+    (NP1 (NP2 (N are)) (NP2 (N not) (N sure)))))
+
+space the doses as evenly as possible through the day
+(S
+  (NP1 (NP2 (N space)))
+  (VP1
+    (VP2
+      (VP2 (NP2 (N the) (N doses)) (advP (adv as)))
+      (advP (adv evenly)))
+    (NP1
+      (NP2 (N as) (PP2 (adjP (adj possible)) (prep through)))
+      (NP2 (N the) (N day)))))
+
+for example
+(S (NP1 (NP2 (N for) (N example))))
+
+ if you have been told to give your baby amoxil 3 times a day
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (VP2 (prp you) (VP2 (V have) (V been))))
+      (VP2 (V told))))
+  (NP1 (NP2 (N to)))
+  (VP1
+    (VP2 (V give) (NP2 (prp your) (NP2 (N baby) (N amoxil))))
+    (NP1 (NP2 (CDP (cd 3)) (N times)) (NP2 (N a) (N day)))))
+
+how long should i carry on giving it to my baby
+(S
+  (NP1
+    (NP2
+      (wp how)
+      (NP2
+        (adjP (adj long))
+        (NP2
+          (N should)
+          (PP2
+            (VP2 (prp i) (VP2 (V carry)))
+            (prep on)
+            (VP2 (V giving) (NP2 (prp it) (N to)))))))
+    (NP2 (prp my) (NP2 (N baby)))))
+
+keep giving your baby amoxil until the prescribed course is finished
+(S
+  (VP1 (NP1 (NP2 (N keep))) (VP2 (VP2 (V giving)) (adjP (adj your))))
+  (NP1 (NP2 (N baby)) (NP2 (N amoxil)))
+  (VP1
+    (VP2
+      (PP2 (prep until) (det the))
+      (VP2 (V prescribed) (NP2 (N course))))
+    (NP2 (N is) (N finished))))
+
+do not stop just because your baby seems better
+(S
+  (VP1
+    (VP2 (V do) (NP2 (N not) (N stop)))
+    (VP2
+      (VP2
+        (advP (adv just))
+        (VP2
+          (PP2 (prep because) (NP2 (prp your) (N baby)))
+          (VP2 (V seems))))
+      (adjP (adj better)))))
+
+if you stop too soon the infection may start up again
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (N you)))
+      (VP2 (NP2 (N stop)) (advP (adv too))))
+    (NP2 (N soon)))
+  (NP1 (NP2 (N the)))
+  (VP1
+    (NP1 (NP2 (N infection)) (NP2 (N may)))
+    (VP2 (NP2 (N start)) (advP (adv up) (adv again)))))
+
+if your baby still seems unwell at the end of the prescribed course of treatment tell your doctor
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (N your)))
+      (VP2 (NP2 (N baby)) (advP (adv still))))
+    (VP2 (V seems)))
+  (NP1 (NP2 (N unwell)))
+  (VP1
+    (VP2
+      (PP2 (prep at) (det the))
+      (VP2 (V end) (NP2 (N of) (N the))))
+    (NP1
+      (NP2
+        (adjP (adj prescribed))
+        (NP2 (N course) (PP2 (prep of) (NP2 (N treatment) (N tell)))))
+      (NP2 (prp your) (N doctor)))))
+
+what should i do if i forget to give my baby a dose
+(S
+  (VP1 (VP2 (wp what) (md should)))
+  (NP1 (NP2 (prp i) (NP2 (N do))))
+  (VP1
+    (VP2
+      (PP2 (prep if) (VP2 (prp i) (VP2 (V forget) (NP2 (N to)))))
+      (VP2 (V give) (NP2 (prp my) (NP2 (N baby) (N a)))))
+    (NP2 (N dose))))
+
+if you forget to give your baby a dose at the right time take it as soon as you remember
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (VP2 (prp you) (VP2 (V forget) (NP2 (N to)))))
+      (VP2 (V give) (NP2 (prp your) (NP2 (N baby) (N a)))))
+    (NP2 (N dose) (PP2 (prep at) (det the))))
+  (NP1
+    (NP2 (adjP (adj right)) (NP2 (N time) (N take)))
+    (NP2 (N it) (PP2 (prep as) (adv soon))))
+  (VP1 (NP1 (NP2 (N as))) (VP2 (prp you) (V remember))))
+
+how should i gave this medicine to my baby
+(S
+  (VP1
+    (VP2
+      (NP2 (N how))
+      (md should)
+      (VP2 (prp i) (VP2 (V gave) (NP2 (N this)))))
+    (NP1
+      (NP2 (adjP (adj medicine)) (NP2 (N to)))
+      (NP2 (prp my) (NP2 (N baby))))))
+
+nb
+(S (NP1 (NP2 (N nb))))
+
+shake the bottle
+(S (VP1 (VP2 (V shake) (NP2 (N the))) (NP2 (N bottle))))
+
+first remove cap from bottle and discard cap
+(S
+  (VP1
+    (VP2 (advP (adv first)) (VP2 (V remove)))
+    (NP1
+      (NP2
+        (NP2 (N cap) (PP2 (prep from) (NP2 (N bottle))))
+        (conj and)
+        (NP2 (adjP (adj discard)) (NP2 (N cap)))))))
+
+then remove dropper from wrapping
+(S
+  (PP1
+    (PP2
+      (VP2 (advP (adv then)) (VP2 (V remove) (NP2 (N dropper))))
+      (prep from)
+      (VP2 (V wrapping)))))
+
+b if the dropper is in the bottle
+(S
+  (NP1
+    (NP2 (N b) (PP2 (prep if) (NP2 (N the) (N dropper))))
+    (NP2 (N is) (PP2 (prep in) (NP2 (N the) (N bottle))))))
+
+unscrew cap to remove dropper from bottle
+(S
+  (NP1 (NP2 (N unscrew) (N cap)) (NP2 (N to)))
+  (VP1 (VP2 (V remove)) (NP1 (NP2 (N dropper))))
+  (PP1 (PP2 (prep from) (NP2 (N bottle)))))
+
+squeeze the rubber bulb tightly
+(S
+  (VP1
+    (VP2 (V squeeze) (NP2 (N the)))
+    (VP2 (NP2 (N rubber) (N bulb)) (advP (adv tightly)))))
+
+still squeezing the bulb push the dropper into the medicine in the bottle
+(S
+  (VP1
+    (VP2 (advP (adv still)) (VP2 (V squeezing)))
+    (NP1 (NP2 (N the))))
+  (NP1 (NP2 (N bulb)))
+  (VP1
+    (VP2
+      (V push)
+      (NP2 (N the) (N dropper))
+      (PP2 (prep into) (det the)))
+    (NP1
+      (NP2 (adjP (adj medicine)) (NP2 (N in)))
+      (NP2 (N the) (N bottle)))))
+
+take out the dropper
+(S (VP1 (VP2 (V take) (NP2 (N out))) (NP2 (det the) (N dropper))))
+
+squeeze  the bulb gently until the medicine is exactly in line with red dose mark
+(S
+  (VP1
+    (VP2
+      (V squeeze)
+      (NP2
+        (N the)
+        (PP2
+          (VP2 (NP2 (N bulb)) (advP (adv gently)))
+          (prep until)
+          (VP2
+            (NP2 (det the) (adjP (adj medicine)) (N is))
+            (advP (adv exactly)))))
+      (PP2
+        (prep in)
+        (NP2
+          (N line)
+          (PP2 (prep with) (NP2 (adjP (adj red)) (NP2 (N dose)))))))
+    (NP2 (N mark))))
+
+put the medicine onto the babys tongue by squeezing the bulb until all the medicine in the dropper has been pushed out
+(S
+  (VP1
+    (VP2
+      (V put)
+      (NP2 (N the) (N medicine))
+      (PP2 (prep onto) (det the))))
+  (NP1
+    (NP2 (N babys))
+    (NP2
+      (N tongue)
+      (PP2
+        (prep by)
+        (VP2
+          (PP2
+            (VP2 (V squeezing) (NP2 (N the) (N bulb)))
+            (prep until)
+            (VP2
+              (VP2 (advP (adv all)) (N the))
+              (adjP (adj medicine))))
+          (VP2
+            (PP2 (prep in) (NP2 (N the) (N dropper)))
+            (VP2 (V has)))))))
+  (VP1 (VP2 (V been) (V pushed)) (NP2 (N out))))
+
+wash out the dropper with water
+(S
+  (VP1
+    (VP2 (V wash) (NP2 (N out) (N the)))
+    (NP1 (NP2 (N dropper)) (NP2 (N with) (N water)))))
+
+shake to remove any drops of water
+(S
+  (VP1
+    (VP2 (V shake) (NP2 (N to)))
+    (VP2
+      (V remove)
+      (NP2 (N any) (N drops))
+      (PP2 (prep of) (NP2 (N water))))))
+
+after giving your baby this medicine
+(S
+  (NP1 (NP2 (N after)))
+  (VP1
+    (VP2 (V giving) (NP2 (prp your) (NP2 (N baby) (N this))))
+    (NP2 (N medicine))))
+
+what unwanted effects might it have
+(S
+  (VP1
+    (VP2
+      (NP2 (wp what) (NP2 (adjP (adj unwanted)) (NP2 (N effects))))
+      (md might))
+    (VP2 (prp it) (V have))))
+
+a few people may find that amoxil gives their baby diarrhoea or indigestion colic
+(S
+  (NP1
+    (NP2 (det a) (adjP (adj few)) (N people))
+    (NP2 (N may) (PP2 (prep find) (det that))))
+  (VP1
+    (NP1 (NP2 (N amoxil)))
+    (VP2
+      (VP2
+        (VP2
+          (V gives)
+          (NP2 (prp their) (NP2 (N baby) (N diarrhoea))))
+        (conj or)
+        (NP2 (N indigestion)))
+      (adjP (adj colic)))))
+
+if this happens the symptoms are usually mild
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (N this)))
+      (VP2 (V happens) (NP2 (N the) (N symptoms))))
+    (VP2 (VP2 (NP2 (N are)) (advP (adv usually))) (adjP (adj mild)))))
+
+if this persists or if the baby is suffering badly tell your doctor
+(S
+  (VP1
+    (VP2
+      (VP2 (PP2 (prep if) (NP2 (N this))) (VP2 (V persists)))
+      (conj or)
+      (NP2 (N if) (N the))))
+  (NP1 (NP2 (N baby)) (NP2 (N is)))
+  (VP1
+    (VP2 (VP2 (V suffering)) (advP (adv badly)))
+    (NP1 (NP2 (N tell)) (NP2 (prp your) (N doctor)))))
+
+tell your doctor if your baby develops a rash or itching or any other unusual problems while you are giving this medicine
+(S
+  (NP1
+    (NP2 (N tell) (N your))
+    (NP2
+      (N doctor)
+      (PP2
+        (VP2
+          (PP2 (prep if) (NP2 (prp your) (N baby)))
+          (VP2
+            (V develops)
+            (NP2
+              (NP2 (NP2 (N a) (N rash)) (conj or) (NP2 (N itching)))
+              (conj or)
+              (NP2
+                (det any)
+                (adjP (adj other) (adj unusual))
+                (N problems)))))
+        (prep while)
+        (VP2 (prp you) (V are)))))
+  (VP1 (VP2 (V giving) (NP2 (N this))) (NP2 (N medicine))))
+
+if your doctor decides to stop the treatment return any leftover medicine to the pharmacist
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (prp your) (N doctor)))
+      (VP2 (V decides) (NP2 (N to))))
+    (VP2 (V stop)))
+  (NP1 (NP2 (N the)) (NP2 (N treatment)))
+  (VP1
+    (VP2 (VP2 (V return) (NP2 (N any))) (adjP (adj leftover)))
+    (NP1
+      (NP2 (adjP (adj medicine)) (NP2 (N to) (N the)))
+      (NP2 (N pharmacist)))))
+
+what if i have given my baby too much
+(S
+  (VP1
+    (VP2
+      (wp what)
+      (VP2
+        (PP2 (prep if) (VP2 (prp i) (VP2 (V have) (V given))))
+        (VP2
+          (prp my)
+          (VP2
+            (VP2 (NP2 (N baby)) (advP (adv too)))
+            (adjP (adj much))))))))
+
+if a large amount has been taken give your baby plenty of water to drink and consult your doctor or local hospital casualty department at once
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (det a) (adjP (adj large)) (N amount)))
+      (VP2 (V has) (V been)))
+    (VP2 (VP2 (V taken) (V give)) (adjP (adj your))))
+  (NP1
+    (NP2 (N baby))
+    (NP2 (N plenty) (PP2 (prep of) (NP2 (N water) (N to)))))
+  (VP1
+    (VP2
+      (VP2 (V drink))
+      (conj and)
+      (VP2
+        (V consult)
+        (NP2
+          (adjP (adj your))
+          (NP2
+            (NP2 (N doctor))
+            (conj or)
+            (NP2 (adjP (adj local)) (NP2 (N hospital) (N casualty)))))))
+    (NP2 (N department) (PP2 (prep at) (VP2 (V once))))))
+
+storing this medicine
+(S (VP1 (VP2 (V storing) (NP2 (N this))) (NP2 (N medicine))))
+
+how should i store amoxil paediatric suspension
+(S
+  (VP1
+    (VP2 (NP2 (N how)) (md should) (VP2 (prp i) (VP2 (V store))))
+    (NP1 (NP2 (N amoxil)) (NP2 (N paediatric) (N suspension)))))
+
+keep your babys amoxil paediatric suspension in a cool place
+(S
+  (VP1
+    (VP2 (V keep) (NP2 (prp your) (NP2 (N babys) (N amoxil))))
+    (NP1
+      (NP2
+        (adjP (adj paediatric))
+        (NP2 (N suspension) (PP2 (prep in) (det a))))
+      (NP2 (adjP (adj cool)) (NP2 (N place))))))
+
+store all medicines out of the reach of children  preferably in a locked cupboard or medicine cabinet
+(S
+  (VP1 (VP2 (V store)))
+  (NP1 (NP2 (N all)) (NP2 (N medicines)))
+  (VP1
+    (VP2
+      (PP2
+        (prep out)
+        (VP2
+          (PP2 (prep of) (NP2 (N the)))
+          (VP2 (V reach) (NP2 (N of) (N children)))))
+      (VP2 (advP (adv preferably)) (N in)))
+    (NP2
+      (NP2 (det a) (adjP (adj locked)) (N cupboard))
+      (conj or)
+      (NP2 (N medicine) (N cabinet)))))
+
+remember
+(S (VP1 (VP2 (V remember))))
+
+ this medicine has been prescribed just for your baby
+(S
+  (NP1 (NP2 (N this)) (NP2 (N medicine)))
+  (VP1
+    (VP2 (V has) (V been))
+    (VP2 (VP2 (V prescribed)) (advP (adv just))))
+  (PP1 (PP2 (prep for) (NP2 (prp your) (N baby)))))
+
+never offer this medicine to other people
+(S
+  (VP1
+    (VP2 (advP (adv never)) (VP2 (V offer) (NP2 (N this))))
+    (NP1
+      (NP2 (adjP (adj medicine)) (NP2 (N to)))
+      (NP2 (N other) (N people)))))
+
+it may not be suitable for them even if their symptoms seem the same as your babys
+(S
+  (VP1
+    (VP2
+      (NP2 (N it))
+      (md may)
+      (NP2
+        (N not)
+        (PP2
+          (VP2 (VP2 (V be)) (adjP (adj suitable)))
+          (prep for)
+          (VP2
+            (prp them)
+            (VP2
+              (advP (adv even))
+              (VP2
+                (PP2 (prep if) (NP2 (prp their) (NP2 (N symptoms))))
+                (VP2 (V seem) (NP2 (N the)))))))))
+    (NP1
+      (NP2 (adjP (adj same)) (NP2 (N as)))
+      (NP2 (prp your) (N babys)))))
+
+more information
+(S (NP1 (NP2 (adjP (adj more)) (NP2 (N information)))))
+
+nonproprietary name amoxycillin paediatric oral suspension
+(S
+  (NP1 (NP2 (adjP (adj nonproprietary)) (NP2 (N name))))
+  (VP1
+    (VP2 (V amoxycillin))
+    (NP1 (NP2 (N paediatric)) (NP2 (N oral) (N suspension)))))
+
+amoxil paediatric suspension also contains inactive ingredients to make the medicine acceptable
+(S
+  (NP1 (NP2 (N amoxil) (N paediatric)) (NP2 (N suspension)))
+  (VP1
+    (VP2
+      (advP (adv also))
+      (VP2
+        (V contains)
+        (NP2 (adjP (adj inactive)) (NP2 (N ingredients) (N to)))))
+    (VP2
+      (VP2 (V make) (NP2 (N the)))
+      (adjP (adj medicine) (adj acceptable)))))
+
+amongst these are sodium benzoate and sucrose
+(S
+  (VP1
+    (VP2 (PP2 (prep amongst) (det these)) (VP2 (V are)))
+    (NP1
+      (NP2
+        (adjP (adj sodium))
+        (NP2 (N benzoate) (conj and) (N sucrose))))))
+
+amoxil paediatric suspension does not contain tartrazine or any other azo dyes
+(S
+  (VP1
+    (NP1 (NP2 (N amoxil) (N paediatric)) (NP2 (N suspension)))
+    (VP2 (V does)))
+  (NP1 (NP2 (N not)))
+  (VP1
+    (VP2 (V contain))
+    (NP1
+      (NP2 (NP2 (N tartrazine)) (conj or) (NP2 (N any) (N other)))
+      (NP2 (adjP (adj azo)) (NP2 (N dyes))))))
+
+manufacturer and product licence holder
+(S
+  (NP1
+    (NP2
+      (NP2 (N manufacturer))
+      (conj and)
+      (NP2 (N product) (N licence)))
+    (NP2 (N holder))))
+
+how can i obtain more information about amoxil
+(S
+  (VP1
+    (VP2 (NP2 (N how)) (md can))
+    (VP2
+      (prp i)
+      (VP2
+        (V obtain)
+        (NP2 (adjP (adj more)) (NP2 (N information)))
+        (PP2 (prep about) (NP2 (N amoxil)))))))
+
+in this short leaflet we can only give you the most important patient information about amoxil
+(S
+  (VP1
+    (VP2
+      (PP2 (prep in) (NP2 (det this) (adjP (adj short)) (N leaflet)))
+      (VP2 (NP2 (prp we) (NP2 (N can))) (advP (adv only))))
+    (VP2 (V give)))
+  (NP1
+    (NP2 (prp you) (NP2 (det the) (adjP (adj most)) (N important))))
+  (VP1
+    (VP2 (V patient) (NP2 (N information)))
+    (NP2 (N about) (N amoxil))))
+
+if you would like to know more ask your doctor or pharmacist
+(S
+  (NP1
+    (NP2
+      (N if)
+      (PP2
+        (VP2 (prp you) (md would))
+        (prep like)
+        (VP2 (NP2 (N to) (N know)) (advP (adv more))))))
+  (VP1
+    (VP2 (VP2 (V ask)) (adjP (adj your)))
+    (NP2 (NP2 (N doctor)) (conj or) (NP2 (N pharmacist)))))
+
+amoxil
+(S (NP1 (NP2 (N amoxil))))
+
+leaflet prepared in august 1989
+(S
+  (NP1 (NP2 (N leaflet)))
+  (VP1
+    (VP2 (V prepared) (NP2 (N in)))
+    (NP2 (N august) (CDP (cd 1989)))))
+
+cortisyl tablets 25mgcse 39670
+(S
+  (NP1
+    (NP2 (N cortisyl))
+    (NP2 (N tablets) (CDP (cd 25mgcse) (cd 39670)))))
+
+please read this leaflet carefully before you start to take this medicine
+(S
+  (VP1 (VP2 (V please)))
+  (NP1 (NP2 (N read) (N this)) (NP2 (N leaflet)))
+  (VP1
+    (VP2
+      (advP (adv carefully))
+      (VP2
+        (PP2 (prep before) (NP2 (prp you) (NP2 (N start) (N to))))
+        (VP2 (V take) (NP2 (N this)))))
+    (NP2 (N medicine))))
+
+what is in your medicine
+(S
+  (NP1
+    (NP2
+      (wp what)
+      (NP2 (N is) (PP2 (prep in) (NP2 (prp your) (N medicine)))))))
+
+the name of your medicine is cortisyl tablets
+(S
+  (NP1 (NP2 (N the)) (NP2 (N name)))
+  (VP1
+    (VP2
+      (PP2 (prep of) (NP2 (prp your) (N medicine)))
+      (VP2 (V is) (NP2 (N cortisyl))))
+    (NP2 (N tablets))))
+
+cortisyl tablets are available in a pack of 56 tablets
+(S
+  (NP1 (NP2 (N cortisyl)))
+  (VP1
+    (NP1 (NP2 (N tablets)))
+    (VP2 (VP2 (V are)) (adjP (adj available))))
+  (PP1
+    (PP2 (prep in) (NP2 (det a) (N pack)))
+    (PP2 (prep of) (NP2 (CDP (cd 56)) (N tablets)))))
+
+cortisone the active ingredient is a glucocorticoid
+(S
+  (NP1
+    (NP2 (N cortisone) (N the))
+    (NP2 (adjP (adj active)) (NP2 (N ingredient))))
+  (VP1 (VP2 (V is) (NP2 (N a))) (NP2 (N glucocorticoid))))
+
+this means that it is a type of steroid
+(S
+  (NP1 (NP2 (N this)))
+  (VP1 (VP2 (V means)))
+  (PP1
+    (PP2
+      (VP2
+        (wp that)
+        (VP2 (prp it) (VP2 (V is) (NP2 (N a) (N type)))))
+      (prep of)
+      (VP2 (V steroid)))))
+
+this is used as a hormone replacement therapy
+(S
+  (NP1 (NP2 (N this)) (NP2 (N is) (N used)))
+  (VP1
+    (VP2 (advP (adv as)) (N a))
+    (NP1 (NP2 (N hormone) (N replacement)) (NP2 (N therapy)))))
+
+who has made your medicine
+(S
+  (VP1
+    (VP2 (wp who) (VP2 (V has) (V made)))
+    (NP2 (prp your) (N medicine))))
+
+what is your medicine used for
+(S
+  (VP1
+    (VP2 (wp what) (VP2 (V is) (NP2 (N your))))
+    (NP1 (NP2 (N medicine)) (NP2 (N used) (N for)))))
+
+before you take your medicine
+(S
+  (VP1
+    (VP2 (advP (adv before)) (N you))
+    (NP1 (NP2 (N take)) (NP2 (prp your) (N medicine)))))
+
+before you take cortisyl tablets please read the following questions
+(S
+  (VP1
+    (NP1 (NP2 (N before) (N you)))
+    (VP2 (VP2 (V take)) (adjP (adj cortisyl))))
+  (NP1 (NP2 (N tablets)) (NP2 (N please)))
+  (VP1
+    (VP2 (V read))
+    (NP2 (det the) (adjP (adj following)) (N questions))))
+
+are you pregnant or trying to become pregnant
+(S
+  (NP1 (NP2 (N are)))
+  (VP1
+    (VP2
+      (prp you)
+      (VP2
+        (VP2 (V pregnant))
+        (conj or)
+        (VP2 (V trying) (NP2 (N to)))))
+    (VP2 (VP2 (V become)) (adjP (adj pregnant)))))
+
+are you breastfeeding
+(S (NP1 (NP2 (N are))) (VP1 (VP2 (prp you) (V breastfeeding))))
+
+have you ever had a bad reaction to or are allergic to any of the ingredients in this product
+(S
+  (NP1 (NP2 (N have)))
+  (VP1
+    (VP2 (prp you) (VP2 (advP (adv ever)) (VP2 (V had) (NP2 (N a)))))
+    (NP1 (NP2 (adjP (adj bad)) (NP2 (N reaction))) (NP2 (N to))))
+  (conj or)
+  (NP1 (NP2 (N are)))
+  (VP1 (VP2 (V allergic) (NP2 (N to))) (NP2 (N any)))
+  (PP1
+    (PP2 (prep of) (NP2 (N the) (N ingredients)))
+    (PP2 (prep in) (NP2 (N this) (N product)))))
+
+have you or are you being treated for any kind of infection at the moment
+(S
+  (NP1 (NP2 (N have)) (NP2 (NP2 (N you)) (conj or) (NP2 (N are))))
+  (VP1
+    (VP2
+      (prp you)
+      (VP2 (V being) (NP2 (adjP (adj treated)) (NP2 (N for)))))
+    (NP2 (N any) (N kind)))
+  (PP1
+    (PP2 (prep of) (NP2 (N infection)))
+    (PP2 (prep at) (NP2 (det the) (N moment)))))
+
+conditions such as athletes foot thrush the common cold and cold sores are all types of infection
+(S
+  (VP1
+    (NP1
+      (NP2 (N conditions))
+      (NP2 (adjP (adj such)) (NP2 (N as) (N athletes))))
+    (VP2 (VP2 (V foot) (NP2 (N thrush) (N the))) (adjP (adj common))))
+  (NP1 (NP2 (N cold) (conj and) (N cold)))
+  (VP1
+    (NP1 (NP2 (N sores)))
+    (VP2
+      (V are)
+      (NP2 (N all) (N types))
+      (PP2 (prep of) (NP2 (N infection))))))
+
+have you ever been or are you being treated for tuberculosis
+(S
+  (NP1 (NP2 (N have)))
+  (VP1 (VP2 (NP2 (N you)) (advP (adv ever))) (VP2 (V been)))
+  (conj or)
+  (NP1 (NP2 (N are) (N you)))
+  (VP1 (VP2 (V being)) (VP2 (V treated)))
+  (PP1 (PP2 (prep for) (NP2 (N tuberculosis)))))
+
+are you epileptic
+(S (VP1 (VP2 (VP2 (V are) (NP2 (N you))) (adjP (adj epileptic)))))
+
+do you or does anyone in your family have diabetes
+(S
+  (VP1
+    (VP2
+      (VP2 (V do) (NP2 (N you)))
+      (conj or)
+      (VP2 (V does) (NP2 (N anyone)) (PP2 (prep in) (NP2 (N your)))))
+    (NP1 (NP2 (N family)) (NP2 (N have) (N diabetes)))))
+
+do you have high blood pressure
+(S
+  (NP1 (NP2 (N do)))
+  (VP1
+    (VP2 (prp you) (VP2 (VP2 (V have)) (adjP (adj high))))
+    (NP2 (N blood) (N pressure))))
+
+do you suffer from kidney liver or heart problems
+(S
+  (VP1
+    (VP2
+      (V do)
+      (NP2 (N you))
+      (PP2 (VP2 (V suffer)) (prep from) (VP2 (V kidney))))
+    (NP1
+      (NP2 (NP2 (N liver)) (conj or) (NP2 (N heart)))
+      (NP2 (N problems)))))
+
+do you have osteoporosis brittle/weak bones
+(S
+  (NP1 (NP2 (N do)) (NP2 (prp you) (N have)))
+  (VP1
+    (VP2 (VP2 (V osteoporosis)) (adjP (adj brittle/weak)))
+    (NP2 (N bones))))
+
+do you or does anyone in your family have glaucoma
+(S
+  (VP1
+    (VP2
+      (VP2 (V do) (NP2 (N you)))
+      (conj or)
+      (VP2 (V does) (NP2 (N anyone)) (PP2 (prep in) (NP2 (N your)))))
+    (NP1 (NP2 (N family)) (NP2 (N have) (N glaucoma)))))
+
+do you have or have had a stomach ulcer
+(S
+  (NP1 (NP2 (N do)))
+  (VP1 (VP2 (prp you) (V have)))
+  (conj or)
+  (NP1 (NP2 (N have)))
+  (VP1 (VP2 (V had) (NP2 (N a))) (NP2 (N stomach) (N ulcer))))
+
+are you taking any other medicines
+(S
+  (VP1
+    (VP2 (V are) (NP2 (N you)))
+    (NP1
+      (NP2 (N taking))
+      (NP2 (det any) (adjP (adj other)) (N medicines)))))
+
+your doctor will know about these and may change your dose of medication to deal with this
+(S
+  (NP1 (NP2 (N your)))
+  (VP1
+    (VP2
+      (NP2 (N doctor))
+      (md will)
+      (VP2
+        (PP2
+          (VP2 (V know))
+          (prep about)
+          (VP2 (NP2 (det these) (N and)) (md may)))
+        (VP2
+          (V change)
+          (NP2 (prp your) (N dose))
+          (PP2 (prep of) (NP2 (N medication) (N to))))))
+    (VP2 (V deal)))
+  (PP1 (PP2 (prep with) (det this))))
+
+you should mention to your doctor or pharmacist any other medicines that you are taking including any that you can buy without a prescription
+(S
+  (VP1
+    (VP2 (prp you) (VP2 (md should) (V mention)))
+    (NP1 (NP2 (N to))))
+  (NP1
+    (NP2
+      (adjP (adj your))
+      (NP2 (NP2 (N doctor)) (conj or) (NP2 (N pharmacist) (N any))))
+    (NP2
+      (adjP (adj other))
+      (NP2 (N medicines) (PP2 (prep that) (VP2 (prp you) (V are))))))
+  (VP1
+    (NP1 (NP2 (N taking)))
+    (VP2
+      (V including)
+      (NP2
+        (N any)
+        (PP2 (prep that) (VP2 (prp you) (VP2 (md can) (V buy)))))
+      (PP2 (prep without) (NP2 (N a) (N prescription))))))
+
+how should you take your medicine
+(S
+  (VP1
+    (VP2 (NP2 (N how)) (md should) (NP2 (N you)))
+    (NP1 (NP2 (N take)) (NP2 (prp your) (N medicine)))))
+
+adults if you are taking cortisyl tablets
+(S
+  (NP1 (NP2 (N adults)))
+  (VP1
+    (VP2 (PP2 (prep if) (NP2 (N you))) (VP2 (V are)))
+    (NP1 (NP2 (N taking) (N cortisyl)) (NP2 (N tablets)))))
+
+children the dose for children is again decided by your doctor
+(S
+  (NP1 (NP2 (N children)))
+  (VP1
+    (NP1
+      (NP2 (det the) (adjP (adj dose)) (N for))
+      (NP2 (N children) (N is)))
+    (VP2 (advP (adv again)) (V decided)))
+  (PP1 (PP2 (prep by) (NP2 (prp your) (N doctor)))))
+
+he may decide to give the medicine on alternate days
+(S
+  (VP1 (VP2 (prp he) (VP2 (md may) (V decide))))
+  (NP1 (NP2 (N to)))
+  (VP1
+    (VP2
+      (VP2
+        (V give)
+        (NP2 (N the))
+        (PP2 (adjP (adj medicine)) (prep on)))
+      (adjP (adj alternate)))
+    (NP1 (NP2 (N days)))))
+
+note
+(S (VP1 (VP2 (V note))))
+
+your doctor may advise you to take this medicine in a different way for example taking a different dose of cortisyl tablets every other day
+(S
+  (VP1
+    (VP2
+      (prp your)
+      (VP2
+        (NP2 (N doctor))
+        (md may)
+        (VP2 (V advise) (NP2 (prp you) (N to)))))
+    (VP2
+      (VP2
+        (V take)
+        (NP2 (N this) (N medicine))
+        (PP2 (prep in) (det a)))
+      (adjP (adj different))))
+  (NP1 (NP2 (N way) (PP2 (prep for) (NP2 (N example)))))
+  (VP1
+    (VP2
+      (VP2
+        (V taking)
+        (NP2 (det a) (adjP (adj different) (adj dose)) (N of)))
+      (adjP (adj cortisyl)))
+    (NP1
+      (NP2 (N tablets))
+      (NP2 (det every) (adjP (adj other)) (N day)))))
+
+sometimes when you have been taking this medicine for a long time your dose may need to be changed if you become ill or are to have a surgical operation
+(S
+  (VP1
+    (VP2
+      (V sometimes)
+      (NP2 (wp when) (NP2 (prp you) (N have)))
+      (PP2
+        (VP2
+          (VP2 (V been) (NP2 (N taking) (N this)))
+          (adjP (adj medicine)))
+        (prep for)
+        (VP2 (NP2 (N a)) (advP (adv long)))))
+    (NP1
+      (NP2 (N time))
+      (NP2 (adjP (adj your) (adj dose)) (NP2 (N may) (N need)))))
+  (NP1
+    (NP2
+      (N to)
+      (PP2
+        (VP2 (V be) (V changed))
+        (prep if)
+        (VP2 (prp you) (V become))))
+    (NP2 (NP2 (N ill)) (conj or) (NP2 (N are) (N to))))
+  (VP1
+    (VP2 (VP2 (V have) (NP2 (N a))) (adjP (adj surgical)))
+    (NP2 (N operation))))
+
+your pharmacist may also help you if you are not sure
+(S
+  (NP1 (NP2 (N your)))
+  (VP1
+    (NP1 (NP2 (N pharmacist)))
+    (VP2
+      (VP2
+        (NP2
+          (N may)
+          (PP2
+            (VP2 (advP (adv also)) (VP2 (V help) (NP2 (N you))))
+            (prep if)
+            (VP2 (prp you) (V are))))
+        (advP (adv not)))
+      (adjP (adj sure)))))
+
+you may be given a blue steroid card from either your doctor or pharmacist when you are given your medicine
+(S
+  (VP1
+    (VP2 (NP2 (N you)) (md may) (VP2 (V be) (V given)))
+    (NP2 (N a)))
+  (NP1 (NP2 (N blue) (conj steroid) (N card)))
+  (VP1
+    (VP2
+      (PP2
+        (prep from)
+        (NP2
+          (NP2 (det either) (adjP (adj your)) (N doctor))
+          (conj or)
+          (NP2 (N pharmacist))))
+      (VP2 (wp when) (VP2 (prp you) (VP2 (V are) (V given)))))
+    (NP2 (prp your) (N medicine))))
+
+it is in your best interest to carry the card with you at all times because it contains
+(S
+  (NP1
+    (NP2
+      (prp it)
+      (NP2
+        (N is)
+        (PP2
+          (VP2
+            (PP2
+              (prep in)
+              (NP2
+                (adjP (adj your) (adj best))
+                (NP2 (N interest) (N to))))
+            (VP2
+              (V carry)
+              (NP2 (N the) (N card))
+              (PP2
+                (prep with)
+                (NP2 (N you) (PP2 (prep at) (NP2 (N all) (N times)))))))
+          (prep because)
+          (VP2 (prp it) (V contains)))))))
+
+as well as your dosage instructions information which would be very important if you were for example to fall ill or be involved in an accident
+(S
+  (VP1
+    (VP2
+      (PP2
+        (prep as)
+        (VP2
+          (advP (adv well))
+          (VP2
+            (PP2
+              (VP2
+                (PP2
+                  (prep as)
+                  (NP2
+                    (adjP (adj your) (adj dosage))
+                    (NP2 (N instructions) (N information))))
+                (VP2
+                  (wp which)
+                  (VP2
+                    (VP2 (VP2 (md would) (V be)) (advP (adv very)))
+                    (adjP (adj important)))))
+              (prep if)
+              (VP2 (prp you) (V were)))
+            (VP2
+              (PP2 (prep for) (NP2 (N example) (N to)))
+              (VP2
+                (VP2 (VP2 (V fall)) (adjP (adj ill)))
+                (conj or)
+                (VP2 (V be)))))))
+      (VP2 (V involved) (NP2 (N in))))
+    (NP2 (det an) (N accident))))
+
+if you do forget to take a dose at the correct time take your cortisyl tablets as soon as you remember
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (VP2 (prp you) (V do)))
+      (VP2 (V forget) (NP2 (N to))))
+    (VP2 (V take) (NP2 (N a) (N dose)) (PP2 (prep at) (det the))))
+  (NP1
+    (NP2 (adjP (adj correct)) (NP2 (N time) (N take)))
+    (NP2 (adjP (adj your) (adj cortisyl)) (NP2 (N tablets))))
+  (VP1
+    (NP1 (NP2 (N as) (N soon)) (NP2 (N as)))
+    (VP2 (prp you) (V remember))))
+
+however if it is almost time for your next dose skip the missed dose and carry on as normal
+(S
+  (VP1
+    (VP2 (advP (adv however)) (N if))
+    (VP2 (prp it) (VP2 (NP2 (N is)) (advP (adv almost)))))
+  (NP1 (NP2 (N time)))
+  (VP1
+    (VP2
+      (PP2
+        (prep for)
+        (NP2 (adjP (adj your) (adj next)) (NP2 (N dose))))
+      (VP2 (V skip) (NP2 (N the))))
+    (VP2
+      (VP2
+        (V missed)
+        (NP2 (N dose) (conj and) (N carry))
+        (PP2 (prep on) (NP2 (N as))))
+      (adjP (adj normal)))))
+
+do not take any extra tablets to make up
+(S
+  (NP1 (NP2 (N do)))
+  (VP1
+    (VP2
+      (advP (adv not))
+      (VP2 (V take) (NP2 (det any) (adjP (adj extra)) (N tablets))))
+    (VP2 (NP2 (N to) (N make)) (advP (adv up)))))
+
+if you accidentally take too many tablets contact your doctor or the hospital casualty department immediately
+(S
+  (VP1
+    (NP1 (NP2 (N if)))
+    (VP2
+      (VP2
+        (prp you)
+        (VP2
+          (advP (adv accidentally))
+          (VP2 (NP2 (N take)) (advP (adv too)))))
+      (adjP (adj many))))
+  (NP1 (NP2 (N tablets)))
+  (VP1
+    (VP2
+      (V contact)
+      (NP2
+        (prp your)
+        (NP2 (NP2 (N doctor)) (conj or) (NP2 (N the) (N hospital)))))
+    (VP2 (NP2 (N casualty) (N department)) (advP (adv immediately)))))
+
+remember
+(S (VP1 (VP2 (V remember))))
+
+keep taking your medicine until your doctor tells you to stop
+(S
+  (VP1
+    (VP2 (V keep))
+    (NP1
+      (NP2
+        (N taking)
+        (PP2 (adjP (adj your) (adj medicine)) (prep until)))
+      (NP2 (N your))))
+  (NP1 (NP2 (N doctor)) (NP2 (N tells) (N you)))
+  (VP1 (NP1 (NP2 (N to))) (VP2 (V stop))))
+
+have you got a repeat prescription from your doctor
+(S
+  (NP1 (NP2 (N have)))
+  (VP1
+    (VP2 (prp you) (VP2 (V got) (NP2 (N a))))
+    (VP2
+      (V repeat)
+      (NP2 (N prescription))
+      (PP2 (prep from) (NP2 (prp your) (N doctor))))))
+
+it is very important that you do not stop taking this medicine abruptly
+(S
+  (VP1 (VP2 (prp it) (VP2 (NP2 (N is)) (advP (adv very)))))
+  (NP1 (NP2 (N important) (PP2 (prep that) (NP2 (N you)))))
+  (VP1
+    (NP1 (NP2 (N do) (N not)))
+    (VP2
+      (VP2
+        (VP2 (V stop) (NP2 (N taking) (N this)))
+        (adjP (adj medicine)))
+      (advP (adv abruptly)))))
+
+keep a supply in reserve so that you will not accidentally run out of tablets
+(S
+  (NP1 (NP2 (N keep) (N a)))
+  (VP1
+    (NP1 (NP2 (N supply)))
+    (VP2 (NP2 (N in) (N reserve)) (advP (adv so))))
+  (PP1
+    (PP2
+      (prep that)
+      (VP2
+        (NP2 (N you))
+        (md will)
+        (VP2
+          (advP (adv not) (adv accidentally))
+          (VP2 (V run) (NP2 (N out))))))
+    (PP2 (prep of) (NP2 (N tablets)))))
+
+withdrawal
+(S (NP1 (NP2 (N withdrawal))))
+
+what about side effects
+(S (NP1 (NP2 (wp what) (NP2 (N about))) (NP2 (N side) (N effects))))
+
+like all medicines cortisyl tablets may occasionally cause you some problems
+(S
+  (PP1 (PP2 (prep like) (det all)))
+  (NP1 (NP2 (N medicines)) (NP2 (N cortisyl) (N tablets)))
+  (VP1
+    (VP2 (NP2 (N may)) (advP (adv occasionally)))
+    (NP1 (NP2 (N cause) (N you)) (NP2 (det some) (N problems)))))
+
+it affects different people in different ways
+(S
+  (NP1 (NP2 (N it)))
+  (VP1
+    (VP2
+      (VP2
+        (V affects)
+        (NP2 (adjP (adj different)) (NP2 (N people) (N in))))
+      (adjP (adj different)))
+    (NP2 (N ways))))
+
+if you notice any blood in your stools or vomit you should see your doctor
+(S
+  (VP1 (NP1 (NP2 (N if))) (VP2 (prp you) (V notice)))
+  (NP1 (NP2 (N any) (N blood)) (NP2 (N in) (N your)))
+  (VP1
+    (VP2
+      (NP2 (NP2 (N stools)) (conj or) (NP2 (N vomit) (N you)))
+      (md should))
+    (NP1 (NP2 (N see)) (NP2 (prp your) (N doctor)))))
+
+sometimes the throat may become very sore
+(S
+  (VP1
+    (VP2 (V sometimes) (NP2 (N the) (N throat)))
+    (VP2
+      (VP2 (VP2 (md may) (V become)) (advP (adv very)))
+      (advP (adv sore)))))
+
+you may find that the inside of your mouth develops white areas on its surface if this happens you should see your doctor
+(S
+  (NP1
+    (NP2
+      (prp you)
+      (NP2
+        (N may)
+        (PP2
+          (VP2 (V find) (NP2 (det that) (N the)))
+          (prep inside)
+          (VP2
+            (PP2 (prep of) (NP2 (prp your) (N mouth)))
+            (VP2
+              (V develops)
+              (NP2 (adjP (adj white)) (NP2 (N areas)))
+              (PP2 (prep on) (NP2 (prp its) (NP2 (N surface))))))))))
+  (VP1
+    (VP2
+      (PP2 (prep if) (det this))
+      (VP2 (V happens) (NP2 (prp you) (N should))))
+    (NP1 (NP2 (N see)) (NP2 (prp your) (N doctor)))))
+
+alternatively you may find that you lose weight and feel weak
+(S
+  (VP1
+    (VP2
+      (advP (adv alternatively))
+      (VP2
+        (prp you)
+        (VP2
+          (VP2
+            (PP2
+              (VP2 (md may) (V find))
+              (prep that)
+              (VP2 (prp you) (V lose)))
+            (VP2 (V weight) (NP2 (N and))))
+          (adjP (adj feel) (adj weak)))))))
+
+osteoporosis may occur and sometimes it can become easier to fracture your bones and for your tendons to tear
+(S
+  (VP1
+    (NP1 (NP2 (N osteoporosis) (N may)) (NP2 (N occur) (N and)))
+    (VP2
+      (advP (adv sometimes))
+      (VP2
+        (prp it)
+        (VP2 (VP2 (md can) (V become)) (adjP (adj easier))))))
+  (NP1 (NP2 (N to)))
+  (VP1
+    (VP2
+      (V fracture)
+      (NP2 (adjP (adj your)) (NP2 (N bones) (N and)))
+      (PP2 (prep for) (NP2 (prp your) (NP2 (N tendons) (N to)))))
+    (VP2 (V tear))))
+
+sometimes
+(S (VP1 (VP2 (V sometimes))))
+
+women taking this medicine may find that their periods become irregular or stop altogether
+(S
+  (VP1 (NP1 (NP2 (N women))) (VP2 (V taking)))
+  (NP1
+    (NP2 (N this) (N medicine))
+    (NP2 (N may) (PP2 (prep find) (det that))))
+  (VP1
+    (NP1 (NP2 (prp their) (NP2 (N periods))))
+    (VP2
+      (VP2 (VP2 (V become)) (adjP (adj irregular)))
+      (conj or)
+      (VP2 (NP2 (N stop)) (advP (adv altogether))))))
+
+your hair may grow faster and thicker than before you started this medicine
+(S
+  (NP1
+    (NP2
+      (N your)
+      (PP2
+        (VP2
+          (NP2 (N hair))
+          (md may)
+          (VP2
+            (VP2 (VP2 (V grow)) (advP (adv faster)))
+            (conj and)
+            (PP2 (adjP (adj thicker)) (prep than))))
+        (prep before)
+        (VP2 (prp you) (VP2 (V started) (NP2 (N this))))))
+    (NP2 (N medicine))))
+
+if you are already diabetic you may find that you need to take more medication to balance the effect of cortisyl tablets
+(S
+  (VP1
+    (NP1 (NP2 (N if) (N you)))
+    (VP2 (NP2 (N are)) (advP (adv already))))
+  (NP1 (NP2 (N diabetic)) (NP2 (prp you) (N may)))
+  (VP1
+    (VP2
+      (PP2
+        (prep find)
+        (NP2 (wp that) (NP2 (prp you) (NP2 (N need) (N to)))))
+      (VP2
+        (V take)
+        (NP2 (adjP (adj more)) (NP2 (N medication) (N to)))))
+    (VP2
+      (V balance)
+      (NP2 (N the) (N effect))
+      (PP2 (prep of) (NP2 (adjP (adj cortisyl)) (NP2 (N tablets)))))))
+
+you should discuss this with your doctor
+(S
+  (VP1
+    (VP2
+      (NP2 (N you))
+      (md should)
+      (VP2 (V discuss) (NP2 (N this) (N with))))
+    (NP2 (prp your) (N doctor))))
+
+children who take this medicine may not grow as quickly as others of their age
+(S
+  (NP1 (NP2 (N children)) (NP2 (wp who) (NP2 (N take) (N this))))
+  (VP1
+    (VP2 (NP2 (N medicine)) (md may) (VP2 (advP (adv not)) (V grow)))
+    (VP2 (NP2 (N as)) (advP (adv quickly))))
+  (PP1
+    (PP2 (prep as) (NP2 (N others)))
+    (PP2 (prep of) (NP2 (prp their) (NP2 (N age))))))
+
+you may find that your blood pressure goes up and that you retain water
+(S
+  (VP1
+    (VP2 (prp you) (md may))
+    (VP2
+      (VP2
+        (PP2
+          (prep find)
+          (NP2
+            (wp that)
+            (NP2 (prp your) (NP2 (N blood) (N pressure)))))
+        (VP2 (V goes)))
+      (advP (adv up))))
+  (NP1 (NP2 (N and)) (NP2 (det that) (N you)))
+  (VP1 (VP2 (V retain)) (NP2 (N water))))
+
+if you suffer from epilepsy your doctor may wish to alter your dose of medication whilst you are taking cortisyl tablets
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (VP2 (prp you) (V suffer)))
+      (VP2
+        (PP2 (prep from) (NP2 (N epilepsy) (N your)))
+        (VP2 (NP2 (N doctor)) (md may) (VP2 (V wish) (NP2 (N to))))))
+    (VP2 (V alter)))
+  (NP1
+    (NP2 (adjP (adj your) (adj dose)) (NP2 (N of) (N medication))))
+  (VP1
+    (VP2 (PP2 (prep whilst) (NP2 (N you))) (VP2 (V are)))
+    (NP1 (NP2 (N taking) (N cortisyl)) (NP2 (N tablets)))))
+
+this is because the symptoms of your epilepsy may become more prominent
+(S
+  (NP1
+    (NP2 (N this))
+    (NP2 (N is) (PP2 (prep because) (NP2 (det the) (N symptoms)))))
+  (VP1
+    (NP1 (NP2 (N of) (N your)) (NP2 (N epilepsy) (N may)))
+    (VP2
+      (VP2 (VP2 (V become)) (adjP (adj more)))
+      (adjP (adj prominent)))))
+
+you may also find that your skin becomes flushed red and thinner than before and that stretch marks may appear
+(S
+  (VP1
+    (VP2
+      (PP2
+        (VP2 (VP2 (prp you) (md may)) (advP (adv also)))
+        (prep find)
+        (VP2
+          (PP2
+            (prep that)
+            (NP2 (adjP (adj your)) (NP2 (N skin) (N becomes))))
+          (VP2 (V flushed))))
+      (VP2
+        (NP2
+          (adjP (adj red))
+          (NP2 (N and) (PP2 (adjP (adj thinner)) (prep than))))
+        (advP (adv before)))))
+  (NP1 (NP2 (N and)) (NP2 (det that) (N stretch)))
+  (VP1 (NP1 (NP2 (N marks)) (NP2 (N may))) (VP2 (V appear))))
+
+these tablets affect people in many different ways
+(S
+  (NP1 (NP2 (det these) (N tablets)))
+  (VP1 (VP2 (V affect)) (NP1 (NP2 (N people))))
+  (PP1
+    (PP2
+      (prep in)
+      (NP2 (adjP (adj many) (adj different)) (NP2 (N ways))))))
+
+if you find that your eyes are hurting have any change in vision or that you have a bad headache especially behind your eyes you should check with your doctor
+(S
+  (NP1
+    (NP2 (N if))
+    (NP2
+      (N you)
+      (PP2
+        (prep find)
+        (VP2
+          (PP2 (prep that) (NP2 (prp your) (NP2 (N eyes) (N are))))
+          (VP2 (V hurting))))))
+  (VP1
+    (VP2 (V have) (NP2 (N any) (N change)))
+    (NP2 (N in) (N vision)))
+  (conj or)
+  (NP1 (NP2 (wp that) (NP2 (prp you) (N have))))
+  (VP1
+    (VP2
+      (PP2
+        (VP2
+          (NP2 (det a) (adjP (adj bad)) (N headache))
+          (advP (adv especially)))
+        (prep behind)
+        (VP2 (NP2 (prp your) (NP2 (N eyes) (N you))) (md should)))
+      (VP2 (V check) (NP2 (N with))))
+    (NP2 (prp your) (N doctor))))
+
+this may continue or start to happen after you have been told to stop taking this medicine
+(S
+  (VP1
+    (VP2
+      (VP2 (NP2 (N this)) (md may) (VP2 (V continue)))
+      (conj or)
+      (VP2
+        (V start)
+        (NP2 (N to))
+        (PP2
+          (VP2 (V happen))
+          (prep after)
+          (VP2 (prp you) (VP2 (V have) (V been))))))
+    (VP2 (V told)))
+  (NP1 (NP2 (N to)))
+  (VP1 (VP2 (V stop) (NP2 (N taking) (N this))) (NP2 (N medicine))))
+
+cortisyl tablets can lower your resistance to infections
+(S
+  (NP1 (NP2 (N cortisyl) (N tablets)) (NP2 (N can)))
+  (VP1
+    (VP2
+      (V lower)
+      (NP2 (adjP (adj your)) (NP2 (N resistance) (N to))))
+    (NP2 (N infections))))
+
+this means that patients sometimes find that they catch a cold or symptoms of a previous infection such as tuberculosis tb occur more easily than they did before they started to take this medicine
+(S
+  (VP1
+    (VP2
+      (PP2
+        (VP2
+          (NP2
+            (N this)
+            (PP2
+              (VP2
+                (VP2 (V means) (NP2 (det that) (N patients)))
+                (advP (adv sometimes)))
+              (prep find)
+              (VP2
+                (PP2
+                  (prep that)
+                  (VP2
+                    (VP2
+                      (prp they)
+                      (VP2
+                        (V catch)
+                        (NP2
+                          (NP2 (N a) (N cold))
+                          (conj or)
+                          (NP2 (N symptoms)))
+                        (PP2
+                          (prep of)
+                          (NP2
+                            (det a)
+                            (adjP (adj previous))
+                            (N infection)))))
+                    (adjP (adj such))))
+                (VP2
+                  (PP2 (prep as) (NP2 (N tuberculosis) (N tb)))
+                  (VP2 (V occur))))))
+          (advP (adv more) (adv easily)))
+        (prep than)
+        (VP2 (prp they) (VP2 (V did))))
+      (VP2
+        (PP2
+          (prep before)
+          (VP2 (prp they) (VP2 (V started) (NP2 (N to)))))
+        (VP2 (V take) (NP2 (N this)))))
+    (NP2 (N medicine))))
+
+if you have any other problems and think that your medicine may be causing them tell your doctor or pharmacist
+(S
+  (NP1
+    (NP2 (N if))
+    (NP2
+      (N you)
+      (PP2
+        (VP2
+          (VP2
+            (V have)
+            (NP2 (det any) (adjP (adj other)) (N problems)))
+          (conj and)
+          (VP2 (V think)))
+        (prep that)
+        (VP2
+          (prp your)
+          (VP2 (NP2 (N medicine)) (md may) (VP2 (V be)))))))
+  (VP1
+    (VP2 (V causing) (NP2 (prp them) (NP2 (N tell) (N your))))
+    (NP2 (NP2 (N doctor)) (conj or) (NP2 (N pharmacist)))))
+
+how should you store your medicine
+(S
+  (VP1
+    (VP2 (NP2 (N how)) (md should) (NP2 (N you)))
+    (NP1 (NP2 (N store)) (NP2 (prp your) (N medicine)))))
+
+keep it in the pack in which it was given to you
+(S
+  (VP1
+    (VP2
+      (PP2
+        (VP2
+          (V keep)
+          (NP2 (N it))
+          (PP2 (prep in) (NP2 (N the) (N pack))))
+        (prep in)
+        (VP2 (wp which) (VP2 (prp it) (V was))))
+      (VP2 (V given) (NP2 (N to))))
+    (NP2 (N you))))
+
+do not transfer your medicine to another container
+(S
+  (NP1 (NP2 (N do)))
+  (VP1
+    (VP2 (advP (adv not)) (VP2 (VP2 (V transfer)) (adjP (adj your))))
+    (NP1
+      (NP2 (adjP (adj medicine)) (NP2 (N to)))
+      (NP2 (det another) (N container)))))
+
+only keep it if the doctor tells you to
+(S
+  (VP1
+    (VP2
+      (advP (adv only))
+      (VP2 (V keep) (NP2 (N it)) (PP2 (prep if) (det the))))
+    (NP1 (NP2 (N doctor) (N tells)) (NP2 (prp you) (N to)))))
+
+this leaflet was revised september 1995
+(S
+  (NP1 (NP2 (N this)) (NP2 (N leaflet)))
+  (VP1
+    (VP2 (V was) (V revised))
+    (NP1 (NP2 (N september) (CDP (cd 1995))))))
+
+please read this leaflet before this medicine is started
+(S
+  (NP1 (NP2 (N please) (N read)))
+  (VP1
+    (NP1
+      (NP2 (N this))
+      (NP2
+        (N leaflet)
+        (PP2
+          (prep before)
+          (NP2 (det this) (adjP (adj medicine)) (N is)))))
+    (VP2 (V started))))
+
+it is essential to follow your doctors advice
+(S
+  (VP1 (VP2 (prp it) (V is)))
+  (NP1
+    (NP2 (adjP (adj essential)) (NP2 (N to)))
+    (NP2 (N follow) (N your)))
+  (VP1 (NP1 (NP2 (N doctors))) (VP2 (V advice))))
+
+if there is anything you do not understand please ask your doctor or pharmacist chemist
+(S
+  (VP1
+    (VP2
+      (PP2
+        (prep if)
+        (VP2 (advP (adv there)) (VP2 (V is) (NP2 (N anything)))))
+      (VP2 (prp you) (V do)))
+    (VP2 (advP (adv not)) (V understand)))
+  (NP1 (NP2 (N please)))
+  (VP1
+    (VP2
+      (V ask)
+      (NP2
+        (prp your)
+        (NP2 (NP2 (N doctor)) (conj or) (NP2 (N pharmacist)))))
+    (NP1 (NP2 (N chemist)))))
+
+keep this leaflet until all the prescribed course of amoxil has been finished
+(S
+  (VP1 (VP2 (V keep) (NP2 (N this))) (NP2 (N leaflet)))
+  (NP1
+    (NP2 (N until) (N all))
+    (NP2 (det the) (adjP (adj prescribed)) (N course)))
+  (VP1
+    (VP2 (PP2 (prep of) (NP2 (N amoxil))) (VP2 (V has) (V been)))
+    (NP2 (N finished))))
+
+the name of this medicine is amoxil
+(S
+  (NP1 (NP2 (N the)) (NP2 (N name)))
+  (VP1
+    (VP2 (PP2 (prep of) (NP2 (N this) (N medicine))) (VP2 (V is)))
+    (NP2 (N amoxil))))
+
+what is amoxil
+(S (NP1 (NP2 (wp what) (NP2 (N is) (N amoxil)))))
+
+it is one of a group of antibiotic medicines called penicillins
+(S
+  (NP1 (NP2 (prp it) (NP2 (N is) (CDP (cd one)))))
+  (VP1
+    (VP2
+      (PP2 (prep of) (NP2 (N a) (N group)))
+      (VP2
+        (PP2
+          (prep of)
+          (NP2 (adjP (adj antibiotic)) (NP2 (N medicines))))
+        (VP2 (V called))))
+    (NP2 (N penicillins))))
+
+the active ingredient in amoxil is amoxycillin
+(S
+  (NP1 (NP2 (N the)) (NP2 (adjP (adj active)) (NP2 (N ingredient))))
+  (VP1
+    (VP2 (PP2 (prep in) (NP2 (N amoxil))) (VP2 (V is)))
+    (NP2 (N amoxycillin))))
+
+what does amoxil do
+(S
+  (VP1 (VP2 (wp what) (VP2 (V does) (NP2 (N amoxil)))) (VP2 (V do))))
+
+it is used to treat a range of bacterial infections
+(S
+  (NP1 (NP2 (prp it) (N is)))
+  (VP1
+    (VP2 (V used) (NP2 (N to)))
+    (VP2
+      (V treat)
+      (NP2 (N a) (N range))
+      (PP2
+        (prep of)
+        (NP2 (adjP (adj bacterial)) (NP2 (N infections)))))))
+
+important things to know about amoxil
+(S
+  (NP1 (NP2 (N important) (N things)) (NP2 (N to)))
+  (VP1 (VP2 (V know)) (NP1 (NP2 (N about) (N amoxil)))))
+
+this medicine is unsuitable for people who are allergic to penicillin
+(S
+  (VP1 (NP1 (NP2 (N this)) (NP2 (N medicine))) (VP2 (V is)))
+  (NP1
+    (NP2 (adjP (adj unsuitable)) (NP2 (N for) (N people)))
+    (NP2 (wp who) (NP2 (N are) (N allergic))))
+  (VP1 (NP1 (NP2 (N to))) (VP2 (V penicillin))))
+
+you will find more information about this later in the leaflet
+(S
+  (VP1
+    (VP2 (prp you) (VP2 (VP2 (md will) (V find)) (adjP (adj more)))))
+  (NP1 (NP2 (N information)))
+  (VP1
+    (VP2
+      (PP2 (prep about) (det this))
+      (VP2 (advP (adv later)) (N in)))
+    (NP2 (N the) (N leaflet))))
+
+give amoxil to your child as directed by your doctor
+(S
+  (PP1
+    (PP2
+      (VP2
+        (VP2 (V give) (NP2 (N amoxil) (N to)))
+        (adjP (adj your) (adj child)))
+      (prep as)
+      (VP2 (V directed)))
+    (PP2 (prep by) (NP2 (prp your) (N doctor)))))
+
+read the dispensing label
+(S
+  (NP1 (NP2 (N read) (N the)))
+  (VP1 (VP2 (V dispensing)) (NP1 (NP2 (N label)))))
+
+keep giving your child amoxil until the prescribed course is finished
+(S
+  (VP1 (VP2 (V keep)))
+  (NP1
+    (NP2 (N giving))
+    (NP2 (adjP (adj your) (adj child)) (NP2 (N amoxil))))
+  (VP1
+    (VP2
+      (PP2 (prep until) (det the))
+      (VP2 (V prescribed) (NP2 (N course))))
+    (NP2 (N is) (N finished))))
+
+do not stop just because your child seems better
+(S
+  (VP1
+    (VP2 (V do) (NP2 (N not) (N stop)))
+    (VP2
+      (VP2
+        (advP (adv just))
+        (VP2
+          (PP2 (prep because) (NP2 (prp your) (N child)))
+          (VP2 (V seems))))
+      (adjP (adj better)))))
+
+like all medicines amoxil can sometimes cause unwanted effects
+(S
+  (VP1 (VP2 (V like)))
+  (NP1 (NP2 (N all) (N medicines)))
+  (VP1
+    (NP1 (NP2 (N amoxil)) (NP2 (N can)))
+    (VP2
+      (advP (adv sometimes))
+      (VP2 (V cause) (NP2 (adjP (adj unwanted)) (NP2 (N effects)))))))
+
+you will find more information about this later in the leaflet
+(S
+  (VP1
+    (VP2 (prp you) (VP2 (VP2 (md will) (V find)) (adjP (adj more)))))
+  (NP1 (NP2 (N information)))
+  (VP1
+    (VP2
+      (PP2 (prep about) (det this))
+      (VP2 (advP (adv later)) (N in)))
+    (NP2 (N the) (N leaflet))))
+
+always keep medicines out of the reach of children
+(S
+  (NP1 (NP2 (N always)))
+  (VP1 (VP2 (V keep) (NP2 (N medicines))) (NP2 (N out)))
+  (PP1
+    (PP2 (prep of) (NP2 (N the) (N reach)))
+    (PP2 (prep of) (NP2 (N children)))))
+
+women before taking any medicines you should tell our doctor if you are pregnant or think you may be or if you are breast feeding
+(S
+  (VP1
+    (VP2
+      (VP2
+        (NP2
+          (N women)
+          (PP2
+            (prep before)
+            (VP2
+              (VP2
+                (V taking)
+                (NP2 (N any) (N medicines))
+                (PP2
+                  (VP2
+                    (NP2 (N you))
+                    (md should)
+                    (VP2 (V tell) (NP2 (prp our) (NP2 (N doctor)))))
+                  (prep if)
+                  (VP2 (prp you) (VP2 (V are) (V pregnant)))))
+              (conj or)
+              (VP2 (V think) (NP2 (N you))))))
+        (md may)
+        (VP2 (V be)))
+      (conj or)
+      (PP2
+        (VP2 (PP2 (prep if) (NP2 (N you))) (VP2 (V are)))
+        (prep breast)
+        (VP2 (V feeding))))))
+
+now turn over for details on how to give this medicine to your child
+(S
+  (PP1
+    (PP2
+      (VP2 (advP (adv now)) (VP2 (V turn)))
+      (prep over)
+      (VP2
+        (PP2
+          (prep for)
+          (NP2 (N details) (PP2 (prep on) (NP2 (N how) (N to)))))
+        (VP2
+          (VP2
+            (VP2
+              (V give)
+              (NP2 (det this) (adjP (adj medicine)) (N to)))
+            (adjP (adj your)))
+          (adjP (adj child)))))))
+
+before giving your child this medicine
+(S
+  (VP1
+    (VP2
+      (advP (adv before))
+      (VP2 (VP2 (V giving)) (adjP (adj your))))
+    (NP1 (NP2 (adjP (adj child)) (NP2 (N this))) (NP2 (N medicine)))))
+
+is my child allergic to penicillin
+(S
+  (NP1 (NP2 (N is)) (NP2 (prp my) (NP2 (N child))))
+  (VP1 (VP2 (V allergic) (NP2 (N to))) (VP2 (V penicillin))))
+
+if you think your child may be allergic to penicillin check with your doctor before giving this medicine
+(S
+  (VP1 (NP1 (NP2 (N if))) (VP2 (prp you) (V think)))
+  (NP1 (NP2 (prp your) (N child)))
+  (VP1
+    (VP2 (md may) (V be))
+    (NP1
+      (NP2
+        (adjP (adj allergic))
+        (NP2
+          (N to)
+          (PP2
+            (VP2
+              (V penicillin)
+              (NP2 (N check))
+              (PP2 (prep with) (NP2 (prp your) (N doctor))))
+            (prep before)
+            (VP2 (V giving) (NP2 (N this))))))
+      (NP2 (N medicine)))))
+
+giving your child this medicine
+(S
+  (VP1
+    (VP2 (VP2 (V giving)) (adjP (adj your)))
+    (NP1 (NP2 (adjP (adj child)) (NP2 (N this))) (NP2 (N medicine)))))
+
+how much should i give my child and how often
+(S
+  (VP1
+    (VP2
+      (VP2
+        (wp how)
+        (VP2
+          (NP2 (N much))
+          (md should)
+          (VP2 (prp i) (VP2 (V give) (NP2 (prp my) (NP2 (N child)))))))
+      (conj and)
+      (NP2 (N how) (N often)))))
+
+please read the dispensing label carefully
+(S
+  (VP1 (VP2 (V please)))
+  (NP1 (NP2 (N read)) (NP2 (N the)))
+  (VP1 (VP2 (V dispensing) (NP2 (N label))) (NP2 (N carefully))))
+
+your pharmacist or doctor can help if you are not sure
+(S
+  (NP1 (NP2 (N your)))
+  (VP1
+    (VP2
+      (NP2 (NP2 (N pharmacist)) (conj or) (NP2 (N doctor)))
+      (md can)
+      (VP2 (V help) (NP2 (N if) (N you))))
+    (NP1 (NP2 (N are)) (NP2 (N not) (N sure)))))
+
+it is best for your child to take the medicine direct from the spoon
+(S
+  (NP1 (NP2 (prp it) (N is)))
+  (VP1
+    (VP2
+      (advP (adv best))
+      (VP2
+        (PP2
+          (prep for)
+          (NP2 (adjP (adj your) (adj child)) (NP2 (N to))))
+        (VP2 (V take))))
+    (NP1
+      (NP2
+        (N the)
+        (PP2 (adjP (adj medicine) (adj direct)) (prep from)))
+      (NP2 (N the) (N spoon)))))
+
+however if necessary the dose may be stirred into a few spoonfuls of cold water or infant drink not milk
+(S
+  (VP1
+    (VP2 (VP2 (advP (adv however)) (N if)) (adjP (adj necessary))))
+  (NP1 (NP2 (N the)))
+  (VP1
+    (VP2 (NP2 (N dose)) (md may) (VP2 (V be) (V stirred)))
+    (VP2
+      (PP2 (prep into) (NP2 (det a) (adjP (adj few)) (N spoonfuls)))
+      (VP2
+        (PP2
+          (prep of)
+          (NP2
+            (NP2 (adjP (adj cold)) (NP2 (N water)))
+            (conj or)
+            (NP2 (N infant) (N drink))))
+        (VP2 (advP (adv not)) (N milk))))))
+
+make sure the whole dose is swallowed each time
+(S
+  (VP1 (VP2 (V make)))
+  (NP1
+    (NP2 (adjP (adj sure)) (NP2 (N the) (N whole)))
+    (NP2 (N dose)))
+  (VP1 (VP2 (V is) (V swallowed)) (NP2 (det each) (N time))))
+
+space the doses as evenly as possible through the day
+(S
+  (NP1 (NP2 (N space)))
+  (VP1
+    (VP2
+      (VP2 (NP2 (N the) (N doses)) (advP (adv as)))
+      (advP (adv evenly)))
+    (NP1
+      (NP2 (N as) (PP2 (adjP (adj possible)) (prep through)))
+      (NP2 (N the) (N day)))))
+
+for example
+(S (NP1 (NP2 (N for) (N example))))
+
+ if you have been told to give your child amoxil 3 times a day
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (VP2 (prp you) (VP2 (V have) (V been))))
+      (VP2 (V told))))
+  (NP1 (NP2 (N to)))
+  (VP1
+    (VP2
+      (V give)
+      (NP2
+        (adjP (adj your) (adj child))
+        (NP2 (N amoxil) (CDP (cd 3)))))
+    (NP1 (NP2 (N times) (N a)) (NP2 (N day)))))
+
+how long should i carry on giving it to my child
+(S
+  (NP1
+    (NP2
+      (wp how)
+      (NP2
+        (adjP (adj long))
+        (NP2
+          (N should)
+          (PP2
+            (VP2 (prp i) (VP2 (V carry)))
+            (prep on)
+            (VP2 (V giving) (NP2 (prp it) (N to)))))))
+    (NP2 (prp my) (NP2 (N child)))))
+
+keep giving your child amoxil until the prescribed course is finished
+(S
+  (VP1 (VP2 (V keep)))
+  (NP1
+    (NP2 (N giving))
+    (NP2 (adjP (adj your) (adj child)) (NP2 (N amoxil))))
+  (VP1
+    (VP2
+      (PP2 (prep until) (det the))
+      (VP2 (V prescribed) (NP2 (N course))))
+    (NP2 (N is) (N finished))))
+
+do not stop just because your child seems better
+(S
+  (VP1
+    (VP2 (V do) (NP2 (N not) (N stop)))
+    (VP2
+      (VP2
+        (advP (adv just))
+        (VP2
+          (PP2 (prep because) (NP2 (prp your) (N child)))
+          (VP2 (V seems))))
+      (adjP (adj better)))))
+
+if you stop too soon the infection may start up again
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (N you)))
+      (VP2 (NP2 (N stop)) (advP (adv too))))
+    (NP2 (N soon)))
+  (NP1 (NP2 (N the)))
+  (VP1
+    (NP1 (NP2 (N infection)) (NP2 (N may)))
+    (VP2 (NP2 (N start)) (advP (adv up) (adv again)))))
+
+if your child still seems unwell at the end of the prescribed course of treatment tell your doctor
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (N your)))
+      (VP2 (NP2 (N child)) (advP (adv still))))
+    (VP2 (V seems)))
+  (NP1 (NP2 (N unwell)))
+  (VP1
+    (VP2
+      (PP2 (prep at) (det the))
+      (VP2 (V end) (NP2 (N of) (N the))))
+    (NP1
+      (NP2
+        (adjP (adj prescribed))
+        (NP2 (N course) (PP2 (prep of) (NP2 (N treatment) (N tell)))))
+      (NP2 (prp your) (N doctor)))))
+
+what should i do if i forget to give my child a dose
+(S
+  (VP1 (VP2 (wp what) (md should)))
+  (NP1 (NP2 (prp i) (NP2 (N do))))
+  (VP1
+    (VP2
+      (PP2 (prep if) (VP2 (prp i) (VP2 (V forget) (NP2 (N to)))))
+      (VP2 (V give) (NP2 (prp my) (NP2 (N child)))))
+    (NP1 (NP2 (N a)) (NP2 (N dose)))))
+
+if you forget to give your child a dose at the right time take it as soon as you remember
+(S
+  (VP1
+    (VP2 (PP2 (prep if) (NP2 (N you))) (VP2 (V forget) (NP2 (N to))))
+    (VP2
+      (V give)
+      (NP2 (adjP (adj your) (adj child)) (NP2 (N a) (N dose)))
+      (PP2 (prep at) (det the))))
+  (NP1
+    (NP2 (adjP (adj right)) (NP2 (N time) (N take)))
+    (NP2 (N it) (PP2 (prep as) (adv soon))))
+  (VP1 (NP1 (NP2 (N as))) (VP2 (prp you) (V remember))))
+
+after giving your child this medicine
+(S
+  (NP1 (NP2 (N after)))
+  (VP1
+    (VP2 (VP2 (V giving)) (adjP (adj your)))
+    (NP1 (NP2 (adjP (adj child)) (NP2 (N this))) (NP2 (N medicine)))))
+
+what unwanted effects might it have
+(S
+  (VP1
+    (VP2
+      (NP2 (wp what) (NP2 (adjP (adj unwanted)) (NP2 (N effects))))
+      (md might))
+    (VP2 (prp it) (V have))))
+
+a few people may find that amoxil gives them diarrhoea or indigestion
+(S
+  (NP1
+    (NP2 (det a) (adjP (adj few)) (N people))
+    (NP2
+      (NP2
+        (N may)
+        (PP2
+          (prep find)
+          (VP2
+            (PP2 (prep that) (NP2 (N amoxil)))
+            (VP2 (V gives) (NP2 (prp them) (NP2 (N diarrhoea)))))))
+      (conj or)
+      (NP2 (N indigestion)))))
+
+if this happens these symptoms are usually mild
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (N this)))
+      (VP2 (V happens) (NP2 (det these) (N symptoms))))
+    (VP2 (VP2 (NP2 (N are)) (advP (adv usually))) (adjP (adj mild)))))
+
+if your child suffers badly tell your doctor
+(S
+  (NP1 (NP2 (N if)) (NP2 (prp your) (N child)))
+  (VP1
+    (VP2 (NP2 (N suffers)) (advP (adv badly)))
+    (NP1 (NP2 (N tell)) (NP2 (prp your) (N doctor)))))
+
+tell your doctor if your child develops rashes or itching or any other unusual problems while they are taking this medicine
+(S
+  (NP1 (NP2 (N tell)) (NP2 (prp your) (N doctor)))
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (prp your) (N child)))
+      (VP2
+        (V develops)
+        (NP2
+          (NP2 (NP2 (N rashes)) (conj or) (NP2 (N itching)))
+          (conj or)
+          (NP2 (N any)))))
+    (NP1
+      (NP2
+        (adjP (adj other) (adj unusual))
+        (NP2
+          (N problems)
+          (PP2
+            (prep while)
+            (VP2 (prp they) (VP2 (V are) (NP2 (N taking) (N this)))))))
+      (NP2 (N medicine)))))
+
+if your doctor decides to stop the treatment pour any leftover medicine down the sink
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (prp your) (N doctor)))
+      (VP2 (V decides) (NP2 (N to))))
+    (VP2 (V stop)))
+  (NP1 (NP2 (N the)) (NP2 (N treatment)))
+  (VP1
+    (VP2 (V pour))
+    (NP1
+      (NP2
+        (N any)
+        (PP2 (adjP (adj leftover) (adj medicine)) (prep down)))
+      (NP2 (N the) (N sink)))))
+
+what if i have given my child too much
+(S
+  (VP1
+    (VP2
+      (wp what)
+      (VP2
+        (PP2 (prep if) (VP2 (prp i) (VP2 (V have) (V given))))
+        (VP2
+          (prp my)
+          (VP2
+            (VP2 (NP2 (N child)) (advP (adv too)))
+            (adjP (adj much))))))))
+
+if a large amount has been taken give your child plenty of water to drink and consult your doctor or local hospital casualty department at once
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (det a) (adjP (adj large)) (N amount)))
+      (VP2 (V has) (V been)))
+    (VP2 (V taken) (V give)))
+  (NP1
+    (NP2
+      (adjP (adj your) (adj child))
+      (NP2 (N plenty) (PP2 (prep of) (NP2 (N water)))))
+    (NP2 (N to)))
+  (VP1
+    (VP2
+      (VP2 (V drink))
+      (conj and)
+      (VP2
+        (V consult)
+        (NP2
+          (prp your)
+          (NP2
+            (NP2 (N doctor))
+            (conj or)
+            (NP2 (adjP (adj local)) (NP2 (N hospital) (N casualty)))))))
+    (NP2 (N department) (PP2 (prep at) (VP2 (V once))))))
+
+storing this medicine
+(S (VP1 (VP2 (V storing) (NP2 (N this))) (NP2 (N medicine))))
+
+how should i store amoxil  syrup
+(S
+  (VP1
+    (VP2 (NP2 (N how)) (md should) (VP2 (prp i) (VP2 (V store))))
+    (NP1 (NP2 (N amoxil)) (NP2 (N syrup)))))
+
+keep it in a dry place
+(S
+  (VP1
+    (VP2 (V keep) (NP2 (N it)))
+    (NP1 (NP2 (N in)) (NP2 (det a) (adjP (adj dry)) (N place)))))
+
+store all medicines out of the reach of children preferably in a locked cupboard or medicine cabinet
+(S
+  (VP1 (VP2 (V store)))
+  (NP1 (NP2 (N all)) (NP2 (N medicines)))
+  (VP1
+    (VP2
+      (PP2
+        (prep out)
+        (VP2
+          (PP2 (prep of) (NP2 (N the)))
+          (VP2 (V reach) (NP2 (N of) (N children)))))
+      (VP2 (advP (adv preferably)) (N in)))
+    (NP2
+      (NP2 (det a) (adjP (adj locked)) (N cupboard))
+      (conj or)
+      (NP2 (N medicine) (N cabinet)))))
+
+remember
+(S (VP1 (VP2 (V remember))))
+
+this medicine has been prescribed just for your child
+(S
+  (NP1 (NP2 (N this)) (NP2 (N medicine)))
+  (VP1
+    (VP2 (V has) (V been))
+    (VP2 (VP2 (V prescribed)) (advP (adv just))))
+  (PP1 (PP2 (prep for) (NP2 (prp your) (N child)))))
+
+never offer your medicine to other people
+(S
+  (NP1 (NP2 (N never)))
+  (VP1
+    (VP2 (VP2 (V offer)) (adjP (adj your)))
+    (NP1
+      (NP2 (adjP (adj medicine)) (NP2 (N to) (N other)))
+      (NP2 (N people)))))
+
+it may not be suitable for them even if their symptoms seem the same as your child
+(S
+  (VP1
+    (VP2
+      (NP2 (N it))
+      (md may)
+      (NP2
+        (N not)
+        (PP2
+          (VP2 (VP2 (V be)) (adjP (adj suitable)))
+          (prep for)
+          (VP2
+            (prp them)
+            (VP2
+              (advP (adv even))
+              (VP2
+                (PP2 (prep if) (NP2 (prp their) (NP2 (N symptoms))))
+                (VP2 (V seem) (NP2 (N the)))))))))
+    (NP1
+      (NP2 (adjP (adj same)) (NP2 (N as)))
+      (NP2 (prp your) (N child)))))
+
+more information
+(S (NP1 (NP2 (adjP (adj more)) (NP2 (N information)))))
+
+amoxil syrup is available in two strengths containing either 125 mg or 250 mg of amoxycillin as amoxycillin trihydrate per 5 ml
+(S
+  (NP1 (NP2 (N amoxil)) (NP2 (N syrup)))
+  (VP1
+    (VP2 (VP2 (V is)) (adjP (adj available)))
+    (VP2
+      (VP2
+        (PP2 (prep in) (NP2 (CDP (cd two)) (N strengths)))
+        (VP2 (V containing)))
+      (conj either)
+      (NP2 (CDP (cd 125)) (N mg))))
+  (conj or)
+  (NP1 (NP2 (CDP (cd 250)) (N mg)))
+  (VP1
+    (NP1 (NP2 (N of)))
+    (VP2
+      (VP2
+        (PP2 (adjP (adj amoxycillin)) (prep as))
+        (VP2
+          (V amoxycillin)
+          (NP2 (N trihydrate))
+          (PP2 (prep per) (cd 5))))
+      (adjP (adj ml)))))
+
+nonproprietary name amoxycillin syrup
+(S
+  (NP1
+    (NP2 (adjP (adj nonproprietary)) (NP2 (N name)))
+    (NP2 (N amoxycillin) (N syrup))))
+
+amoxil syrup also contain inactive ingredients to make the medicine acceptable
+(S
+  (NP1 (NP2 (N amoxil)) (NP2 (N syrup)))
+  (VP1
+    (VP2
+      (advP (adv also))
+      (VP2
+        (V contain)
+        (NP2 (adjP (adj inactive)) (NP2 (N ingredients) (N to)))))
+    (VP2
+      (VP2 (V make) (NP2 (N the)))
+      (adjP (adj medicine) (adj acceptable)))))
+
+amongst these are sodium benzoate and sorbitol
+(S
+  (VP1
+    (VP2 (PP2 (prep amongst) (det these)) (VP2 (V are)))
+    (NP1
+      (NP2
+        (adjP (adj sodium))
+        (NP2 (N benzoate) (conj and) (N sorbitol))))))
+
+manufacturer and product licence holder and manufacturer
+(S
+  (NP1
+    (NP2
+      (NP2 (N manufacturer))
+      (conj and)
+      (NP2 (N product) (N licence)))
+    (NP2 (N holder) (conj and) (N manufacturer))))
+
+beecham group plc trading as bencard great west road
+(S
+  (NP1 (NP2 (N beecham)) (NP2 (N group)))
+  (VP1
+    (VP2 (V plc) (NP2 (N trading)) (PP2 (prep as) (NP2 (N bencard))))
+    (NP1 (NP2 (N great) (N west)) (NP2 (N road)))))
+
+brentford tw8 9bd england
+(S
+  (NP1 (NP2 (N brentford) (N tw8)) (NP2 (CDP (cd 9bd)) (N england))))
+
+how can i obtain more information about amoxil
+(S
+  (VP1
+    (VP2 (NP2 (N how)) (md can))
+    (VP2
+      (prp i)
+      (VP2
+        (V obtain)
+        (NP2 (adjP (adj more)) (NP2 (N information)))
+        (PP2 (prep about) (NP2 (N amoxil)))))))
+
+in this short leaflet we can only give you the most important patient information about amoxil
+(S
+  (VP1
+    (VP2
+      (PP2 (prep in) (NP2 (det this) (adjP (adj short)) (N leaflet)))
+      (VP2 (NP2 (prp we) (NP2 (N can))) (advP (adv only))))
+    (VP2 (V give)))
+  (NP1
+    (NP2 (prp you) (NP2 (det the) (adjP (adj most)) (N important))))
+  (VP1
+    (VP2 (V patient) (NP2 (N information)))
+    (NP2 (N about) (N amoxil))))
+
+if you would like to know more ask your doctor or pharmacist
+(S
+  (NP1
+    (NP2
+      (N if)
+      (PP2
+        (VP2 (prp you) (md would))
+        (prep like)
+        (VP2 (NP2 (N to) (N know)) (advP (adv more))))))
+  (VP1
+    (VP2 (VP2 (V ask)) (adjP (adj your)))
+    (NP2 (NP2 (N doctor)) (conj or) (NP2 (N pharmacist)))))
+
+amoxil
+(S (NP1 (NP2 (N amoxil))))
+
+leaflet prepared in october 1989
+(S
+  (NP1 (NP2 (N leaflet)))
+  (VP1
+    (VP2 (V prepared) (NP2 (N in)))
+    (NP2 (N october) (CDP (cd 1989)))))
+
+nifedipine what is in your medicine each tablet contains the active ingredient nifedipine 10 mg
+(S
+  (NP1
+    (NP2
+      (adjP (adj nifedipine))
+      (NP2
+        (wp what)
+        (NP2 (N is) (PP2 (prep in) (NP2 (prp your) (N medicine))))))
+    (NP2 (det each) (N tablet)))
+  (VP1
+    (VP2
+      (VP2
+        (V contains)
+        (NP2 (det the) (adjP (adj active)) (N ingredient)))
+      (adjP (adj nifedipine)))
+    (NP2 (CDP (cd 10)) (N mg))))
+
+adipine&trade mr 10 is a medicine for the treatment of high blood pressure hypertension and for the prevention of coronary artery disease
+(S
+  (NP1 (NP2 (N adipine&trade)) (NP2 (N mr) (CDP (cd 10))))
+  (VP1
+    (VP2 (V is) (NP2 (N a) (N medicine)) (PP2 (prep for) (det the)))
+    (NP1
+      (NP2
+        (N treatment)
+        (PP2
+          (prep of)
+          (NP2 (adjP (adj high)) (NP2 (N blood) (N pressure)))))
+      (NP2 (N hypertension) (N and))))
+  (PP1
+    (PP2 (prep for) (NP2 (N the) (N prevention)))
+    (PP2
+      (prep of)
+      (NP2 (adjP (adj coronary)) (NP2 (N artery) (N disease))))))
+
+it belongs to a group of drugs called calcium antagonists
+(S
+  (VP1 (VP2 (prp it) (V belongs)))
+  (NP1 (NP2 (N to) (N a)) (NP2 (N group)))
+  (VP1
+    (VP2
+      (PP2 (prep of) (NP2 (N drugs)))
+      (VP2 (V called) (NP2 (N calcium))))
+    (NP2 (N antagonists))))
+
+do not take adipine&trade mr 10 if you have previously had an allergic reaction to nifedipine if you have a severe narrowing of the aortic valve obstruction of one of the valves of the heart if your bp is low and if you are pregnant or breast feeding
+(S
+  (VP1
+    (VP2 (V do) (NP2 (N not) (N take)))
+    (NP1 (NP2 (N adipine&trade)) (NP2 (N mr))))
+  (NP1 (NP2 (CDP (cd 10)) (N if)) (NP2 (prp you) (N have)))
+  (VP1
+    (VP2
+      (advP (adv previously))
+      (VP2 (V had) (NP2 (det an) (adjP (adj allergic)) (N reaction))))
+    (NP1
+      (NP2
+        (N to)
+        (PP2
+          (VP2 (V nifedipine))
+          (prep if)
+          (VP2
+            (prp you)
+            (VP2
+              (V have)
+              (NP2 (det a) (adjP (adj severe)) (N narrowing))
+              (PP2
+                (prep of)
+                (NP2 (det the) (adjP (adj aortic)) (N valve)))))))
+      (NP2
+        (N obstruction)
+        (PP2
+          (prep of)
+          (NP2
+            (N one)
+            (PP2
+              (VP2
+                (PP2 (prep of) (NP2 (det the) (N valves)))
+                (VP2
+                  (PP2 (prep of) (NP2 (det the) (N heart)))
+                  (VP2
+                    (PP2 (prep if) (NP2 (prp your) (N bp)))
+                    (VP2 (V is) (NP2 (adjP (adj low)) (NP2 (N and)))))))
+              (prep if)
+              (VP2
+                (VP2 (prp you) (VP2 (V are) (V pregnant)))
+                (conj or)
+                (PP2 (prep breast) (VP2 (V feeding)))))))))))
+
+if you are diabetic you should contact your doctor to see if any changes to your diabetic medicines need to be made
+(S
+  (VP1
+    (VP2
+      (PP2
+        (prep if)
+        (VP2
+          (prp you)
+          (VP2
+            (V are)
+            (NP2 (adjP (adj diabetic)) (NP2 (prp you) (N should))))))
+      (VP2 (V contact) (NP2 (prp your) (NP2 (N doctor) (N to)))))
+    (NP1
+      (NP2 (N see) (PP2 (prep if) (NP2 (N any) (N changes))))
+      (NP2 (N to))))
+  (NP1
+    (NP2 (adjP (adj your) (adj diabetic)) (NP2 (N medicines)))
+    (NP2 (N need) (N to)))
+  (VP1 (VP2 (V be)) (VP2 (V made))))
+
+patients who are on kidney dialysis and have a very high blood pressure and a low blood volume may have a marked drop in their blood pressure
+(S
+  (NP1
+    (NP2
+      (N patients)
+      (PP2
+        (VP2 (wp who) (VP2 (V are)))
+        (prep on)
+        (VP2 (V kidney) (NP2 (N dialysis)))))
+    (NP2 (N and)))
+  (VP1
+    (VP2
+      (VP2 (VP2 (V have) (NP2 (N a))) (advP (adv very)))
+      (adjP (adj high)))
+    (NP2 (N blood) (N pressure)))
+  (conj and)
+  (NP1
+    (NP2 (det a) (adjP (adj low)) (N blood))
+    (NP2 (N volume) (N may)))
+  (VP1 (VP2 (V have) (NP2 (N a))) (VP2 (V marked) (NP2 (N drop))))
+  (PP1
+    (PP2 (prep in) (NP2 (prp their) (NP2 (N blood) (N pressure))))))
+
+patients who are on kidney dialysis and have a very high blood pressure and a low blood volume may have a marked drop in their blood pressure
+(S
+  (NP1
+    (NP2
+      (N patients)
+      (PP2
+        (VP2 (wp who) (VP2 (V are)))
+        (prep on)
+        (VP2 (V kidney) (NP2 (N dialysis)))))
+    (NP2 (N and)))
+  (VP1
+    (VP2
+      (VP2 (VP2 (V have) (NP2 (N a))) (advP (adv very)))
+      (adjP (adj high)))
+    (NP2 (N blood) (N pressure)))
+  (conj and)
+  (NP1
+    (NP2 (det a) (adjP (adj low)) (N blood))
+    (NP2 (N volume) (N may)))
+  (VP1 (VP2 (V have) (NP2 (N a))) (VP2 (V marked) (NP2 (N drop))))
+  (PP1
+    (PP2 (prep in) (NP2 (prp their) (NP2 (N blood) (N pressure))))))
+
+patient information leaflet on amoxil capsuleson amoxil
+(S
+  (VP1
+    (VP2 (V patient) (NP2 (N information)))
+    (NP1
+      (NP2
+        (N leaflet)
+        (PP2 (prep on) (NP2 (N amoxil) (N capsuleson))))
+      (NP2 (N amoxil)))))
+
+you may want to read it again
+(S
+  (NP1 (NP2 (prp you) (N may)))
+  (VP1
+    (VP2 (V want) (NP2 (N to)))
+    (VP2 (VP2 (V read) (NP2 (N it))) (advP (adv again)))))
+
+you may take amoxil before with or after food unless the label advises a specific time
+(S
+  (VP1 (VP2 (prp you) (md may)) (NP2 (N take) (N amoxil)))
+  (NP1
+    (NP2 (NP2 (N before) (N with)) (conj or) (NP2 (N after)))
+    (NP2 (N food) (PP2 (prep unless) (NP2 (N the) (N label)))))
+  (VP1
+    (VP2 (VP2 (V advises) (NP2 (N a))) (adjP (adj specific)))
+    (NP2 (N time))))
+
+how long should i carry on taking it
+(S
+  (NP1
+    (NP2 (wp how) (NP2 (adjP (adj long)) (NP2 (N should))))
+    (NP2
+      (prp i)
+      (NP2 (N carry) (PP2 (prep on) (NP2 (N taking) (N it)))))))
+
+then go on as before but do not take two doses within an hour or so of each other
+(S
+  (VP1
+    (VP2
+      (advP (adv then))
+      (VP2
+        (PP2
+          (VP2 (V go))
+          (prep on)
+          (VP2
+            (VP2 (advP (adv as)) (N before))
+            (conj but)
+            (NP2 (N do) (N not))))
+        (VP2
+          (V take)
+          (NP2 (CDP (cd two)) (N doses))
+          (PP2 (prep within) (det an)))))
+    (NP1
+      (NP2
+        (NP2 (N hour))
+        (conj or)
+        (NP2 (N so) (PP2 (prep of) (det each))))
+      (NP2 (N other)))))
+
+if a large amount has been taken drink plenty of water and consult your doctor or local hospital casualty department at once
+(S
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (det a) (adjP (adj large)) (N amount)))
+      (VP2 (V has) (V been)))
+    (VP2 (V taken) (NP2 (N drink))))
+  (NP1 (NP2 (N plenty)))
+  (VP1
+    (VP2
+      (PP2 (prep of) (NP2 (N water) (N and)))
+      (VP2
+        (V consult)
+        (NP2
+          (adjP (adj your))
+          (NP2
+            (NP2 (N doctor))
+            (conj or)
+            (NP2 (adjP (adj local)) (NP2 (N hospital) (N casualty)))))))
+    (NP2 (N department) (PP2 (prep at) (VP2 (V once))))))
+
+and the bencard logo are trade marks
+(S
+  (NP1 (NP2 (N and) (N the)) (NP2 (N bencard) (N logo)))
+  (VP1 (VP2 (V are) (NP2 (N trade))) (NP2 (N marks))))
+
+patient information leaflet on amoxil paediatric suspension
+(S
+  (VP1
+    (VP2 (V patient) (NP2 (N information)))
+    (NP1
+      (NP2
+        (N leaflet)
+        (PP2 (prep on) (NP2 (N amoxil) (N paediatric))))
+      (NP2 (N suspension)))))
+
+you may want to read it again
+(S
+  (NP1 (NP2 (prp you) (N may)))
+  (VP1
+    (VP2 (V want) (NP2 (N to)))
+    (VP2 (VP2 (V read) (NP2 (N it))) (advP (adv again)))))
+
+follow your doctors directions about how and when to give your baby amoxil
+(S
+  (VP1
+    (VP2
+      (V follow)
+      (NP2 (prp your) (NP2 (N doctors) (N directions)))
+      (PP2 (prep about) (NP2 (N how)))))
+  (NP1 (NP2 (N and)) (NP2 (wp when) (NP2 (N to))))
+  (VP1
+    (VP2 (VP2 (V give)) (adjP (adj your)))
+    (NP1 (NP2 (N baby)) (NP2 (N amoxil)))))
+
+you may give amoxil to your baby before with or after food unless the label advises a specific time
+(S
+  (VP1
+    (VP2
+      (NP2 (N you))
+      (md may)
+      (VP2 (V give) (NP2 (N amoxil) (N to))))
+    (NP2 (prp your) (N baby)))
+  (NP1
+    (NP2 (NP2 (N before) (N with)) (conj or) (NP2 (N after)))
+    (NP2 (N food) (PP2 (prep unless) (NP2 (N the) (N label)))))
+  (VP1
+    (VP2 (VP2 (V advises) (NP2 (N a))) (adjP (adj specific)))
+    (NP2 (N time))))
+
+then carry on as before but do not take two doses within an hour or so of each other
+(S
+  (VP1
+    (VP2
+      (advP (adv then))
+      (VP2
+        (PP2
+          (VP2 (V carry))
+          (prep on)
+          (VP2
+            (VP2 (advP (adv as)) (N before))
+            (conj but)
+            (NP2 (N do) (N not))))
+        (VP2
+          (V take)
+          (NP2 (CDP (cd two)) (N doses))
+          (PP2 (prep within) (det an)))))
+    (NP1
+      (NP2
+        (NP2 (N hour))
+        (conj or)
+        (NP2 (N so) (PP2 (prep of) (det each))))
+      (NP2 (N other)))))
+
+a if the dropper is not in the bottle
+(S
+  (NP1 (NP2 (N a)))
+  (VP1
+    (VP2
+      (PP2 (prep if) (NP2 (det the) (N dropper)))
+      (VP2 (V is) (NP2 (N not) (N in))))
+    (NP2 (N the) (N bottle))))
+
+do not put it on the front of the tongue or it might dribble out of the mouth
+(S
+  (VP1 (NP1 (NP2 (N do))) (VP2 (advP (adv not)) (V put)))
+  (NP1
+    (NP2 (N it) (PP2 (prep on) (det the)))
+    (NP2 (N front) (PP2 (prep of) (det the))))
+  (VP1
+    (VP2
+      (NP2 (NP2 (N tongue)) (conj or) (NP2 (N it)))
+      (md might)
+      (VP2 (V dribble) (NP2 (N out))))
+    (NP1 (NP2 (N of)) (NP2 (N the) (N mouth)))))
+
+replace the dropper in the bottle and screw it on tightly
+(S
+  (NP1 (NP2 (N replace) (N the)) (NP2 (N dropper)))
+  (VP1
+    (NP1 (NP2 (N in) (N the)) (NP2 (N bottle) (N and)))
+    (VP2 (V screw) (NP2 (N it))))
+  (PP1 (PP2 (prep on) (adv tightly))))
+
+and the bencard logo are trade marks
+(S
+  (NP1 (NP2 (N and) (N the)) (NP2 (N bencard) (N logo)))
+  (VP1 (VP2 (V are) (NP2 (N trade))) (NP2 (N marks))))
+
+if you do not understand it or you want to know more ask your doctor or pharmacist
+(S
+  (VP1
+    (VP2
+      (VP2
+        (PP2 (prep if) (VP2 (prp you) (VP2 (V do) (V not))))
+        (VP2 (V understand) (NP2 (N it))))
+      (conj or)
+      (VP2 (prp you) (V want))))
+  (NP1 (NP2 (N to)) (NP2 (N know)))
+  (VP1
+    (VP2 (advP (adv more)) (V ask))
+    (NP1
+      (NP2
+        (adjP (adj your))
+        (NP2 (NP2 (N doctor)) (conj or) (NP2 (N pharmacist)))))))
+
+keep the leaflet you may want to read it again
+(S
+  (VP1 (VP2 (V keep)))
+  (NP1 (NP2 (N the) (N leaflet)) (NP2 (prp you) (N may)))
+  (VP1
+    (VP2 (V want) (NP2 (N to)))
+    (VP2 (VP2 (V read) (NP2 (N it))) (advP (adv again)))))
+
+your medicine can be used to treat many different conditions as described above
+(S
+  (VP1 (NP1 (NP2 (prp your) (N medicine))) (VP2 (md can) (V be)))
+  (NP1 (NP2 (N used)))
+  (VP1
+    (NP1 (NP2 (N to)))
+    (VP2
+      (VP2
+        (V treat)
+        (NP2 (adjP (adj many) (adj different)) (NP2 (N conditions)))
+        (PP2 (prep as) (VP2 (V described))))
+      (adjP (adj above)))))
+
+if the answer is yes to any of these questions you must tell your doctor before taking your medicine
+(S
+  (VP1 (VP2 (PP2 (prep if) (NP2 (N the))) (VP2 (V answer))))
+  (NP1 (NP2 (N is)) (NP2 (N yes)))
+  (VP1
+    (NP1
+      (NP2 (N to))
+      (NP2 (N any) (PP2 (prep of) (NP2 (det these) (N questions)))))
+    (VP2
+      (VP2
+        (NP2 (N you))
+        (md must)
+        (VP2
+          (V tell)
+          (NP2 (prp your) (N doctor))
+          (PP2 (prep before) (VP2 (V taking)))))
+      (adjP (adj your) (adj medicine)))))
+
+have you ever had a bad reaction to any steroid before such as muscle weakness or did your moods change in any way
+(S
+  (NP1 (NP2 (N have)))
+  (VP1
+    (VP2
+      (prp you)
+      (VP2
+        (advP (adv ever))
+        (VP2 (V had) (NP2 (det a) (adjP (adj bad)) (N reaction)))))
+    (NP1
+      (NP2
+        (NP2 (N to) (N any))
+        (conj steroid)
+        (NP2 (N before) (PP2 (adjP (adj such)) (prep as))))
+      (NP2 (N muscle) (N weakness))))
+  (conj or)
+  (NP1 (NP2 (N did)) (NP2 (N your)))
+  (VP1 (NP1 (NP2 (N moods))) (VP2 (V change)))
+  (PP1 (PP2 (prep in) (NP2 (N any) (N way)))))
+
+your doctor may put you on a reducing dose this means that the number of tablets that you take is gradually lowered over a period of either days or weeks so that you eventually end up having no tablets to take
+(S
+  (VP1
+    (VP2
+      (prp your)
+      (VP2
+        (NP2 (N doctor))
+        (md may)
+        (VP2 (V put) (NP2 (N you)) (PP2 (prep on) (det a)))))
+    (VP2 (V reducing)))
+  (NP1 (NP2 (N dose)))
+  (VP1
+    (NP1
+      (NP2
+        (N this)
+        (PP2
+          (VP2
+            (PP2
+              (VP2
+                (V means)
+                (NP2 (wp that) (NP2 (N the) (N number)))
+                (PP2 (prep of) (NP2 (N tablets))))
+              (prep that)
+              (VP2
+                (NP2 (prp you) (NP2 (N take) (N is)))
+                (advP (adv gradually))))
+            (VP2 (V lowered)))
+          (prep over)
+          (VP2
+            (NP2
+              (N a)
+              (PP2
+                (VP2
+                  (PP2
+                    (VP2
+                      (NP2
+                        (NP2
+                          (N period)
+                          (PP2 (prep of) (NP2 (det either) (N days))))
+                        (conj or)
+                        (NP2 (N weeks)))
+                      (advP (adv so)))
+                    (prep that)
+                    (VP2 (NP2 (N you)) (advP (adv eventually))))
+                  (VP2 (V end)))
+                (prep up)
+                (VP2 (V having))))
+            (advP (adv no)))))
+      (NP2 (N tablets) (N to)))
+    (VP2 (V take))))
+
+you may find that your appetite increases and that you gain some weight perhaps around your face
+(S
+  (NP1
+    (NP2
+      (prp you)
+      (NP2 (N may) (PP2 (prep find) (NP2 (det that) (N your))))))
+  (VP1
+    (NP1 (NP2 (N appetite)))
+    (VP2
+      (V increases)
+      (NP2
+        (N and)
+        (PP2
+          (prep that)
+          (VP2
+            (VP2
+              (prp you)
+              (VP2 (V gain) (NP2 (det some) (N weight))))
+            (advP (adv perhaps)))))
+      (PP2 (prep around) (NP2 (prp your) (N face))))))
+
+patients find that their muscles become weaker and smaller so they do not feel as strong as usual
+(S
+  (NP1
+    (NP2
+      (N patients)
+      (PP2
+        (prep find)
+        (VP2
+          (PP2 (prep that) (NP2 (prp their) (NP2 (N muscles))))
+          (VP2
+            (VP2 (VP2 (V become)) (adjP (adj weaker)))
+            (conj and)
+            (PP2 (adjP (adj smaller)) (prep so)))))))
+  (VP1
+    (NP1 (NP2 (prp they) (NP2 (N do))))
+    (VP2
+      (VP2
+        (advP (adv not))
+        (VP2
+          (VP2
+            (VP2 (VP2 (V feel)) (advP (adv as)))
+            (adjP (adj strong)))
+          (advP (adv as))))
+      (adjP (adj usual)))))
+
+it has also been noted that some people develop signs of diabetes for example increased thirst and frequency of going to the toilet
+(S
+  (VP1
+    (VP2 (prp it) (VP2 (VP2 (V has)) (advP (adv also))))
+    (VP2 (V been) (V noted)))
+  (NP1 (NP2 (wp that) (NP2 (det some) (N people))))
+  (VP1
+    (VP2
+      (V develop)
+      (NP2 (N signs))
+      (PP2 (prep of) (NP2 (N diabetes) (N for))))
+    (NP1
+      (NP2
+        (N example)
+        (PP2
+          (VP2
+            (VP2 (VP2 (V increased)) (advP (adv thirst)))
+            (conj and)
+            (NP2 (N frequency)))
+          (prep of)
+          (VP2 (V going) (NP2 (N to) (N the)))))
+      (NP2 (N toilet)))))
+
+it could also be more likely that clots will form in your blood
+(S
+  (VP1
+    (VP2
+      (NP2 (N it))
+      (md could)
+      (VP2
+        (advP (adv also))
+        (VP2
+          (PP2
+            (VP2
+              (VP2 (VP2 (V be)) (adjP (adj more)))
+              (adjP (adj likely)))
+            (prep that)
+            (VP2 (NP2 (N clots)) (md will)))
+          (VP2 (V form) (NP2 (N in))))))
+    (VP2 (prp your) (V blood))))
+
+you could also find it more difficult to fall asleep at night
+(S
+  (PP1
+    (PP2
+      (VP2 (VP2 (prp you) (md could)) (advP (adv also)))
+      (prep find)
+      (VP2
+        (prp it)
+        (VP2
+          (advP (adv more))
+          (VP2
+            (NP2 (adjP (adj difficult)) (NP2 (N to) (N fall)))
+            (advP (adv asleep))))))
+    (PP2 (prep at) (NP2 (N night)))))
+
+keep this medicine at normal room temperature 25c/77f in a dry place and protect it from light
+(S
+  (NP1
+    (NP2 (N keep) (N this))
+    (NP2
+      (N medicine)
+      (PP2 (prep at) (NP2 (adjP (adj normal)) (NP2 (N room))))))
+  (VP1
+    (NP1 (NP2 (N temperature) (CDP (cd 25c/77f))))
+    (VP2
+      (VP2 (PP2 (prep in) (NP2 (N a))) (VP2 (V dry) (NP2 (N place))))
+      (conj and)
+      (VP2 (V protect) (NP2 (N it)))))
+  (PP1 (PP2 (prep from) (NP2 (N light)))))
+
+keep this medicine in a safe place where children can not get at it
+(S
+  (VP1 (VP2 (V keep)))
+  (NP1 (NP2 (N this)) (NP2 (N medicine)))
+  (VP1
+    (VP2
+      (PP2 (prep in) (NP2 (det a) (adjP (adj safe)) (N place)))
+      (VP2 (NP2 (wp where) (NP2 (N children))) (md can)))
+    (VP2 (V not) (NP2 (N get)) (PP2 (prep at) (NP2 (N it))))))
+
+patient information leaflet on amoxil syrupon amoxil
+(S
+  (VP1
+    (VP2 (V patient) (NP2 (N information)))
+    (NP1
+      (NP2 (N leaflet) (PP2 (prep on) (NP2 (N amoxil) (N syrupon))))
+      (NP2 (N amoxil)))))
+
+amoxil syrup is prescribed mainly for children but may also be prescribed for adults
+(S
+  (NP1
+    (NP2 (N amoxil))
+    (NP2
+      (N syrup)
+      (PP2
+        (VP2
+          (VP2 (VP2 (V is)) (adjP (adj prescribed)))
+          (advP (adv mainly)))
+        (prep for)
+        (VP2
+          (NP2 (N children) (N but))
+          (md may)
+          (VP2 (advP (adv also)) (VP2 (V be)))))))
+  (VP1 (VP2 (V prescribed)) (NP2 (N for) (N adults))))
+
+this leaflet is written with child patients and their parents in mind but the information enclosed is just as important if you are taking the medicine yourself as an adult or are helping another adult to take it
+(S
+  (NP1 (NP2 (N this) (N leaflet)) (NP2 (N is)))
+  (VP1
+    (VP2 (V written) (NP2 (N with)))
+    (NP2
+      (NP2 (adjP (adj child)) (NP2 (N patients)))
+      (conj and)
+      (NP2
+        (prp their)
+        (NP2 (N parents) (PP2 (prep in) (NP2 (N mind)))))))
+  (conj but)
+  (NP1 (NP2 (N the)) (NP2 (N information)))
+  (VP1
+    (VP2
+      (PP2
+        (VP2 (VP2 (V enclosed) (NP2 (N is))) (advP (adv just)))
+        (prep as)
+        (VP2
+          (VP2
+            (PP2 (adjP (adj important)) (prep if))
+            (VP2 (prp you) (VP2 (V are) (NP2 (N taking) (N the)))))
+          (adjP (adj medicine))))
+      (VP2
+        (prp yourself)
+        (VP2
+          (PP2
+            (prep as)
+            (NP2 (NP2 (det an) (N adult)) (conj or) (NP2 (N are))))
+          (VP2 (V helping) (NP2 (det another) (N adult))))))
+    (NP1 (NP2 (N to)) (NP2 (N take) (N it)))))
+
+you may want to read it again
+(S
+  (NP1 (NP2 (prp you) (N may)))
+  (VP1
+    (VP2 (V want) (NP2 (N to)))
+    (VP2 (VP2 (V read) (NP2 (N it))) (advP (adv again)))))
+
+follow your doctors directions about how and when to give your child amoxil
+(S
+  (VP1 (VP2 (VP2 (V follow)) (adjP (adj your))))
+  (NP1 (NP2 (N doctors)) (NP2 (N directions)))
+  (VP1
+    (VP2
+      (PP2
+        (prep about)
+        (NP2 (NP2 (N how)) (conj and) (NP2 (wp when) (NP2 (N to)))))
+      (VP2 (V give)))
+    (NP1 (NP2 (adjP (adj your) (adj child)) (NP2 (N amoxil))))))
+
+you may give amoxil to your child before with or after food unless the label advises a specific time
+(S
+  (VP1
+    (VP2
+      (NP2 (N you))
+      (md may)
+      (VP2 (V give) (NP2 (N amoxil) (N to))))
+    (NP2 (prp your) (N child)))
+  (NP1
+    (NP2 (NP2 (N before) (N with)) (conj or) (NP2 (N after)))
+    (NP2 (N food) (PP2 (prep unless) (NP2 (N the) (N label)))))
+  (VP1
+    (VP2 (VP2 (V advises) (NP2 (N a))) (adjP (adj specific)))
+    (NP2 (N time))))
+
+then carry on as before but do not take two doses within an hour or so of each other
+(S
+  (VP1
+    (VP2
+      (advP (adv then))
+      (VP2
+        (PP2
+          (VP2 (V carry))
+          (prep on)
+          (VP2
+            (VP2 (advP (adv as)) (N before))
+            (conj but)
+            (NP2 (N do) (N not))))
+        (VP2
+          (V take)
+          (NP2 (CDP (cd two)) (N doses))
+          (PP2 (prep within) (det an)))))
+    (NP1
+      (NP2
+        (NP2 (N hour))
+        (conj or)
+        (NP2 (N so) (PP2 (prep of) (det each))))
+      (NP2 (N other)))))
+
+and the bencard logo are trade marks
+(S
+  (NP1 (NP2 (N and) (N the)) (NP2 (N bencard) (N logo)))
+  (VP1 (VP2 (V are) (NP2 (N trade))) (NP2 (N marks))))
