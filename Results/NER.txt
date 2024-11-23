@@ -1,0 +1,412 @@
+adipine&trade mr 10
+Named entities (drugs): [mr 10]
+Named entities (org): [adipine&trade]
+
+adipine&trade mr
+Named entities (drugs): [mr]
+Named entities (org): [adipine&trade]
+
+adipine&trade mr 10
+Named entities (drugs): [mr 10]
+Named entities (org): [adipine&trade]
+
+apricot coated round slightly biconvex tablets
+Named entities (drugs): [tablets]
+
+adipine&trade mr 10 is available in packs of 56 tablets
+Named entities (drugs): [mr 10 tablets]
+Named entities (org): [adipine&trade]
+
+why have i been prescribed adipine&trade mr 10
+Named entities (drugs): [mr 10]
+Named entities (org): [adipine&trade]
+
+when should i not take adipine&trade mr 10
+Named entities (drugs): [mr 10]
+Named entities (org): [adipine&trade]
+
+whilst taking adipine&trade mr 10
+Named entities (drugs): [mr 10]
+Named entities (org): [adipine&trade]
+
+how many tablets how often and how should i take adipine&trade mr 10
+Named entities (drugs): [tablets mr 10]
+
+you should take the number of tablets prescribed by your doctor
+Named entities (drugs): [tablets]
+
+unless otherwise specified the usual dose is one tablet twice daily
+Named entities (drugs): [tablet]
+
+you should swallow the tablets whole with some liquid after food
+Named entities (drugs): [liquid]
+
+do not bite chew or break up the tablets
+Named entities (drugs): [tablets]
+
+for how long do i need to take adipine&trade mr 10
+Named entities (drugs): [mr 10]
+Named entities (org): [adipine&trade]
+
+high blood pressure and angina pectoris require long term treatment
+Named entities (drugs): [high]
+
+discontinuation of adipine&trade mr 10 should be gradual especially if you have been taking high doses
+Named entities (drugs): [mr 10 high]
+Named entities (org): [adipine&trade]
+
+what should i do if i miss a dose
+Named entities (drugs): [dose]
+
+if you miss a dose and it is more than 4 hours before the next dose then take your usual treatment
+Named entities (drugs): [dose]
+
+you should never take a double dose to make up for the missed dose
+Named entities (drugs): [double dose]
+
+how should i store adipine&trade mr 10
+Named entities (drugs): [mr 10]
+Named entities (org): [store adipine&trade]
+
+october 1995 &tradetrade mark applied for
+Named entities (org): [&tradetrade]
+
+how many tablets how often and how should i take adipine&trade mr 10
+Named entities (drugs): [tablets mr 10]
+
+you should take the number of tablets prescribed by your doctor
+Named entities (drugs): [tablets]
+
+unless otherwise specified the usual dose is one tablet twice daily
+Named entities (drugs): [tablet]
+
+you should swallow the tablets whole with some liquid after food
+Named entities (drugs): [liquid]
+
+do not bite chew or break up the tablets
+Named entities (drugs): [tablets]
+
+for how long do i need to take adipine&trade mr 10
+Named entities (drugs): [mr 10]
+Named entities (org): [adipine&trade]
+
+high blood pressure and angina pectoris require long term treatment
+Named entities (drugs): [high]
+
+discontinuation of adipine&trade mr 10 should be gradual especially if you have been taking high doses
+Named entities (drugs): [mr 10 high]
+Named entities (org): [adipine&trade]
+
+what should i do if i miss a dose
+Named entities (drugs): [dose]
+
+if you miss a dose and it is more than 4 hours before the next dose then take your usual treatment
+Named entities (drugs): [dose]
+
+you should never take a double dose to make up for the missed dose
+Named entities (drugs): [double dose]
+
+how should i store adipine&trade mr 10
+Named entities (drugs): [mr 10]
+Named entities (org): [store adipine&trade]
+
+october 1995 &tradetrade mark applied for
+Named entities (org): [&tradetrade]
+
+keep this leaflet until you have finished all your prescribed course of amoxil
+Named entities (drugs): [amoxil]
+
+the name of your medicine is amoxil
+Named entities (drugs): [amoxil]
+
+what is amoxil
+Named entities (drugs): [amoxil]
+
+it is one of a group of antibiotic medicines called penicillins
+Named entities (Chemical): [penicillins]
+
+the active ingredient in amoxil is amoxycillin
+Named entities (Chemical): [amoxycillin]
+Named entities (drugs): [amoxil]
+
+important things to know about amoxil
+Named entities (drugs): [amoxil]
+
+take amoxil as directed by your doctor
+Named entities (drugs): [amoxil]
+
+read the dispensing label
+Named entities (org): [label]
+
+like all medicines amoxil can sometimes cause unwanted effects
+Named entities (drugs): [amoxil]
+
+for more information about amoxil please read the rest of this leaflet
+Named entities (drugs): [amoxil]
+
+if so do not take amoxil tell your doctor
+Named entities (drugs): [amoxil]
+
+please read the dispensing label carefully
+Named entities (org): [label]
+
+amoxil capsules should be swallowed with water
+Named entities (drugs): [amoxil capsules]
+
+if you have been told to take your amoxil 3 times a day
+Named entities (drugs): [amoxil]
+
+what should i do if i forget to take a dose
+Named entities (drugs): [dose]
+
+how should i store amoxil capsules
+Named entities (drugs): [amoxil capsules]
+
+store all medicines out of the reach of children preferably in a locked cupboard or medicine cabinet
+
+amoxil capsules are available in two strengths containing either 250 mg or 500 mg of amoxycillin as amoxycillin trihydrate
+Named entities (Chemical): [amoxycillin amoxycillin trihydrate]
+Named entities (drugs): [amoxil capsules 250 mg 500 mg]
+
+nonproprietary name amoxycillin capsules
+Named entities (Chemical): [amoxycillin]
+Named entities (drugs): [capsules]
+Named entities (org): [name]
+
+amoxil capsules do not contain tartrazine or any other azo dyes
+Named entities (Chemical): [tartrazine]
+Named entities (drugs): [amoxil capsules]
+
+how can i obtain more information about amoxil
+Named entities (drugs): [amoxil]
+
+amoxil
+Named entities (drugs): [amoxil]
+
+the name of your babys medicine is amoxil
+Named entities (drugs): [amoxil]
+
+what is amoxil
+Named entities (drugs): [amoxil]
+
+it is one of a group of antibiotic medicines called penicillins
+Named entities (Chemical): [penicillins]
+
+the active ingredient in amoxil is amoxycillin
+Named entities (Chemical): [amoxycillin]
+Named entities (drugs): [amoxil]
+
+important things to know about amoxil
+Named entities (drugs): [amoxil]
+
+read the dispensing label
+Named entities (org): [label]
+
+like all medicines amoxil can sometimes cause unwanted effects
+Named entities (drugs): [amoxil]
+
+please read the dispensing label carefully
+Named entities (org): [label]
+
+what should i do if i forget to give my baby a dose
+Named entities (drugs): [dose]
+
+first remove cap from bottle and discard cap
+Named entities (drugs): [cap cap]
+
+unscrew cap to remove dropper from bottle
+Named entities (drugs): [cap]
+
+squeeze  the bulb gently until the medicine is exactly in line with red dose mark
+Named entities (drugs): [dose]
+
+how should i store amoxil paediatric suspension
+Named entities (drugs): [amoxil paediatric suspension]
+
+keep your babys amoxil paediatric suspension in a cool place
+Named entities (drugs): [amoxil paediatric suspension]
+
+store all medicines out of the reach of children  preferably in a locked cupboard or medicine cabinet
+
+nonproprietary name amoxycillin paediatric oral suspension
+Named entities (Chemical): [amoxycillin]
+Named entities (drugs): [paediatric oral suspension]
+Named entities (org): [name]
+
+amongst these are sodium benzoate and sucrose
+Named entities (Chemical): [sodium benzoate sucrose]
+
+amoxil paediatric suspension does not contain tartrazine or any other azo dyes
+Named entities (Chemical): [tartrazine]
+Named entities (drugs): [amoxil paediatric suspension]
+
+how can i obtain more information about amoxil
+Named entities (drugs): [amoxil]
+
+amoxil
+Named entities (drugs): [amoxil]
+
+cortisyl tablets 25mgcse 39670
+Named entities (drugs): [cortisyl tablets]
+
+the name of your medicine is cortisyl tablets
+Named entities (drugs): [cortisyl tablets]
+
+cortisyl tablets are available in a pack of 56 tablets
+Named entities (drugs): [cortisyl tablets pack tablets]
+
+cortisone the active ingredient is a glucocorticoid
+Named entities (Chemical): [cortisone glucocorticoid]
+
+before you take cortisyl tablets please read the following questions
+Named entities (drugs): [cortisyl tablets]
+
+conditions such as athletes foot thrush the common cold and cold sores are all types of infection
+Named entities (drugs): [cold]
+
+do you have high blood pressure
+Named entities (drugs): [high]
+
+your doctor will know about these and may change your dose of medication to deal with this
+Named entities (drugs): [dose]
+
+adults if you are taking cortisyl tablets
+Named entities (drugs): [cortisyl tablets]
+
+if you do forget to take a dose at the correct time take your cortisyl tablets as soon as you remember
+Named entities (drugs): [cortisyl tablets]
+
+if you accidentally take too many tablets contact your doctor or the hospital casualty department immediately
+Named entities (drugs): [tablets]
+
+have you got a repeat prescription from your doctor
+Named entities (drugs): [prescription]
+
+keep a supply in reserve so that you will not accidentally run out of tablets
+Named entities (drugs): [tablets]
+Named entities (org): [reserve]
+
+like all medicines cortisyl tablets may occasionally cause you some problems
+Named entities (drugs): [cortisyl tablets]
+
+sometimes the throat may become very sore
+Named entities (drugs): [sore]
+
+if you suffer from epilepsy your doctor may wish to alter your dose of medication whilst you are taking cortisyl tablets
+Named entities (drugs): [cortisyl tablets]
+
+how should you store your medicine
+
+the name of this medicine is amoxil
+Named entities (drugs): [amoxil]
+
+what is amoxil
+Named entities (drugs): [amoxil]
+
+it is one of a group of antibiotic medicines called penicillins
+Named entities (Chemical): [penicillins]
+
+the active ingredient in amoxil is amoxycillin
+Named entities (Chemical): [amoxycillin]
+Named entities (drugs): [amoxil]
+
+important things to know about amoxil
+Named entities (drugs): [amoxil]
+
+read the dispensing label
+Named entities (org): [label]
+
+like all medicines amoxil can sometimes cause unwanted effects
+Named entities (drugs): [amoxil]
+
+please read the dispensing label carefully
+Named entities (org): [label]
+
+however if necessary the dose may be stirred into a few spoonfuls of cold water or infant drink not milk
+Named entities (drugs): [cold]
+
+ if you have been told to give your child amoxil 3 times a day
+Named entities (drugs): [amoxil]
+
+what should i do if i forget to give my child a dose
+Named entities (drugs): [dose]
+
+if your child suffers badly tell your doctor
+Named entities (Chemical): [suffers]
+
+how should i store amoxil  syrup
+Named entities (drugs): [amoxil syrup]
+
+store all medicines out of the reach of children preferably in a locked cupboard or medicine cabinet
+
+amoxil syrup is available in two strengths containing either 125 mg or 250 mg of amoxycillin as amoxycillin trihydrate per 5 ml
+Named entities (Chemical): [amoxycillin amoxycillin trihydrate]
+Named entities (drugs): [amoxil syrup 125 mg 250 mg]
+
+nonproprietary name amoxycillin syrup
+Named entities (Chemical): [amoxycillin]
+Named entities (drugs): [syrup]
+Named entities (org): [name]
+
+amongst these are sodium benzoate and sorbitol
+Named entities (Chemical): [sodium benzoate sorbitol]
+
+beecham group plc trading as bencard great west road
+Named entities (org): [beecham group trading bencard]
+
+how can i obtain more information about amoxil
+Named entities (drugs): [amoxil]
+
+amoxil
+Named entities (drugs): [amoxil]
+
+nifedipine what is in your medicine each tablet contains the active ingredient nifedipine 10 mg
+Named entities (Chemical): [nifedipine]
+Named entities (drugs): [10 mg]
+
+adipine&trade mr 10 is a medicine for the treatment of high blood pressure hypertension and for the prevention of coronary artery disease
+Named entities (drugs): [mr 10 high]
+Named entities (org): [adipine&trade]
+
+patients who are on kidney dialysis and have a very high blood pressure and a low blood volume may have a marked drop in their blood pressure
+Named entities (drugs): [high]
+
+patients who are on kidney dialysis and have a very high blood pressure and a low blood volume may have a marked drop in their blood pressure
+Named entities (drugs): [high]
+
+patient information leaflet on amoxil capsuleson amoxil
+Named entities (Chemical): [capsuleson]
+Named entities (drugs): [amoxil amoxil]
+
+you may take amoxil before with or after food unless the label advises a specific time
+Named entities (drugs): [amoxil]
+Named entities (org): [label]
+
+and the bencard logo are trade marks
+Named entities (org): [bencard logo]
+
+patient information leaflet on amoxil paediatric suspension
+Named entities (drugs): [amoxil paediatric suspension]
+
+follow your doctors directions about how and when to give your baby amoxil
+Named entities (drugs): [amoxil]
+
+and the bencard logo are trade marks
+Named entities (org): [bencard logo]
+
+patient information leaflet on amoxil syrupon amoxil
+Named entities (Chemical): [syrupon]
+Named entities (drugs): [amoxil amoxil]
+
+amoxil syrup is prescribed mainly for children but may also be prescribed for adults
+Named entities (drugs): [amoxil syrup]
+
+follow your doctors directions about how and when to give your child amoxil
+Named entities (drugs): [amoxil]
+
+and the bencard logo are trade marks
+Named entities (org): [bencard logo]
+
+if your doctor tells you that you no longer need to take cortisyl tablets follow your doctors advice carefully about how to finish off your course of treatment
+Named entities (drugs): [cortisyl tablets]
+

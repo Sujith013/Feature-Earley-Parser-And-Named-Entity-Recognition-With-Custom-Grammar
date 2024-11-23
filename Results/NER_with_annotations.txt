@@ -1,0 +1,2462 @@
+adipine&trade mr 10
+Named entities (drugs): [mr 10]
+Named entities (org): [adipine&trade]
+(S[]
+  (NP1[NUM=?n]
+    (NP2[NUM='sg'] (N[NUM='sg'] adipine&trade))
+    (NP2[NUM=?n] (drug[] mr) (drug[] 10))))
+
+adipine&trade mr
+Named entities (drugs): [mr]
+Named entities (org): [adipine&trade]
+(S[]
+  (NP1[NUM=?n]
+    (NP2[NUM=?n] (org[] adipine&trade))
+    (NP2[NUM='sg'] (N[NUM='sg'] mr))))
+
+adipine&trade mr 10
+Named entities (drugs): [mr 10]
+Named entities (org): [adipine&trade]
+(S[]
+  (NP1[NUM=?n]
+    (NP2[NUM='sg'] (N[NUM='sg'] adipine&trade))
+    (NP2[NUM=?n] (drug[] mr) (drug[] 10))))
+
+apricot coated round slightly biconvex tablets
+Named entities (drugs): [tablets]
+(S[]
+  (VP1[NUM='sg', PERSON=?p]
+    (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] apricot)))
+    (VP2[NUM='sg', PERSON=?p]
+      (VP2[NUM='sg', PERSON=?p]
+        (VP2[NUM='sg', PERSON=?p]
+          (V[NUM=?n] coated)
+          (NP2[NUM='sg'] (N[NUM='sg'] round)))
+        (advP[] (adv[] slightly)))
+      (adjP[] (adj[] biconvex))))
+  (NP1[NUM=?n] (NP2[NUM=?n] (drug[] tablets))))
+
+adipine&trade mr 10 is available in packs of 56 tablets
+Named entities (drugs): [mr 10 tablets]
+Named entities (org): [adipine&trade]
+(S[]
+  (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] adipine&trade)))
+  (VP1[NUM='sg', PERSON=3]
+    (NP1[NUM=?n] (NP2[NUM=?n] (drug[] mr) (drug[] 10)))
+    (VP2[NUM='sg', PERSON=3]
+      (V[NUM='sg', PERSON=3] is)
+      (NP2[NUM=?n]
+        (adjP[] (adj[] available))
+        (NP2[NUM=?n] (N[NUM='sg'] in) (N[NUM='pl'] packs)))
+      (PP2[]
+        (prep[] of)
+        (NP2[NUM='pl'] (CDP[] (cd[] 56)) (N[NUM='pl'] tablets))))
+        ))
+
+why have i been prescribed adipine&trade mr 10
+Named entities (drugs): [mr 10]
+Named entities (org): [adipine&trade]
+(S[]
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM='sg', PERSON=1]
+      (wp[] why)
+      (VP2[NUM='sg', PERSON=1] (V[NUM='sg', PERSON=1] have)))
+    (VP2[NUM='sg', PERSON=1]
+      (prp[NUM='sg', PERSON=1] i)
+      (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] been))))
+  (NP1[NUM=?n]
+    (NP2[NUM='sg']
+      (adjP[] (adj[] prescribed))
+      (NP2[NUM='sg'] (N[NUM='sg'] adipine&trade)))
+    (NP2[NUM=?n] (drug[] mr) (drug[] 10))))
+
+when should i not take adipine&trade mr 10
+Named entities (drugs): [mr 10]
+Named entities (org): [adipine&trade]
+(S[]
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM=?n, PERSON=?p] (wp[] when) (md[] should))
+    (VP2[NUM='sg', PERSON=1]
+      (prp[NUM='sg', PERSON=1] i)
+      (VP2[NUM='sg', PERSON=1]
+        (advP[] (adv[] not))
+        (V[NUM='sg', PERSON=1] take))))
+  (NP1[NUM=?n]
+    (NP2[NUM='sg'] (N[NUM='sg'] adipine&trade))
+    (NP2[NUM=?n] (drug[] mr) (drug[] 10))))
+
+whilst taking adipine&trade mr 10
+Named entities (drugs): [mr 10]
+Named entities (org): [adipine&trade]
+(S[]
+  (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] whilst)))
+  (VP1[NUM=?n, PERSON=?p]
+    (VP2[NUM=?n, PERSON=?p]
+      (V[NUM=?n] taking)
+      (NP2[NUM=?n] (org[] adipine&trade)))
+    (NP2[NUM=?n] (drug[] mr) (drug[] 10))))
+
+how many tablets how often and how should i take adipine&trade mr 10
+Named entities (drugs): [tablets mr 10]
+(S[]
+  (VP1[NUM=?n, PERSON=?p]
+    (NP1[NUM=?n]
+      (NP2[NUM=?n]
+        (wp[] how)
+        (NP2[NUM=?n]
+          (adjP[] (adj[] many))
+          (NP2[NUM=?n] (drug[] tablets))))
+          )
+    (VP2[NUM=?n, PERSON=?p]
+      (VP2[NUM=?n, PERSON=?p] (wp[] how) (advP[] (adv[] often)))
+      (conj[] and)
+      (VP2[NUM=?n, PERSON=?p] (wp[] how) (md[] should))))
+  (NP1[NUM=?n]
+    (NP2[NUM='sg']
+      (prp[NUM='sg', PERSON=1] i)
+      (NP2[NUM='sg'] (N[NUM='sg'] take) (N[NUM='sg'] adipine&trade)))
+    (NP2[NUM=?n] (drug[] mr) (drug[] 10))))
+
+you should take the number of tablets prescribed by your doctor
+Named entities (drugs): [tablets]
+(S[]
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM=?n, PERSON=2] (prp[NUM=?n, PERSON=2] you) (md[] should))
+    (VP2[NUM='sg', PERSON=2]
+      (V[NUM='sg', PERSON=2] take)
+      (NP2[NUM='sg'] (det[NUM='sg'] the) (N[NUM='sg'] number))
+      (PP2[]
+        (prep[] of)
+        (NP2[NUM='pl']
+          (N[NUM='pl'] tablets)
+          (PP2[] (adjP[] (adj[] prescribed)) (prep[] by))))
+          ))
+  (NP1[NUM='sg']
+    (NP2[NUM='sg']
+      (prp[NUM=?n, PERSON=2] your)
+      (NP2[NUM='sg'] (N[NUM='sg'] doctor))))
+      )
+
+unless otherwise specified the usual dose is one tablet twice daily
+Named entities (drugs): [tablet]
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (VP2[NUM='sg', PERSON=3]
+      (PP2[]
+        (prep[] unless)
+        (VP2[NUM='sg', PERSON=?p]
+          (advP[] (adv[] otherwise))
+          (VP2[NUM='sg', PERSON=?p]
+            (V[NUM=?n] specified)
+            (NP2[NUM='sg']
+              (det[NUM='sg'] the)
+              (adjP[] (adj[] usual))
+              (N[NUM='sg'] dose))))
+              )
+      (VP2[NUM='sg', PERSON=3] (V[NUM='sg', PERSON=3] is)))
+    (VP2[NUM='sg', PERSON=?p]
+      (VP2[NUM='sg', PERSON=?p]
+        (NP2[NUM='sg'] (CDP[] (cd[] one)) (N[NUM='sg'] tablet))
+        (advP[] (adv[] twice)))
+      (adjP[] (adj[] daily))))
+      )
+
+you should swallow the tablets whole with some liquid after food
+Named entities (drugs): [liquid]
+(S[]
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM='sg', PERSON=2]
+      (prp[NUM=?n, PERSON=2] you)
+      (VP2[NUM='sg', PERSON=2]
+        (md[] should)
+        (V[NUM='sg', PERSON=2] swallow)))
+    (NP1[NUM=?n]
+      (NP2[NUM='pl'] (det[NUM='pl'] the) (N[NUM='pl'] tablets))
+      (NP2[NUM='sg']
+        (N[NUM='sg'] whole)
+        (PP2[] (prep[] with) (det[NUM='pl'] some))))
+        )
+  (NP1[NUM=?n]
+    (NP2[NUM=?n]
+      (adjP[] (adj[] liquid))
+      (NP2[NUM=?n] (N[NUM=?n] after) (N[NUM='sg'] food))))
+      )
+
+do not bite chew or break up the tablets
+Named entities (drugs): [tablets]
+(S[]
+  (VP1[NUM='pl', PERSON=?p]
+    (VP2[NUM='pl', PERSON=?p] (V[NUM='pl', PERSON=?n] do))
+    (VP2[NUM='pl', PERSON=?p]
+      (advP[] (adv[] not))
+      (V[NUM='pl', PERSON=?n] bite)))
+  (NP1[NUM=?n]
+    (NP2[NUM='sg']
+      (NP2[NUM='sg'] (N[NUM='sg'] chew))
+      (conj[] or)
+      (NP2[NUM='sg']
+        (N[NUM='sg'] break)
+        (PP2[] (prep[] up) (det[NUM='pl'] the))))
+    (NP2[NUM=?n] (drug[] tablets))))
+
+for how long do i need to take adipine&trade mr 10
+Named entities (drugs): [mr 10]
+Named entities (org): [adipine&trade]
+(S[]
+  (VP1[NUM='pl', PERSON=?p]
+    (VP2[NUM='pl', PERSON=?p]
+      (PP2[]
+        (prep[] for)
+        (VP2[NUM='sg', PERSON=1]
+          (wp[] how)
+          (VP2[NUM='sg', PERSON=1]
+            (advP[] (adv[] long))
+            (VP2[NUM='sg', PERSON=1]
+              (V[NUM='sg', PERSON=1] do)
+              (NP2[NUM='sg']
+                (prp[NUM='sg', PERSON=1] i)
+                (NP2[NUM=?n] (N[NUM=?n] need))))
+                )))
+      (VP2[NUM='pl', PERSON=?p]
+        (to[] to)
+        (V[NUM='pl', PERSON=?n] take))))
+  (NP1[NUM=?n]
+    (NP2[NUM='sg'] (N[NUM='sg'] adipine&trade))
+    (NP2[NUM=?n] (drug[] mr) (drug[] 10))))
+
+high blood pressure and angina pectoris require long term treatment
+Named entities (drugs): [high]
+(S[]
+  (NP1[NUM=?n] (NP2[NUM=?n] (drug[] high)))
+  (VP1[NUM='sg', PERSON=?p]
+    (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] blood))
+    (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] pressure))))
+  (conj[] and)
+  (NP1[NUM='sg']
+    (NP2[NUM='sg']
+      (adjP[] (adj[] angina))
+      (NP2[NUM='sg'] (N[NUM='sg'] pectoris))))
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM='sg', PERSON=2]
+      (V[NUM='sg', PERSON=2] require)
+      (NP2[NUM='sg']
+        (adjP[] (adj[] long))
+        (NP2[NUM='sg'] (N[NUM='sg'] term))))
+    (NP2[NUM='sg'] (N[NUM='sg'] treatment))))
+
+discontinuation of adipine&trade mr 10 should be gradual especially if you have been taking high doses
+Named entities (drugs): [mr 10 high]
+Named entities (org): [adipine&trade]
+(S[]
+  (NP1[NUM=?n]
+    (NP2[NUM='sg']
+      (N[NUM='sg'] discontinuation)
+      (PP2[] (prep[] of) (NP2[NUM='sg'] (N[NUM='sg'] adipine&trade))))
+    (NP2[NUM=?n] (drug[] mr) (drug[] 10)))
+  (VP1[NUM='pl', PERSON=?p]
+    (VP2[NUM=?n, PERSON=?p]
+      (PP2[]
+        (VP2[NUM=?n, PERSON=?p]
+          (VP2[NUM=?n, PERSON=?p]
+            (VP2[NUM=?n, PERSON=?p] (md[] should) (V[NUM=?n] be))
+            (adjP[] (adj[] gradual)))
+          (advP[] (adv[] especially)))
+        (prep[] if)
+        (VP2[NUM='sg', PERSON=2]
+          (prp[NUM=?n, PERSON=2] you)
+          (VP2[NUM='sg', PERSON=2]
+            (V[NUM='sg', PERSON=2] have)
+            (V[NUM=?n] been))))
+      (VP2[NUM=?n, PERSON=?p]
+        (V[NUM=?n] taking)
+        (NP2[NUM=?n] (drug[] high))))
+    (NP2[NUM='pl'] (N[NUM='pl'] doses))))
+
+what should i do if i miss a dose
+Named entities (drugs): [dose]
+(S[]
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM=?n, PERSON=?p] (wp[] what) (md[] should))
+    (VP2[NUM='sg', PERSON=1]
+      (prp[NUM='sg', PERSON=1] i)
+      (VP2[NUM='sg', PERSON=1]
+        (PP2[]
+          (VP2[NUM='sg', PERSON=1] (V[NUM='sg', PERSON=1] do))
+          (prep[] if))
+        (VP2[NUM='sg', PERSON=1]
+          (prp[NUM='sg', PERSON=1] i)
+          (VP2[NUM='sg', PERSON=1]
+            (V[NUM='sg', PERSON=1] miss)
+            (NP2[NUM='sg'] (N[NUM='sg'] a))))
+            )))
+  (NP1[NUM=?n] (NP2[NUM=?n] (drug[] dose))))
+
+if you miss a dose and it is more than 4 hours before the next dose then take your usual treatment
+Named entities (drugs): [dose]
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (VP2[NUM='sg', PERSON=3]
+      (VP2[NUM='sg', PERSON=3]
+        (PP2[]
+          (prep[] if)
+          (VP2[NUM='sg', PERSON=2]
+            (prp[NUM=?n, PERSON=2] you)
+            (VP2[NUM='sg', PERSON=2]
+              (V[NUM='sg', PERSON=2] miss)
+              (NP2[NUM='sg']
+                (det[NUM='sg'] a)
+                (adjP[] (adj[] dose))
+                (N[NUM=?n] and))))
+                )
+        (VP2[NUM='sg', PERSON=3]
+          (prp[NUM='sg', PERSON=3] it)
+          (VP2[NUM='sg', PERSON=3] (V[NUM='sg', PERSON=3] is))))
+      (advP[] (adv[] more)))
+    (VP2[NUM='sg', PERSON=?p]
+      (PP2[]
+        (prep[] than)
+        (VP2[NUM='pl', PERSON=?p]
+          (NP2[NUM='pl'] (CDP[] (cd[] 4)) (N[NUM='pl'] hours))
+          (advP[] (adv[] before))))
+      (VP2[NUM='sg', PERSON=?p]
+        (NP2[NUM='sg']
+          (det[NUM='sg'] the)
+          (adjP[] (adj[] next))
+          (N[NUM='sg'] dose))
+        (advP[] (adv[] then))))
+        )
+  (NP1[NUM='sg']
+    (NP2[NUM='sg'] (N[NUM='sg'] take))
+    (NP2[NUM='sg']
+      (prp[NUM=?n, PERSON=2] your)
+      (NP2[NUM='sg']
+        (adjP[] (adj[] usual))
+        (NP2[NUM='sg'] (N[NUM='sg'] treatment))))
+        ))
+
+you should never take a double dose to make up for the missed dose
+Named entities (drugs): [double dose]
+(S[]
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM=?n, PERSON=2]
+      (VP2[NUM=?n, PERSON=2]
+        (prp[NUM=?n, PERSON=2] you)
+        (md[] should))
+      (advP[] (adv[] never)))
+    (NP1[NUM='sg']
+      (NP2[NUM='sg'] (N[NUM='sg'] take) (N[NUM='sg'] a))))
+  (NP1[NUM='sg']
+    (NP2[NUM='sg']
+      (adjP[] (adj[] double))
+      (NP2[NUM='sg']
+        (N[NUM='sg'] dose)
+        (PP2[]
+          (VP2[NUM='sg', PERSON=1]
+            (to[] to)
+            (V[NUM='sg', PERSON=1] make))
+          (prep[] up)
+          (VP2[NUM=?n, PERSON=?p]
+            (PP2[] (prep[] for) (det[NUM='pl'] the))
+            (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] missed))))
+            ))
+    (NP2[NUM='sg'] (N[NUM='sg'] dose))))
+
+how should i store adipine&trade mr 10
+Named entities (drugs): [mr 10]
+Named entities (org): [adipine&trade]
+(S[]
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM=?n, PERSON=?p] (wp[] how) (md[] should))
+    (VP2[NUM='sg', PERSON=1]
+      (prp[NUM='sg', PERSON=1] i)
+      (VP2[NUM='sg', PERSON=1] (V[NUM='sg', PERSON=1] store))))
+  (NP1[NUM=?n]
+    (NP2[NUM='sg'] (N[NUM='sg'] adipine&trade))
+    (NP2[NUM=?n] (drug[] mr) (drug[] 10))))
+
+october 1995 &tradetrade mark applied for
+Named entities (org): [&tradetrade]
+(S[]
+  (VP1[NUM='sg', PERSON=?p]
+    (NP1[NUM='sg']
+      (NP2[NUM='sg'] (N[NUM='sg'] october) (CDP[] (cd[] 1995)))
+      (NP2[NUM='sg'] (N[NUM='sg'] &tradetrade) (N[NUM='sg'] mark)))
+    (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] applied)))
+  (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] for))))
+
+how many tablets how often and how should i take adipine&trade mr 10
+Named entities (drugs): [tablets mr 10]
+(S[]
+  (VP1[NUM=?n, PERSON=?p]
+    (NP1[NUM=?n]
+      (NP2[NUM=?n]
+        (wp[] how)
+        (NP2[NUM=?n]
+          (adjP[] (adj[] many))
+          (NP2[NUM=?n] (drug[] tablets))))
+          )
+    (VP2[NUM=?n, PERSON=?p]
+      (VP2[NUM=?n, PERSON=?p] (wp[] how) (advP[] (adv[] often)))
+      (conj[] and)
+      (VP2[NUM=?n, PERSON=?p] (wp[] how) (md[] should))))
+  (NP1[NUM=?n]
+    (NP2[NUM='sg']
+      (prp[NUM='sg', PERSON=1] i)
+      (NP2[NUM='sg'] (N[NUM='sg'] take) (N[NUM='sg'] adipine&trade)))
+    (NP2[NUM=?n] (drug[] mr) (drug[] 10))))
+
+you should take the number of tablets prescribed by your doctor
+Named entities (drugs): [tablets]
+(S[]
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM=?n, PERSON=2] (prp[NUM=?n, PERSON=2] you) (md[] should))
+    (VP2[NUM='sg', PERSON=2]
+      (V[NUM='sg', PERSON=2] take)
+      (NP2[NUM='sg'] (det[NUM='sg'] the) (N[NUM='sg'] number))
+      (PP2[]
+        (prep[] of)
+        (NP2[NUM='pl']
+          (N[NUM='pl'] tablets)
+          (PP2[] (adjP[] (adj[] prescribed)) (prep[] by))))
+          ))
+  (NP1[NUM='sg']
+    (NP2[NUM='sg']
+      (prp[NUM=?n, PERSON=2] your)
+      (NP2[NUM='sg'] (N[NUM='sg'] doctor))))
+      )
+
+unless otherwise specified the usual dose is one tablet twice daily
+Named entities (drugs): [tablet]
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (VP2[NUM='sg', PERSON=3]
+      (PP2[]
+        (prep[] unless)
+        (VP2[NUM='sg', PERSON=?p]
+          (advP[] (adv[] otherwise))
+          (VP2[NUM='sg', PERSON=?p]
+            (V[NUM=?n] specified)
+            (NP2[NUM='sg']
+              (det[NUM='sg'] the)
+              (adjP[] (adj[] usual))
+              (N[NUM='sg'] dose))))
+              )
+      (VP2[NUM='sg', PERSON=3] (V[NUM='sg', PERSON=3] is)))
+    (VP2[NUM='sg', PERSON=?p]
+      (VP2[NUM='sg', PERSON=?p]
+        (NP2[NUM='sg'] (CDP[] (cd[] one)) (N[NUM='sg'] tablet))
+        (advP[] (adv[] twice)))
+      (adjP[] (adj[] daily))))
+      )
+
+you should swallow the tablets whole with some liquid after food
+Named entities (drugs): [liquid]
+(S[]
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM='sg', PERSON=2]
+      (prp[NUM=?n, PERSON=2] you)
+      (VP2[NUM='sg', PERSON=2]
+        (md[] should)
+        (V[NUM='sg', PERSON=2] swallow)))
+    (NP1[NUM=?n]
+      (NP2[NUM='pl'] (det[NUM='pl'] the) (N[NUM='pl'] tablets))
+      (NP2[NUM='sg']
+        (N[NUM='sg'] whole)
+        (PP2[] (prep[] with) (det[NUM='pl'] some))))
+        )
+  (NP1[NUM=?n]
+    (NP2[NUM=?n]
+      (adjP[] (adj[] liquid))
+      (NP2[NUM=?n] (N[NUM=?n] after) (N[NUM='sg'] food))))
+      )
+
+do not bite chew or break up the tablets
+Named entities (drugs): [tablets]
+(S[]
+  (VP1[NUM='pl', PERSON=?p]
+    (VP2[NUM='pl', PERSON=?p] (V[NUM='pl', PERSON=?n] do))
+    (VP2[NUM='pl', PERSON=?p]
+      (advP[] (adv[] not))
+      (V[NUM='pl', PERSON=?n] bite)))
+  (NP1[NUM=?n]
+    (NP2[NUM='sg']
+      (NP2[NUM='sg'] (N[NUM='sg'] chew))
+      (conj[] or)
+      (NP2[NUM='sg']
+        (N[NUM='sg'] break)
+        (PP2[] (prep[] up) (det[NUM='pl'] the))))
+    (NP2[NUM=?n] (drug[] tablets))))
+
+for how long do i need to take adipine&trade mr 10
+Named entities (drugs): [mr 10]
+Named entities (org): [adipine&trade]
+(S[]
+  (VP1[NUM='pl', PERSON=?p]
+    (VP2[NUM='pl', PERSON=?p]
+      (PP2[]
+        (prep[] for)
+        (VP2[NUM='sg', PERSON=1]
+          (wp[] how)
+          (VP2[NUM='sg', PERSON=1]
+            (advP[] (adv[] long))
+            (VP2[NUM='sg', PERSON=1]
+              (V[NUM='sg', PERSON=1] do)
+              (NP2[NUM='sg']
+                (prp[NUM='sg', PERSON=1] i)
+                (NP2[NUM=?n] (N[NUM=?n] need))))
+                )))
+      (VP2[NUM='pl', PERSON=?p]
+        (to[] to)
+        (V[NUM='pl', PERSON=?n] take))))
+  (NP1[NUM=?n]
+    (NP2[NUM='sg'] (N[NUM='sg'] adipine&trade))
+    (NP2[NUM=?n] (drug[] mr) (drug[] 10))))
+
+high blood pressure and angina pectoris require long term treatment
+Named entities (drugs): [high]
+(S[]
+  (NP1[NUM=?n] (NP2[NUM=?n] (drug[] high)))
+  (VP1[NUM='sg', PERSON=?p]
+    (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] blood))
+    (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] pressure))))
+  (conj[] and)
+  (NP1[NUM='sg']
+    (NP2[NUM='sg']
+      (adjP[] (adj[] angina))
+      (NP2[NUM='sg'] (N[NUM='sg'] pectoris))))
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM='sg', PERSON=2]
+      (V[NUM='sg', PERSON=2] require)
+      (NP2[NUM='sg']
+        (adjP[] (adj[] long))
+        (NP2[NUM='sg'] (N[NUM='sg'] term))))
+    (NP2[NUM='sg'] (N[NUM='sg'] treatment))))
+
+discontinuation of adipine&trade mr 10 should be gradual especially if you have been taking high doses
+Named entities (drugs): [mr 10 high]
+Named entities (org): [adipine&trade]
+(S[]
+  (NP1[NUM=?n]
+    (NP2[NUM='sg']
+      (N[NUM='sg'] discontinuation)
+      (PP2[] (prep[] of) (NP2[NUM='sg'] (N[NUM='sg'] adipine&trade))))
+    (NP2[NUM=?n] (drug[] mr) (drug[] 10)))
+  (VP1[NUM='pl', PERSON=?p]
+    (VP2[NUM=?n, PERSON=?p]
+      (PP2[]
+        (VP2[NUM=?n, PERSON=?p]
+          (VP2[NUM=?n, PERSON=?p]
+            (VP2[NUM=?n, PERSON=?p] (md[] should) (V[NUM=?n] be))
+            (adjP[] (adj[] gradual)))
+          (advP[] (adv[] especially)))
+        (prep[] if)
+        (VP2[NUM='sg', PERSON=2]
+          (prp[NUM=?n, PERSON=2] you)
+          (VP2[NUM='sg', PERSON=2]
+            (V[NUM='sg', PERSON=2] have)
+            (V[NUM=?n] been))))
+      (VP2[NUM=?n, PERSON=?p]
+        (V[NUM=?n] taking)
+        (NP2[NUM=?n] (drug[] high))))
+    (NP2[NUM='pl'] (N[NUM='pl'] doses))))
+
+what should i do if i miss a dose
+Named entities (drugs): [dose]
+(S[]
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM=?n, PERSON=?p] (wp[] what) (md[] should))
+    (VP2[NUM='sg', PERSON=1]
+      (prp[NUM='sg', PERSON=1] i)
+      (VP2[NUM='sg', PERSON=1]
+        (PP2[]
+          (VP2[NUM='sg', PERSON=1] (V[NUM='sg', PERSON=1] do))
+          (prep[] if))
+        (VP2[NUM='sg', PERSON=1]
+          (prp[NUM='sg', PERSON=1] i)
+          (VP2[NUM='sg', PERSON=1]
+            (V[NUM='sg', PERSON=1] miss)
+            (NP2[NUM='sg'] (N[NUM='sg'] a))))
+            )))
+  (NP1[NUM=?n] (NP2[NUM=?n] (drug[] dose))))
+
+if you miss a dose and it is more than 4 hours before the next dose then take your usual treatment
+Named entities (drugs): [dose]
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (VP2[NUM='sg', PERSON=3]
+      (VP2[NUM='sg', PERSON=3]
+        (PP2[]
+          (prep[] if)
+          (VP2[NUM='sg', PERSON=2]
+            (prp[NUM=?n, PERSON=2] you)
+            (VP2[NUM='sg', PERSON=2]
+              (V[NUM='sg', PERSON=2] miss)
+              (NP2[NUM='sg']
+                (det[NUM='sg'] a)
+                (adjP[] (adj[] dose))
+                (N[NUM=?n] and))))
+                )
+        (VP2[NUM='sg', PERSON=3]
+          (prp[NUM='sg', PERSON=3] it)
+          (VP2[NUM='sg', PERSON=3] (V[NUM='sg', PERSON=3] is))))
+      (advP[] (adv[] more)))
+    (VP2[NUM='sg', PERSON=?p]
+      (PP2[]
+        (prep[] than)
+        (VP2[NUM='pl', PERSON=?p]
+          (NP2[NUM='pl'] (CDP[] (cd[] 4)) (N[NUM='pl'] hours))
+          (advP[] (adv[] before))))
+      (VP2[NUM='sg', PERSON=?p]
+        (NP2[NUM='sg']
+          (det[NUM='sg'] the)
+          (adjP[] (adj[] next))
+          (N[NUM='sg'] dose))
+        (advP[] (adv[] then))))
+        )
+  (NP1[NUM='sg']
+    (NP2[NUM='sg'] (N[NUM='sg'] take))
+    (NP2[NUM='sg']
+      (prp[NUM=?n, PERSON=2] your)
+      (NP2[NUM='sg']
+        (adjP[] (adj[] usual))
+        (NP2[NUM='sg'] (N[NUM='sg'] treatment))))
+        ))
+
+you should never take a double dose to make up for the missed dose
+Named entities (drugs): [double dose]
+(S[]
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM=?n, PERSON=2]
+      (VP2[NUM=?n, PERSON=2]
+        (prp[NUM=?n, PERSON=2] you)
+        (md[] should))
+      (advP[] (adv[] never)))
+    (NP1[NUM='sg']
+      (NP2[NUM='sg'] (N[NUM='sg'] take) (N[NUM='sg'] a))))
+  (NP1[NUM='sg']
+    (NP2[NUM='sg']
+      (adjP[] (adj[] double))
+      (NP2[NUM='sg']
+        (N[NUM='sg'] dose)
+        (PP2[]
+          (VP2[NUM='sg', PERSON=1]
+            (to[] to)
+            (V[NUM='sg', PERSON=1] make))
+          (prep[] up)
+          (VP2[NUM=?n, PERSON=?p]
+            (PP2[] (prep[] for) (det[NUM='pl'] the))
+            (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] missed))))
+            ))
+    (NP2[NUM='sg'] (N[NUM='sg'] dose))))
+
+how should i store adipine&trade mr 10
+Named entities (drugs): [mr 10]
+Named entities (org): [adipine&trade]
+(S[]
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM=?n, PERSON=?p] (wp[] how) (md[] should))
+    (VP2[NUM='sg', PERSON=1]
+      (prp[NUM='sg', PERSON=1] i)
+      (VP2[NUM='sg', PERSON=1] (V[NUM='sg', PERSON=1] store))))
+  (NP1[NUM=?n]
+    (NP2[NUM='sg'] (N[NUM='sg'] adipine&trade))
+    (NP2[NUM=?n] (drug[] mr) (drug[] 10))))
+
+october 1995 &tradetrade mark applied for
+Named entities (org): [&tradetrade]
+(S[]
+  (VP1[NUM='sg', PERSON=?p]
+    (NP1[NUM='sg']
+      (NP2[NUM='sg'] (N[NUM='sg'] october) (CDP[] (cd[] 1995)))
+      (NP2[NUM='sg'] (N[NUM='sg'] &tradetrade) (N[NUM='sg'] mark)))
+    (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] applied)))
+  (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] for))))
+
+keep this leaflet until you have finished all your prescribed course of amoxil
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM='sg', PERSON=2]
+      (PP2[]
+        (VP2[NUM='sg', PERSON=2]
+          (V[NUM='sg', PERSON=2] keep)
+          (NP2[NUM='sg'] (det[NUM='sg'] this) (N[NUM='sg'] leaflet)))
+        (prep[] until))
+      (VP2[NUM='sg', PERSON=2]
+        (prp[NUM=?n, PERSON=2] you)
+        (VP2[NUM='sg', PERSON=2]
+          (V[NUM='sg', PERSON=2] have)
+          (V[NUM=?n] finished))))
+          )
+  (NP1[NUM='sg']
+    (NP2[NUM='sg']
+      (N[NUM='sg'] all)
+      (PP2[]
+        (VP2[NUM='sg', PERSON=2]
+          (prp[NUM=?n, PERSON=2] your)
+          (VP2[NUM='sg', PERSON=?p]
+            (V[NUM=?n] prescribed)
+            (NP2[NUM='sg'] (N[NUM='sg'] course))))
+        (prep[] of)))
+    (NP2[NUM='sg'] (N[NUM='sg'] amoxil))))
+
+the name of your medicine is amoxil
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (NP1[NUM='sg']
+      (NP2[NUM='sg'] (det[NUM='sg'] the) (N[NUM='sg'] name)))
+    (VP2[NUM='sg', PERSON=3]
+      (PP2[]
+        (prep[] of)
+        (NP2[NUM='sg']
+          (prp[NUM=?n, PERSON=2] your)
+          (NP2[NUM='sg'] (N[NUM='sg'] medicine))))
+      (VP2[NUM='sg', PERSON=3] (V[NUM='sg', PERSON=3] is))))
+  (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] amoxil))))
+
+what is amoxil
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (VP2[NUM='sg', PERSON=3]
+      (wp[] what)
+      (VP2[NUM='sg', PERSON=3] (V[NUM='sg', PERSON=3] is))))
+  (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] amoxil))))
+
+it is one of a group of antibiotic medicines called penicillins
+Named entities (Chemical): [penicillins]
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (VP2[NUM='sg', PERSON=3]
+      (prp[NUM='sg', PERSON=3] it)
+      (VP2[NUM='sg', PERSON=3]
+        (V[NUM='sg', PERSON=3] is)
+        (NP2[NUM='sg']
+          (N[NUM='sg'] one)
+          (PP2[]
+            (prep[] of)
+            (NP2[NUM='sg'] (N[NUM='sg'] a) (N[NUM='sg'] group))))
+        (PP2[]
+          (prep[] of)
+          (NP2[NUM='pl']
+            (adjP[] (adj[] antibiotic))
+            (NP2[NUM='pl'] (N[NUM='pl'] medicines))))
+            ))
+    (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] called)))
+  (NP1[NUM=?n] (NP2[NUM=?n] (chemical[] penicillins))))
+
+the active ingredient in amoxil is amoxycillin
+Named entities (Chemical): [amoxycillin]
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (NP1[NUM='sg']
+      (NP2[NUM='sg']
+        (det[NUM='sg'] the)
+        (adjP[] (adj[] active))
+        (N[NUM='sg'] ingredient))
+      (NP2[NUM='sg'] (N[NUM='sg'] in) (N[NUM='sg'] amoxil)))
+    (VP2[NUM='sg', PERSON=3] (V[NUM='sg', PERSON=3] is)))
+  (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] amoxycillin))))
+
+important things to know about amoxil
+Named entities (drugs): [amoxil]
+(S[]
+  (NP1[NUM=?n]
+    (NP2[NUM='sg'] (N[NUM='sg'] important))
+    (NP2[NUM='pl'] (N[NUM='pl'] things)))
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM='sg', PERSON=1] (to[] to) (V[NUM='sg', PERSON=1] know))
+    (NP2[NUM='sg'] (N[NUM=?n] about) (N[NUM='sg'] amoxil))))
+
+take amoxil as directed by your doctor
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM='sg', PERSON=2] (V[NUM='sg', PERSON=2] take)))
+  (NP1[NUM='sg']
+    (NP2[NUM=?n]
+      (drug[] amoxil)
+      (NP2[NUM=?n]
+        (N[NUM=?n] as)
+        (PP2[]
+          (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] directed))
+          (prep[] by))))
+    (NP2[NUM='sg']
+      (prp[NUM=?n, PERSON=2] your)
+      (NP2[NUM='sg'] (N[NUM='sg'] doctor))))
+      )
+
+read the dispensing label
+Named entities (org): [label]
+(S[]
+  (VP1[NUM='pl', PERSON=?p]
+    (VP2[NUM='pl', PERSON=?p] (V[NUM='pl', PERSON=?n] read)))
+  (NP1[NUM=?n]
+    (NP2[NUM='pl'] (det[NUM='pl'] the) (N[NUM=?n] dispensing))
+    (NP2[NUM='sg'] (N[NUM='sg'] label))))
+
+like all medicines amoxil can sometimes cause unwanted effects
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='sg', PERSON=?p]
+    (VP2[NUM='sg', PERSON=?p]
+      (PP2[]
+        (prep[] like)
+        (VP2[NUM='pl', PERSON=?p]
+          (advP[] (adv[] all))
+          (N[NUM='pl'] medicines)))
+      (VP2[NUM='sg', PERSON=?p]
+        (NP2[NUM='sg'] (N[NUM='sg'] amoxil))
+        (md[] can)))
+    (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] sometimes)))
+  (NP1[NUM=?n]
+    (NP2[NUM='sg'] (N[NUM='sg'] cause))
+    (NP2[NUM='pl']
+      (adjP[] (adj[] unwanted))
+      (NP2[NUM='pl'] (N[NUM='pl'] effects))))
+      )
+
+for more information about amoxil please read the rest of this leaflet
+Named entities (drugs): [amoxil]
+(S[]
+  (NP1[NUM='sg']
+    (NP2[NUM='sg'] (N[NUM='sg'] for))
+    (NP2[NUM='sg']
+      (adjP[] (adj[] more))
+      (NP2[NUM='sg'] (N[NUM='sg'] information))))
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM='sg', PERSON=2]
+      (PP2[]
+        (prep[] about)
+        (NP2[NUM=?n]
+          (drug[] amoxil)
+          (NP2[NUM=?n] (N[NUM=?n] please))))
+      (VP2[NUM='sg', PERSON=2]
+        (V[NUM='sg', PERSON=2] read)
+        (NP2[NUM='sg'] (det[NUM='sg'] the) (N[NUM='sg'] rest))
+        (PP2[] (prep[] of) (det[NUM='sg'] this))))
+    (NP2[NUM='sg'] (N[NUM='sg'] leaflet))))
+
+if so do not take amoxil tell your doctor
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM='sg', PERSON=1]
+      (PP2[]
+        (prep[] if)
+        (VP2[NUM='sg', PERSON=1]
+          (PP2[]
+            (prep[] so)
+            (VP2[NUM='sg', PERSON=1]
+              (V[NUM='sg', PERSON=1] do)
+              (NP2[NUM=?n] (N[NUM=?n] not))))
+          (VP2[NUM='sg', PERSON=1]
+            (V[NUM='sg', PERSON=1] take)
+            (NP2[NUM='sg'] (N[NUM='sg'] amoxil))))
+            )
+      (VP2[NUM='sg', PERSON=1] (V[NUM='sg', PERSON=1] tell)))
+    (NP2[NUM='sg']
+      (prp[NUM=?n, PERSON=2] your)
+      (NP2[NUM='sg'] (N[NUM='sg'] doctor))))
+      )
+
+please read the dispensing label carefully
+Named entities (org): [label]
+(S[]
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM='sg', PERSON=1]
+      (V[NUM=?n] please)
+      (V[NUM='sg', PERSON=1] read))
+    (NP2[NUM='sg'] (det[NUM='sg'] the) (N[NUM=?n] dispensing)))
+  (NP1[NUM=?n]
+    (NP2[NUM=?n] (org[] label))
+    (NP2[NUM='sg'] (N[NUM='sg'] carefully))))
+
+amoxil capsules should be swallowed with water
+Named entities (drugs): [amoxil capsules]
+(S[]
+  (NP1[NUM='sg']
+    (NP2[NUM='sg']
+      (N[NUM='sg'] amoxil)
+      (PP2[]
+        (VP2[NUM=?n, PERSON=?p]
+          (NP2[NUM=?n] (drug[] capsules))
+          (md[] should)
+          (VP2[NUM=?n, PERSON=?p]
+            (V[NUM=?n] be)
+            (V[NUM=?n] swallowed)))
+        (prep[] with)))
+    (NP2[NUM='sg'] (N[NUM='sg'] water))))
+
+if you have been told to take your amoxil 3 times a day
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='pl', PERSON=?p]
+    (VP2[NUM=?n, PERSON=?p]
+      (PP2[]
+        (prep[] if)
+        (VP2[NUM='sg', PERSON=2]
+          (prp[NUM=?n, PERSON=2] you)
+          (VP2[NUM='sg', PERSON=2]
+            (V[NUM='sg', PERSON=2] have)
+            (V[NUM=?n] been))))
+      (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] told)))
+    (VP2[NUM='pl', PERSON=?p]
+      (to[] to)
+      (V[NUM='pl', PERSON=?n] take)))
+  (NP1[NUM=?n]
+    (NP2[NUM='pl']
+      (prp[NUM=?n, PERSON=2] your)
+      (NP2[NUM='pl']
+        (drug[] amoxil)
+        (NP2[NUM='pl'] (CDP[] (cd[] 3)) (N[NUM='pl'] times))))
+    (NP2[NUM='sg'] (N[NUM='sg'] a) (N[NUM='sg'] day))))
+
+what should i do if i forget to take a dose
+Named entities (drugs): [dose]
+(S[]
+  (VP1[NUM='pl', PERSON=?p]
+    (VP2[NUM=?n, PERSON=?p] (wp[] what) (md[] should))
+    (VP2[NUM='pl', PERSON=?p]
+      (PP2[]
+        (VP2[NUM='sg', PERSON=1]
+          (prp[NUM='sg', PERSON=1] i)
+          (VP2[NUM='sg', PERSON=1] (V[NUM='sg', PERSON=1] do)))
+        (prep[] if)
+        (VP2[NUM='sg', PERSON=1]
+          (prp[NUM='sg', PERSON=1] i)
+          (VP2[NUM='sg', PERSON=1] (V[NUM='sg', PERSON=1] forget))))
+      (VP2[NUM='pl', PERSON=?p]
+        (to[] to)
+        (V[NUM='pl', PERSON=?n] take))))
+  (NP1[NUM=?n]
+    (NP2[NUM='sg'] (N[NUM='sg'] a))
+    (NP2[NUM=?n] (drug[] dose))))
+
+how should i store amoxil capsules
+Named entities (drugs): [amoxil capsules]
+(S[]
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM=?n, PERSON=?p] (wp[] how) (md[] should))
+    (VP2[NUM='sg', PERSON=1]
+      (prp[NUM='sg', PERSON=1] i)
+      (VP2[NUM='sg', PERSON=1] (V[NUM='sg', PERSON=1] store))))
+  (NP1[NUM=?n]
+    (NP2[NUM='sg'] (N[NUM='sg'] amoxil))
+    (NP2[NUM='pl'] (N[NUM='pl'] capsules))))
+
+amoxil capsules are available in two strengths containing either 250 mg or 500 mg of amoxycillin as amoxycillin trihydrate
+Named entities (Chemical): [amoxycillin amoxycillin trihydrate]
+Named entities (drugs): [amoxil capsules 250 mg 500 mg]
+(S[]
+  (NP1[NUM=?n] (NP2[NUM=?n] (drug[] amoxil) (drug[] capsules)))
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM='sg', PERSON=2]
+      (VP2[NUM='sg', PERSON=2] (V[NUM='sg', PERSON=2] are))
+      (adjP[] (adj[] available)))
+    (VP2[NUM=?n, PERSON=?p]
+      (PP2[]
+        (prep[] in)
+        (NP2[NUM='pl'] (CDP[] (cd[] two)) (N[NUM='pl'] strengths)))
+      (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] containing))))
+  (conj[] either)
+  (NP1[NUM=?n] (NP2[NUM=?n] (drug[] 250)))
+  (VP1[NUM='sg', PERSON=?p]
+    (VP2[NUM=?n, PERSON=?p]
+      (VP2[NUM=?n, PERSON=?p]
+        (NP2[NUM=?n]
+          (NP2[NUM=?n] (drug[] mg))
+          (conj[] or)
+          (NP2[NUM='sg']
+            (drug[] 500)
+            (NP2[NUM='sg']
+              (N[NUM='sg'] mg)
+              (PP2[]
+                (prep[] of)
+                (NP2[NUM='sg'] (N[NUM='sg'] amoxycillin))))
+                ))
+        (advP[] (adv[] as)))
+      (adjP[] (adj[] amoxycillin)))
+    (NP2[NUM='sg'] (N[NUM='sg'] trihydrate))))
+
+nonproprietary name amoxycillin capsules
+Named entities (Chemical): [amoxycillin]
+Named entities (drugs): [capsules]
+Named entities (org): [name]
+(S[]
+  (NP1[NUM=?n]
+    (NP2[NUM='sg']
+      (adjP[] (adj[] nonproprietary))
+      (NP2[NUM='sg'] (N[NUM='sg'] name) (N[NUM='sg'] amoxycillin)))
+    (NP2[NUM=?n] (drug[] capsules))))
+
+amoxil capsules do not contain tartrazine or any other azo dyes
+Named entities (Chemical): [tartrazine]
+Named entities (drugs): [amoxil capsules]
+(S[]
+  (NP1[NUM=?n] (NP2[NUM=?n] (drug[] amoxil) (drug[] capsules)))
+  (VP1[NUM='pl', PERSON=?p]
+    (VP2[NUM='pl', PERSON=?p] (V[NUM='pl', PERSON=?n] do))
+    (VP2[NUM='pl', PERSON=?p]
+      (VP2[NUM='pl', PERSON=?p]
+        (advP[] (adv[] not))
+        (VP2[NUM='pl', PERSON=?p]
+          (V[NUM='pl', PERSON=?n] contain)
+          (NP2[NUM=?n] (chemical[] tartrazine))))
+      (conj[] or)
+      (NP2[NUM='pl']
+        (det[NUM='pl'] any)
+        (adjP[] (adj[] other) (adj[] azo))
+        (N[NUM='pl'] dyes))))
+        )
+
+how can i obtain more information about amoxil
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM=?n, PERSON=?p] (wp[] how) (md[] can))
+    (VP2[NUM='sg', PERSON=1]
+      (prp[NUM='sg', PERSON=1] i)
+      (VP2[NUM='sg', PERSON=1]
+        (V[NUM='sg', PERSON=1] obtain)
+        (NP2[NUM='sg']
+          (adjP[] (adj[] more))
+          (NP2[NUM='sg'] (N[NUM='sg'] information))))
+          ))
+  (NP1[NUM=?n] (NP2[NUM=?n] (N[NUM=?n] about) (N[NUM='sg'] amoxil))))
+
+amoxil
+Named entities (drugs): [amoxil]
+(S[] (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] amoxil))))
+
+the name of your babys medicine is amoxil
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (NP1[NUM='sg']
+      (NP2[NUM='sg'] (det[NUM='sg'] the) (N[NUM='sg'] name)))
+    (VP2[NUM='sg', PERSON=3]
+      (PP2[]
+        (prep[] of)
+        (NP2[NUM=?n]
+          (prp[NUM=?n, PERSON=2] your)
+          (NP2[NUM=?n] (N[NUM=?n] babys) (N[NUM='sg'] medicine))))
+      (VP2[NUM='sg', PERSON=3] (V[NUM='sg', PERSON=3] is))))
+  (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] amoxil))))
+
+what is amoxil
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (VP2[NUM='sg', PERSON=3]
+      (wp[] what)
+      (VP2[NUM='sg', PERSON=3] (V[NUM='sg', PERSON=3] is))))
+  (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] amoxil))))
+
+it is one of a group of antibiotic medicines called penicillins
+Named entities (Chemical): [penicillins]
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (VP2[NUM='sg', PERSON=3]
+      (prp[NUM='sg', PERSON=3] it)
+      (VP2[NUM='sg', PERSON=3]
+        (V[NUM='sg', PERSON=3] is)
+        (NP2[NUM='sg']
+          (N[NUM='sg'] one)
+          (PP2[]
+            (prep[] of)
+            (NP2[NUM='sg'] (N[NUM='sg'] a) (N[NUM='sg'] group))))
+        (PP2[]
+          (prep[] of)
+          (NP2[NUM='pl']
+            (adjP[] (adj[] antibiotic))
+            (NP2[NUM='pl'] (N[NUM='pl'] medicines))))
+            ))
+    (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] called)))
+  (NP1[NUM=?n] (NP2[NUM=?n] (chemical[] penicillins))))
+
+the active ingredient in amoxil is amoxycillin
+Named entities (Chemical): [amoxycillin]
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (NP1[NUM='sg']
+      (NP2[NUM='sg']
+        (det[NUM='sg'] the)
+        (adjP[] (adj[] active))
+        (N[NUM='sg'] ingredient))
+      (NP2[NUM='sg'] (N[NUM='sg'] in) (N[NUM='sg'] amoxil)))
+    (VP2[NUM='sg', PERSON=3] (V[NUM='sg', PERSON=3] is)))
+  (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] amoxycillin))))
+
+important things to know about amoxil
+Named entities (drugs): [amoxil]
+(S[]
+  (NP1[NUM=?n]
+    (NP2[NUM='sg'] (N[NUM='sg'] important))
+    (NP2[NUM='pl'] (N[NUM='pl'] things)))
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM='sg', PERSON=1] (to[] to) (V[NUM='sg', PERSON=1] know))
+    (NP2[NUM='sg'] (N[NUM=?n] about) (N[NUM='sg'] amoxil))))
+
+read the dispensing label
+Named entities (org): [label]
+(S[]
+  (VP1[NUM='pl', PERSON=?p]
+    (VP2[NUM='pl', PERSON=?p] (V[NUM='pl', PERSON=?n] read)))
+  (NP1[NUM=?n]
+    (NP2[NUM='pl'] (det[NUM='pl'] the) (N[NUM=?n] dispensing))
+    (NP2[NUM='sg'] (N[NUM='sg'] label))))
+
+like all medicines amoxil can sometimes cause unwanted effects
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='sg', PERSON=?p]
+    (VP2[NUM='sg', PERSON=?p]
+      (PP2[]
+        (prep[] like)
+        (VP2[NUM='pl', PERSON=?p]
+          (advP[] (adv[] all))
+          (N[NUM='pl'] medicines)))
+      (VP2[NUM='sg', PERSON=?p]
+        (NP2[NUM='sg'] (N[NUM='sg'] amoxil))
+        (md[] can)))
+    (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] sometimes)))
+  (NP1[NUM=?n]
+    (NP2[NUM='sg'] (N[NUM='sg'] cause))
+    (NP2[NUM='pl']
+      (adjP[] (adj[] unwanted))
+      (NP2[NUM='pl'] (N[NUM='pl'] effects))))
+      )
+
+please read the dispensing label carefully
+Named entities (org): [label]
+(S[]
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM='sg', PERSON=1]
+      (V[NUM=?n] please)
+      (V[NUM='sg', PERSON=1] read))
+    (NP2[NUM='sg'] (det[NUM='sg'] the) (N[NUM=?n] dispensing)))
+  (NP1[NUM=?n]
+    (NP2[NUM=?n] (org[] label))
+    (NP2[NUM='sg'] (N[NUM='sg'] carefully))))
+
+what should i do if i forget to give my baby a dose
+Named entities (drugs): [dose]
+(S[]
+  (VP1[NUM='pl', PERSON=?p]
+    (VP2[NUM=?n, PERSON=?p] (wp[] what) (md[] should))
+    (VP2[NUM='pl', PERSON=?p]
+      (PP2[]
+        (VP2[NUM='sg', PERSON=1]
+          (prp[NUM='sg', PERSON=1] i)
+          (VP2[NUM='sg', PERSON=1] (V[NUM='sg', PERSON=1] do)))
+        (prep[] if)
+        (VP2[NUM='sg', PERSON=1]
+          (prp[NUM='sg', PERSON=1] i)
+          (VP2[NUM='sg', PERSON=1] (V[NUM='sg', PERSON=1] forget))))
+      (VP2[NUM='pl', PERSON=?p]
+        (to[] to)
+        (V[NUM='pl', PERSON=?n] give))))
+  (NP1[NUM=?n]
+    (NP2[NUM='sg']
+      (prp[NUM='sg', PERSON=1] my)
+      (NP2[NUM='sg'] (N[NUM='sg'] baby) (N[NUM='sg'] a)))
+    (NP2[NUM=?n] (drug[] dose))))
+
+first remove cap from bottle and discard cap
+Named entities (drugs): [cap cap]
+(S[]
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM='sg', PERSON=1]
+      (VP2[NUM='sg', PERSON=1]
+        (advP[] (adv[] first))
+        (VP2[NUM='sg', PERSON=1]
+          (V[NUM='sg', PERSON=1] remove)
+          (NP2[NUM='sg'] (N[NUM='sg'] cap))
+          (PP2[] (prep[] from) (NP2[NUM='sg'] (N[NUM='sg'] bottle))))
+          )
+      (conj[] and)
+      (VP2[NUM='sg', PERSON=1] (V[NUM='sg', PERSON=1] discard)))
+    (NP2[NUM='sg'] (N[NUM='sg'] cap))))
+
+unscrew cap to remove dropper from bottle
+Named entities (drugs): [cap]
+(S[]
+  (NP1[NUM='sg']
+    (NP2[NUM='sg'] (N[NUM='sg'] unscrew))
+    (NP2[NUM='sg'] (N[NUM='sg'] cap)))
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM='sg', PERSON=1]
+      (to[] to)
+      (V[NUM='sg', PERSON=1] remove))
+    (NP2[NUM='sg'] (N[NUM='sg'] dropper)))
+  (PP1[] (PP2[] (prep[] from) (NP2[NUM='sg'] (N[NUM='sg'] bottle))))
+  )
+
+squeeze  the bulb gently until the medicine is exactly in line with red dose mark
+Named entities (drugs): [dose]
+(S[]
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM='sg', PERSON=2]
+      (V[NUM='sg', PERSON=2] squeeze)
+      (NP2[NUM='sg'] (det[NUM='sg'] the) (N[NUM='sg'] bulb))
+      (PP2[]
+        (VP2[NUM='sg', PERSON=3]
+          (VP2[NUM='sg', PERSON=3]
+            (advP[] (adv[] gently))
+            (VP2[NUM='sg', PERSON=3]
+              (PP2[]
+                (prep[] until)
+                (NP2[NUM='sg']
+                  (det[NUM='sg'] the)
+                  (N[NUM='sg'] medicine)))
+              (VP2[NUM='sg', PERSON=3] (V[NUM='sg', PERSON=3] is))))
+          (advP[] (adv[] exactly)))
+        (prep[] in)))
+    (NP2[NUM='sg']
+      (N[NUM='sg'] line)
+      (PP2[]
+        (prep[] with)
+        (NP2[NUM='sg']
+          (adjP[] (adj[] red) (adj[] dose))
+          (NP2[NUM='sg'] (N[NUM='sg'] mark))))
+          )))
+
+how should i store amoxil paediatric suspension
+Named entities (drugs): [amoxil paediatric suspension]
+(S[]
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM=?n, PERSON=?p] (wp[] how) (md[] should))
+    (VP2[NUM='sg', PERSON=1]
+      (prp[NUM='sg', PERSON=1] i)
+      (VP2[NUM='sg', PERSON=1] (V[NUM='sg', PERSON=1] store))))
+  (NP1[NUM=?n]
+    (NP2[NUM=?n] (drug[] amoxil) (drug[] paediatric))
+    (NP2[NUM='sg'] (N[NUM='sg'] suspension))))
+
+keep your babys amoxil paediatric suspension in a cool place
+Named entities (drugs): [amoxil paediatric suspension]
+(S[]
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM='sg', PERSON=1]
+      (VP2[NUM='sg', PERSON=1]
+        (V[NUM='sg', PERSON=1] keep)
+        (NP2[NUM=?n]
+          (prp[NUM=?n, PERSON=2] your)
+          (NP2[NUM=?n] (N[NUM=?n] babys) (N[NUM='sg'] amoxil))))
+      (adjP[] (adj[] paediatric)))
+    (NP2[NUM='sg'] (N[NUM='sg'] suspension)))
+  (NP1[NUM='sg']
+    (NP2[NUM='sg'] (N[NUM='sg'] in) (N[NUM='sg'] a))
+    (NP2[NUM='sg']
+      (adjP[] (adj[] cool))
+      (NP2[NUM='sg'] (N[NUM='sg'] place))))
+      )
+
+nonproprietary name amoxycillin paediatric oral suspension
+Named entities (Chemical): [amoxycillin]
+Named entities (drugs): [paediatric oral suspension]
+Named entities (org): [name]
+(S[]
+  (NP1[NUM=?n]
+    (NP2[NUM=?n]
+      (adjP[] (adj[] nonproprietary))
+      (NP2[NUM=?n] (org[] name)))
+    (NP2[NUM='sg']
+      (adjP[] (adj[] amoxycillin) (adj[] paediatric))
+      (NP2[NUM='sg']
+        (adjP[] (adj[] oral))
+        (NP2[NUM='sg'] (N[NUM='sg'] suspension))))
+        ))
+
+amongst these are sodium benzoate and sucrose
+Named entities (Chemical): [sodium benzoate sucrose]
+(S[]
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM='sg', PERSON=2]
+      (PP2[] (prep[] amongst) (det[NUM='pl'] these))
+      (VP2[NUM='sg', PERSON=2]
+        (V[NUM='sg', PERSON=2] are)
+        (NP2[NUM='sg'] (N[NUM='sg'] sodium))))
+    (NP2[NUM='sg']
+      (N[NUM='sg'] benzoate)
+      (conj[] and)
+      (N[NUM='sg'] sucrose))))
+
+amoxil paediatric suspension does not contain tartrazine or any other azo dyes
+Named entities (Chemical): [tartrazine]
+Named entities (drugs): [amoxil paediatric suspension]
+(S[]
+  (NP1[NUM=?n]
+    (NP2[NUM=?n] (drug[] amoxil) (drug[] paediatric))
+    (NP2[NUM='sg'] (N[NUM='sg'] suspension)))
+  (VP1[NUM='sg', PERSON=3]
+    (VP2[NUM='sg', PERSON=3] (V[NUM='sg', PERSON=3] does))
+    (VP2[NUM=?n, PERSON=?p]
+      (VP2[NUM='sg', PERSON=1]
+        (advP[] (adv[] not))
+        (VP2[NUM='sg', PERSON=1]
+          (V[NUM='sg', PERSON=1] contain)
+          (NP2[NUM='sg'] (N[NUM='sg'] tartrazine))))
+      (conj[] or)
+      (NP2[NUM='pl']
+        (det[NUM='pl'] any)
+        (adjP[] (adj[] other) (adj[] azo))
+        (N[NUM='pl'] dyes))))
+        )
+
+how can i obtain more information about amoxil
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM=?n, PERSON=?p] (wp[] how) (md[] can))
+    (VP2[NUM='sg', PERSON=1]
+      (prp[NUM='sg', PERSON=1] i)
+      (VP2[NUM='sg', PERSON=1]
+        (V[NUM='sg', PERSON=1] obtain)
+        (NP2[NUM='sg']
+          (adjP[] (adj[] more))
+          (NP2[NUM='sg'] (N[NUM='sg'] information))))
+          ))
+  (NP1[NUM=?n] (NP2[NUM=?n] (N[NUM=?n] about) (N[NUM='sg'] amoxil))))
+
+amoxil
+Named entities (drugs): [amoxil]
+(S[] (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] amoxil))))
+
+cortisyl tablets 25mgcse 39670
+Named entities (drugs): [cortisyl tablets]
+(S[]
+  (NP1[NUM='pl']
+    (NP2[NUM='pl']
+      (adjP[] (adj[] cortisyl))
+      (NP2[NUM='pl']
+        (N[NUM='pl'] tablets)
+        (CDP[] (cd[] 25mgcse) (CDP[] (cd[] 39670))))
+        )))
+
+the name of your medicine is cortisyl tablets
+Named entities (drugs): [cortisyl tablets]
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (NP1[NUM='sg']
+      (NP2[NUM='sg'] (det[NUM='sg'] the) (N[NUM='sg'] name)))
+    (VP2[NUM='sg', PERSON=3]
+      (PP2[]
+        (prep[] of)
+        (NP2[NUM='sg']
+          (prp[NUM=?n, PERSON=2] your)
+          (NP2[NUM='sg'] (N[NUM='sg'] medicine))))
+      (VP2[NUM='sg', PERSON=3] (V[NUM='sg', PERSON=3] is))))
+  (NP1[NUM=?n] (NP2[NUM=?n] (drug[] cortisyl) (drug[] tablets))))
+
+cortisyl tablets are available in a pack of 56 tablets
+Named entities (drugs): [cortisyl tablets pack tablets]
+(S[]
+  (VP1[NUM='sg', PERSON=2]
+    (NP1[NUM=?n] (NP2[NUM=?n] (drug[] cortisyl) (drug[] tablets)))
+    (VP2[NUM='sg', PERSON=2]
+      (V[NUM='sg', PERSON=2] are)
+      (NP2[NUM='sg']
+        (adjP[] (adj[] available))
+        (NP2[NUM='sg'] (N[NUM='sg'] in) (N[NUM='sg'] a))))
+        )
+  (NP1[NUM=?n]
+    (NP2[NUM='sg'] (N[NUM='sg'] pack) (PP2[] (prep[] of) (cd[] 56)))
+    (NP2[NUM='pl'] (N[NUM='pl'] tablets))))
+
+cortisone the active ingredient is a glucocorticoid
+Named entities (Chemical): [cortisone glucocorticoid]
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (NP1[NUM=?n]
+      (NP2[NUM=?n] (chemical[] cortisone))
+      (NP2[NUM='sg']
+        (det[NUM='sg'] the)
+        (adjP[] (adj[] active))
+        (N[NUM='sg'] ingredient)))
+    (VP2[NUM='sg', PERSON=3]
+      (V[NUM='sg', PERSON=3] is)
+      (NP2[NUM='sg'] (N[NUM='sg'] a))))
+  (NP1[NUM=?n] (NP2[NUM=?n] (chemical[] glucocorticoid))))
+
+before you take cortisyl tablets please read the following questions
+Named entities (drugs): [cortisyl tablets]
+(S[]
+  (VP1[NUM='pl', PERSON=?p]
+    (VP2[NUM='pl', PERSON=?p]
+      (PP2[]
+        (prep[] before)
+        (VP2[NUM='sg', PERSON=2]
+          (prp[NUM=?n, PERSON=2] you)
+          (VP2[NUM='sg', PERSON=2]
+            (V[NUM='sg', PERSON=2] take)
+            (NP2[NUM=?n]
+              (adjP[] (adj[] cortisyl))
+              (NP2[NUM=?n]
+                (drug[] tablets)
+                (NP2[NUM=?n] (N[NUM=?n] please))))
+                )))
+      (VP2[NUM='pl', PERSON=?p] (V[NUM='pl', PERSON=?n] read)))
+    (NP2[NUM='pl']
+      (det[NUM='pl'] the)
+      (adjP[] (adj[] following))
+      (N[NUM='pl'] questions))))
+
+conditions such as athletes foot thrush the common cold and cold sores are all types of infection
+Named entities (drugs): [cold]
+(S[]
+  (VP1[NUM='sg', PERSON=?p]
+    (NP1[NUM=?n]
+      (NP2[NUM='pl'] (N[NUM='pl'] conditions))
+      (NP2[NUM=?n]
+        (adjP[] (adj[] such))
+        (NP2[NUM=?n] (N[NUM=?n] as) (N[NUM='pl'] athletes))))
+    (VP2[NUM='sg', PERSON=?p]
+      (V[NUM=?n] foot)
+      (NP2[NUM='sg'] (N[NUM='sg'] thrush))))
+  (NP1[NUM=?n]
+    (NP2[NUM=?n]
+      (NP2[NUM='sg']
+        (det[NUM='sg'] the)
+        (adjP[] (adj[] common))
+        (N[NUM='sg'] cold))
+      (conj[] and)
+      (NP2[NUM='pl']
+        (adjP[] (adj[] cold))
+        (NP2[NUM='pl']
+          (N[NUM='pl'] sores)
+          (PP2[]
+            (VP2[NUM='pl', PERSON=?p]
+              (V[NUM='pl', PERSON=?n] are)
+              (NP2[NUM=?n] (N[NUM='sg'] all) (N[NUM='pl'] types)))
+            (prep[] of))))
+            )
+    (NP2[NUM='sg'] (N[NUM='sg'] infection))))
+
+do you have high blood pressure
+Named entities (drugs): [high]
+(S[]
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM='sg', PERSON=2] (V[NUM='sg', PERSON=2] do))
+    (VP2[NUM='sg', PERSON=2]
+      (prp[NUM=?n, PERSON=2] you)
+      (VP2[NUM='sg', PERSON=2]
+        (V[NUM='sg', PERSON=2] have)
+        (NP2[NUM='sg']
+          (adjP[] (adj[] high))
+          (NP2[NUM='sg'] (N[NUM='sg'] blood) (N[NUM='sg'] pressure))))
+          )))
+
+your doctor will know about these and may change your dose of medication to deal with this
+Named entities (drugs): [dose]
+(S[]
+  (NP1[NUM=?n]
+    (NP2[NUM='sg']
+      (prp[NUM=?n, PERSON=2] your)
+      (NP2[NUM='sg']
+        (N[NUM='sg'] doctor)
+        (PP2[]
+          (VP2[NUM='pl', PERSON=?p]
+            (md[] will)
+            (V[NUM='pl', PERSON=?n] know))
+          (prep[] about)
+          (VP2[NUM='pl', PERSON=?p]
+            (NP2[NUM='pl'] (det[NUM='pl'] these) (N[NUM=?n] and))
+            (md[] may)
+            (VP2[NUM='pl', PERSON=?p]
+              (V[NUM='pl', PERSON=?n] change))))
+              ))
+    (NP2[NUM=?n]
+      (prp[NUM=?n, PERSON=2] your)
+      (NP2[NUM=?n] (drug[] dose))))
+  (VP1[NUM='pl', PERSON=?p]
+    (VP2[NUM='pl', PERSON=?p]
+      (PP2[] (prep[] of) (NP2[NUM='sg'] (N[NUM='sg'] medication)))
+      (VP2[NUM='pl', PERSON=?p]
+        (to[] to)
+        (V[NUM='pl', PERSON=?n] deal))))
+  (PP1[] (PP2[] (prep[] with) (det[NUM='sg'] this))))
+
+adults if you are taking cortisyl tablets
+Named entities (drugs): [cortisyl tablets]
+(S[]
+  (NP1[NUM=?n]
+    (NP2[NUM='pl'] (N[NUM='pl'] adults))
+    (NP2[NUM=?n] (N[NUM=?n] if)))
+  (VP1[NUM='pl', PERSON=2]
+    (VP2[NUM='pl', PERSON=2]
+      (prp[NUM=?n, PERSON=2] you)
+      (VP2[NUM='pl', PERSON=?p]
+        (V[NUM='pl', PERSON=?n] are)
+        (V[NUM=?n] taking)))
+    (NP2[NUM=?n] (drug[] cortisyl) (drug[] tablets))))
+
+if you do forget to take a dose at the correct time take your cortisyl tablets as soon as you remember
+Named entities (drugs): [cortisyl tablets]
+(S[]
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM='sg', PERSON=1]
+      (PP2[]
+        (prep[] if)
+        (VP2[NUM='sg', PERSON=2]
+          (prp[NUM=?n, PERSON=2] you)
+          (VP2[NUM='sg', PERSON=2]
+            (V[NUM='sg', PERSON=2] do)
+            (V[NUM='sg', PERSON=2] forget))))
+      (VP2[NUM='sg', PERSON=1]
+        (to[] to)
+        (V[NUM='sg', PERSON=1] take)))
+    (NP2[NUM='sg'] (N[NUM='sg'] a)))
+  (NP1[NUM='sg']
+    (NP2[NUM='sg']
+      (N[NUM='sg'] dose)
+      (PP2[]
+        (VP2[NUM='pl', PERSON=?p]
+          (PP2[]
+            (prep[] at)
+            (NP2[NUM='sg']
+              (det[NUM='sg'] the)
+              (adjP[] (adj[] correct))
+              (N[NUM=?n] time)))
+          (VP2[NUM='pl', PERSON=?p]
+            (V[NUM='pl', PERSON=?n] take)
+            (NP2[NUM=?n]
+              (prp[NUM=?n, PERSON=2] your)
+              (NP2[NUM=?n] (drug[] cortisyl) (drug[] tablets)))
+            (PP2[] (prep[] as) (NP2[NUM='sg'] (N[NUM='sg'] soon))))
+            )
+        (prep[] as)
+        (VP2[NUM='pl', PERSON=2]
+          (prp[NUM=?n, PERSON=2] you)
+          (VP2[NUM='pl', PERSON=?p]
+            (V[NUM='pl', PERSON=?n] remember))))
+            )))
+
+if you accidentally take too many tablets contact your doctor or the hospital casualty department immediately
+Named entities (drugs): [tablets]
+(S[]
+  (NP1[NUM=?n] (NP2[NUM=?n] (N[NUM=?n] if)))
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM='sg', PERSON=2]
+      (prp[NUM=?n, PERSON=2] you)
+      (VP2[NUM='sg', PERSON=?p]
+        (VP2[NUM='sg', PERSON=?p]
+          (advP[] (adv[] accidentally))
+          (N[NUM='sg'] take))
+        (advP[] (adv[] too))))
+    (NP1[NUM=?n]
+      (NP2[NUM=?n]
+        (adjP[] (adj[] many))
+        (NP2[NUM=?n] (N[NUM='pl'] tablets) (N[NUM='sg'] contact)))
+      (NP2[NUM='sg']
+        (prp[NUM=?n, PERSON=2] your)
+        (NP2[NUM='sg'] (N[NUM='sg'] doctor))))
+        )
+  (conj[] or)
+  (NP1[NUM='sg']
+    (NP2[NUM='sg'] (det[NUM='sg'] the) (N[NUM='sg'] hospital)))
+  (VP1[NUM='sg', PERSON=?p]
+    (VP2[NUM='sg', PERSON=?p]
+      (NP2[NUM='sg'] (N[NUM='sg'] casualty) (N[NUM='sg'] department))
+      (advP[] (adv[] immediately))))
+      )
+
+have you got a repeat prescription from your doctor
+Named entities (drugs): [prescription]
+(S[]
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM='sg', PERSON=2] (V[NUM='sg', PERSON=2] have))
+    (VP2[NUM=?n, PERSON=2]
+      (prp[NUM=?n, PERSON=2] you)
+      (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] got))))
+  (NP1[NUM='sg']
+    (NP2[NUM='sg']
+      (N[NUM='sg'] a)
+      (PP2[]
+        (VP2[NUM='pl', PERSON=?p]
+          (V[NUM='pl', PERSON=?n] repeat)
+          (NP2[NUM=?n] (drug[] prescription)))
+        (prep[] from)))
+    (NP2[NUM='sg']
+      (prp[NUM=?n, PERSON=2] your)
+      (NP2[NUM='sg'] (N[NUM='sg'] doctor))))
+      )
+
+keep a supply in reserve so that you will not accidentally run out of tablets
+Named entities (drugs): [tablets]
+Named entities (org): [reserve]
+(S[]
+  (PP1[]
+    (PP2[]
+      (VP2[NUM='pl', PERSON=?p]
+        (PP2[]
+          (VP2[NUM='sg', PERSON=2]
+            (V[NUM='sg', PERSON=2] keep)
+            (NP2[NUM='sg'] (N[NUM='sg'] a) (N[NUM='sg'] supply)))
+          (prep[] in)
+          (VP2[NUM=?n, PERSON=2]
+            (VP2[NUM=?n, PERSON=2]
+              (PP2[]
+                (VP2[NUM='sg', PERSON=?p]
+                  (NP2[NUM='sg'] (N[NUM='sg'] reserve))
+                  (advP[] (adv[] so)))
+                (prep[] that))
+              (VP2[NUM=?n, PERSON=2]
+                (prp[NUM=?n, PERSON=2] you)
+                (md[] will)))
+            (advP[] (adv[] not))))
+        (VP2[NUM='pl', PERSON=?p]
+          (advP[] (adv[] accidentally))
+          (V[NUM='pl', PERSON=?n] run)))
+      (prep[] out))
+    (PP2[] (prep[] of) (NP2[NUM='pl'] (N[NUM='pl'] tablets))))
+    )
+
+like all medicines cortisyl tablets may occasionally cause you some problems
+Named entities (drugs): [cortisyl tablets]
+(S[]
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM='sg', PERSON=2]
+      (V[NUM='sg', PERSON=2] like)
+      (NP2[NUM=?n] (N[NUM='sg'] all) (N[NUM='pl'] medicines)))
+    (VP2[NUM='sg', PERSON=?p]
+      (NP2[NUM='sg']
+        (adjP[] (adj[] cortisyl))
+        (NP2[NUM='sg']
+          (drug[] tablets)
+          (NP2[NUM='sg'] (N[NUM='sg'] may))))
+      (advP[] (adv[] occasionally))))
+  (NP1[NUM=?n]
+    (NP2[NUM='sg'] (N[NUM='sg'] cause))
+    (NP2[NUM='pl']
+      (prp[NUM=?n, PERSON=2] you)
+      (NP2[NUM='pl'] (det[NUM='pl'] some) (N[NUM='pl'] problems))))
+      )
+
+sometimes the throat may become very sore
+Named entities (drugs): [sore]
+(S[]
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM='sg', PERSON=2]
+      (VP2[NUM='sg', PERSON=2]
+        (advP[] (adv[] sometimes))
+        (VP2[NUM='sg', PERSON=2]
+          (NP2[NUM='sg'] (det[NUM='sg'] the) (N[NUM='sg'] throat))
+          (md[] may)
+          (VP2[NUM='sg', PERSON=2] (V[NUM='sg', PERSON=2] become))))
+      (advP[] (adv[] very)))
+    (NP2[NUM='sg'] (N[NUM='sg'] sore))))
+
+if you suffer from epilepsy your doctor may wish to alter your dose of medication whilst you are taking cortisyl tablets
+Named entities (drugs): [cortisyl tablets]
+(S[]
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM='sg', PERSON=2]
+      (PP2[]
+        (prep[] if)
+        (VP2[NUM='pl', PERSON=2]
+          (prp[NUM=?n, PERSON=2] you)
+          (VP2[NUM='pl', PERSON=?p] (V[NUM='pl', PERSON=?n] suffer))))
+      (VP2[NUM='sg', PERSON=2]
+        (PP2[] (prep[] from) (NP2[NUM='sg'] (N[NUM='sg'] epilepsy)))
+        (VP2[NUM='sg', PERSON=2]
+          (NP2[NUM='sg']
+            (prp[NUM=?n, PERSON=2] your)
+            (NP2[NUM='sg'] (N[NUM='sg'] doctor)))
+          (md[] may)
+          (VP2[NUM='sg', PERSON=2] (V[NUM='sg', PERSON=2] wish))))
+          )
+    (VP2[NUM='sg', PERSON=2] (to[] to) (V[NUM='sg', PERSON=2] alter)))
+  (NP1[NUM=?n]
+    (NP2[NUM='sg']
+      (prp[NUM=?n, PERSON=2] your)
+      (NP2[NUM='sg']
+        (N[NUM='sg'] dose)
+        (PP2[]
+          (prep[] of)
+          (NP2[NUM='sg']
+            (N[NUM='sg'] medication)
+            (PP2[]
+              (prep[] whilst)
+              (VP2[NUM='sg', PERSON=2]
+                (prp[NUM=?n, PERSON=2] you)
+                (VP2[NUM='sg', PERSON=2]
+                  (V[NUM='sg', PERSON=2] are)
+                  (V[NUM=?n] taking))))
+                  ))))
+    (NP2[NUM=?n] (drug[] cortisyl) (drug[] tablets))))
+
+the name of this medicine is amoxil
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (NP1[NUM='sg']
+      (NP2[NUM='sg'] (det[NUM='sg'] the) (N[NUM='sg'] name)))
+    (VP2[NUM='sg', PERSON=3]
+      (PP2[]
+        (prep[] of)
+        (NP2[NUM='sg'] (det[NUM='sg'] this) (N[NUM='sg'] medicine)))
+      (VP2[NUM='sg', PERSON=3] (V[NUM='sg', PERSON=3] is))))
+  (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] amoxil))))
+
+what is amoxil
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (VP2[NUM='sg', PERSON=3]
+      (wp[] what)
+      (VP2[NUM='sg', PERSON=3] (V[NUM='sg', PERSON=3] is))))
+  (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] amoxil))))
+
+it is one of a group of antibiotic medicines called penicillins
+Named entities (Chemical): [penicillins]
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (VP2[NUM='sg', PERSON=3]
+      (prp[NUM='sg', PERSON=3] it)
+      (VP2[NUM='sg', PERSON=3]
+        (V[NUM='sg', PERSON=3] is)
+        (NP2[NUM='sg']
+          (N[NUM='sg'] one)
+          (PP2[]
+            (prep[] of)
+            (NP2[NUM='sg'] (N[NUM='sg'] a) (N[NUM='sg'] group))))
+        (PP2[]
+          (prep[] of)
+          (NP2[NUM='pl']
+            (adjP[] (adj[] antibiotic))
+            (NP2[NUM='pl'] (N[NUM='pl'] medicines))))
+            ))
+    (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] called)))
+  (NP1[NUM=?n] (NP2[NUM=?n] (chemical[] penicillins))))
+
+the active ingredient in amoxil is amoxycillin
+Named entities (Chemical): [amoxycillin]
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (NP1[NUM='sg']
+      (NP2[NUM='sg']
+        (det[NUM='sg'] the)
+        (adjP[] (adj[] active))
+        (N[NUM='sg'] ingredient))
+      (NP2[NUM='sg'] (N[NUM='sg'] in) (N[NUM='sg'] amoxil)))
+    (VP2[NUM='sg', PERSON=3] (V[NUM='sg', PERSON=3] is)))
+  (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] amoxycillin))))
+
+important things to know about amoxil
+Named entities (drugs): [amoxil]
+(S[]
+  (NP1[NUM=?n]
+    (NP2[NUM='sg'] (N[NUM='sg'] important))
+    (NP2[NUM='pl'] (N[NUM='pl'] things)))
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM='sg', PERSON=1] (to[] to) (V[NUM='sg', PERSON=1] know))
+    (NP2[NUM='sg'] (N[NUM=?n] about) (N[NUM='sg'] amoxil))))
+
+read the dispensing label
+Named entities (org): [label]
+(S[]
+  (VP1[NUM='pl', PERSON=?p]
+    (VP2[NUM='pl', PERSON=?p] (V[NUM='pl', PERSON=?n] read)))
+  (NP1[NUM=?n]
+    (NP2[NUM='pl'] (det[NUM='pl'] the) (N[NUM=?n] dispensing))
+    (NP2[NUM='sg'] (N[NUM='sg'] label))))
+
+like all medicines amoxil can sometimes cause unwanted effects
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='sg', PERSON=?p]
+    (VP2[NUM='sg', PERSON=?p]
+      (PP2[]
+        (prep[] like)
+        (VP2[NUM='pl', PERSON=?p]
+          (advP[] (adv[] all))
+          (N[NUM='pl'] medicines)))
+      (VP2[NUM='sg', PERSON=?p]
+        (NP2[NUM='sg'] (N[NUM='sg'] amoxil))
+        (md[] can)))
+    (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] sometimes)))
+  (NP1[NUM=?n]
+    (NP2[NUM='sg'] (N[NUM='sg'] cause))
+    (NP2[NUM='pl']
+      (adjP[] (adj[] unwanted))
+      (NP2[NUM='pl'] (N[NUM='pl'] effects))))
+      )
+
+please read the dispensing label carefully
+Named entities (org): [label]
+(S[]
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM='sg', PERSON=1]
+      (V[NUM=?n] please)
+      (V[NUM='sg', PERSON=1] read))
+    (NP2[NUM='sg'] (det[NUM='sg'] the) (N[NUM=?n] dispensing)))
+  (NP1[NUM=?n]
+    (NP2[NUM=?n] (org[] label))
+    (NP2[NUM='sg'] (N[NUM='sg'] carefully))))
+
+however if necessary the dose may be stirred into a few spoonfuls of cold water or infant drink not milk
+Named entities (drugs): [cold]
+(S[]
+  (VP1[NUM='sg', PERSON=?p]
+    (VP2[NUM='sg', PERSON=?p]
+      (advP[] (adv[] however))
+      (VP2[NUM='sg', PERSON=?p]
+        (PP2[]
+          (prep[] if)
+          (VP2[NUM='sg', PERSON=?p]
+            (NP2[NUM='sg']
+              (adjP[] (adj[] necessary))
+              (NP2[NUM='sg'] (det[NUM='sg'] the) (N[NUM='sg'] dose)))
+            (md[] may)
+            (VP2[NUM=?n, PERSON=?p]
+              (V[NUM=?n] be)
+              (V[NUM=?n] stirred))))
+        (VP2[NUM='sg', PERSON=?p]
+          (PP2[]
+            (prep[] into)
+            (NP2[NUM='sg']
+              (det[NUM='sg'] a)
+              (adjP[] (adj[] few))
+              (N[NUM='sg'] spoonfuls)))
+          (VP2[NUM='sg', PERSON=?p]
+            (PP2[]
+              (prep[] of)
+              (NP2[NUM='sg']
+                (NP2[NUM='sg']
+                  (adjP[] (adj[] cold))
+                  (NP2[NUM='sg'] (N[NUM='sg'] water)))
+                (conj[] or)
+                (NP2[NUM='sg']
+                  (N[NUM='sg'] infant)
+                  (N[NUM='sg'] drink))))
+            (VP2[NUM='sg', PERSON=?p]
+              (advP[] (adv[] not))
+              (N[NUM='sg'] milk))))
+              ))))
+
+ if you have been told to give your child amoxil 3 times a day
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='pl', PERSON=?p]
+    (VP2[NUM=?n, PERSON=?p]
+      (PP2[]
+        (prep[] if)
+        (VP2[NUM='sg', PERSON=2]
+          (prp[NUM=?n, PERSON=2] you)
+          (VP2[NUM='sg', PERSON=2]
+            (V[NUM='sg', PERSON=2] have)
+            (V[NUM=?n] been))))
+      (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] told)))
+    (VP2[NUM='pl', PERSON=?p]
+      (to[] to)
+      (V[NUM='pl', PERSON=?n] give)))
+  (NP1[NUM=?n]
+    (NP2[NUM='pl']
+      (prp[NUM=?n, PERSON=2] your)
+      (NP2[NUM='pl']
+        (adjP[] (adj[] child))
+        (NP2[NUM='pl']
+          (drug[] amoxil)
+          (NP2[NUM='pl'] (CDP[] (cd[] 3)) (N[NUM='pl'] times))))
+          )
+    (NP2[NUM='sg'] (N[NUM='sg'] a) (N[NUM='sg'] day))))
+
+what should i do if i forget to give my child a dose
+Named entities (drugs): [dose]
+(S[]
+  (VP1[NUM='pl', PERSON=?p]
+    (VP2[NUM=?n, PERSON=?p] (wp[] what) (md[] should))
+    (VP2[NUM='pl', PERSON=?p]
+      (PP2[]
+        (VP2[NUM='sg', PERSON=1]
+          (prp[NUM='sg', PERSON=1] i)
+          (VP2[NUM='sg', PERSON=1] (V[NUM='sg', PERSON=1] do)))
+        (prep[] if)
+        (VP2[NUM='sg', PERSON=1]
+          (prp[NUM='sg', PERSON=1] i)
+          (VP2[NUM='sg', PERSON=1] (V[NUM='sg', PERSON=1] forget))))
+      (VP2[NUM='pl', PERSON=?p]
+        (to[] to)
+        (V[NUM='pl', PERSON=?n] give))))
+  (NP1[NUM=?n]
+    (NP2[NUM='sg']
+      (prp[NUM='sg', PERSON=1] my)
+      (NP2[NUM='sg']
+        (adjP[] (adj[] child))
+        (NP2[NUM='sg'] (N[NUM='sg'] a))))
+    (NP2[NUM=?n] (drug[] dose))))
+
+if your child suffers badly tell your doctor
+Named entities (Chemical): [suffers]
+(S[]
+  (NP1[NUM=?n]
+    (NP2[NUM=?n] (N[NUM=?n] if))
+    (NP2[NUM=?n]
+      (prp[NUM=?n, PERSON=2] your)
+      (NP2[NUM=?n]
+        (adjP[] (adj[] child))
+        (NP2[NUM=?n] (chemical[] suffers))))
+        )
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM='sg', PERSON=1]
+      (advP[] (adv[] badly))
+      (VP2[NUM='sg', PERSON=1] (V[NUM='sg', PERSON=1] tell)))
+    (NP2[NUM='sg']
+      (prp[NUM=?n, PERSON=2] your)
+      (NP2[NUM='sg'] (N[NUM='sg'] doctor))))
+      )
+
+how should i store amoxil  syrup
+Named entities (drugs): [amoxil syrup]
+(S[]
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM=?n, PERSON=?p] (wp[] how) (md[] should))
+    (VP2[NUM='sg', PERSON=1]
+      (prp[NUM='sg', PERSON=1] i)
+      (VP2[NUM='sg', PERSON=1] (V[NUM='sg', PERSON=1] store))))
+  (NP1[NUM=?n]
+    (NP2[NUM=?n] (drug[] amoxil))
+    (NP2[NUM='sg'] (N[NUM='sg'] syrup))))
+
+amoxil syrup is available in two strengths containing either 125 mg or 250 mg of amoxycillin as amoxycillin trihydrate per 5 ml
+Named entities (Chemical): [amoxycillin amoxycillin trihydrate]
+Named entities (drugs): [amoxil syrup 125 mg 250 mg]
+(S[]
+  (VP1[NUM=?n, PERSON=?p]
+    (NP1[NUM=?n]
+      (NP2[NUM='sg']
+        (drug[] amoxil)
+        (NP2[NUM='sg']
+          (N[NUM='sg'] syrup)
+          (PP2[]
+            (VP2[NUM='sg', PERSON=3]
+              (VP2[NUM='sg', PERSON=3] (V[NUM='sg', PERSON=3] is))
+              (adjP[] (adj[] available)))
+            (prep[] in))))
+      (NP2[NUM='pl'] (CDP[] (cd[] two)) (N[NUM='pl'] strengths)))
+    (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] containing)))
+  (NP1[NUM='sg']
+    (NP2[NUM=?n]
+      (NP2[NUM=?n] (CDP[] (adv[] either) (cd[] 125)) (drug[] mg))
+      (conj[] or)
+      (NP2[NUM='sg']
+        (drug[] 250)
+        (NP2[NUM='sg']
+          (N[NUM='sg'] mg)
+          (PP2[]
+            (prep[] of)
+            (NP2[NUM='sg']
+              (N[NUM='sg'] amoxycillin)
+              (PP2[]
+                (prep[] as)
+                (NP2[NUM='sg']
+                  (adjP[] (adj[] amoxycillin))
+                  (NP2[NUM='sg']
+                    (N[NUM='sg'] trihydrate)
+                    (PP2[] (prep[] per) (cd[] 5))))
+                    ))))
+                    ))
+    (NP2[NUM='sg'] (N[NUM='sg'] ml))))
+
+nonproprietary name amoxycillin syrup
+Named entities (Chemical): [amoxycillin]
+Named entities (drugs): [syrup]
+Named entities (org): [name]
+(S[]
+  (NP1[NUM=?n]
+    (NP2[NUM=?n]
+      (adjP[] (adj[] nonproprietary))
+      (NP2[NUM=?n] (org[] name)))
+    (NP2[NUM='sg']
+      (adjP[] (adj[] amoxycillin))
+      (NP2[NUM='sg'] (N[NUM='sg'] syrup))))
+      )
+
+amongst these are sodium benzoate and sorbitol
+Named entities (Chemical): [sodium benzoate sorbitol]
+(S[]
+  (VP1[NUM='sg', PERSON=2]
+    (VP2[NUM='sg', PERSON=2]
+      (PP2[] (prep[] amongst) (det[NUM='pl'] these))
+      (VP2[NUM='sg', PERSON=2]
+        (V[NUM='sg', PERSON=2] are)
+        (NP2[NUM='sg'] (N[NUM='sg'] sodium))))
+    (NP2[NUM='sg']
+      (N[NUM='sg'] benzoate)
+      (conj[] and)
+      (N[NUM='sg'] sorbitol))))
+
+beecham group plc trading as bencard great west road
+Named entities (org): [beecham group trading bencard]
+(S[]
+  (VP1[NUM='sg', PERSON=?p]
+    (NP1[NUM='sg']
+      (NP2[NUM='sg'] (N[NUM='sg'] beecham))
+      (NP2[NUM='sg'] (N[NUM='sg'] group)))
+    (VP2[NUM=?n, PERSON=?p]
+      (V[NUM=?n] plc)
+      (NP2[NUM=?n] (org[] trading))
+      (PP2[] (prep[] as) (NP2[NUM='sg'] (N[NUM='sg'] bencard))))
+      )
+  (NP1[NUM='sg']
+    (NP2[NUM='sg']
+      (adjP[] (adj[] great))
+      (NP2[NUM='sg'] (N[NUM='sg'] west)))
+    (NP2[NUM='sg'] (N[NUM='sg'] road))))
+
+how can i obtain more information about amoxil
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM=?n, PERSON=?p] (wp[] how) (md[] can))
+    (VP2[NUM='sg', PERSON=1]
+      (prp[NUM='sg', PERSON=1] i)
+      (VP2[NUM='sg', PERSON=1]
+        (V[NUM='sg', PERSON=1] obtain)
+        (NP2[NUM='sg']
+          (adjP[] (adj[] more))
+          (NP2[NUM='sg'] (N[NUM='sg'] information))))
+          ))
+  (NP1[NUM=?n] (NP2[NUM=?n] (N[NUM=?n] about) (N[NUM='sg'] amoxil))))
+
+amoxil
+Named entities (drugs): [amoxil]
+(S[] (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] amoxil))))
+
+nifedipine what is in your medicine each tablet contains the active ingredient nifedipine 10 mg
+Named entities (Chemical): [nifedipine]
+Named entities (drugs): [10 mg]
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (NP1[NUM='sg']
+      (NP2[NUM='sg']
+        (N[NUM='sg'] nifedipine)
+        (PP2[]
+          (VP2[NUM='sg', PERSON=3]
+            (wp[] what)
+            (VP2[NUM='sg', PERSON=3] (V[NUM='sg', PERSON=3] is)))
+          (prep[] in)))
+      (NP2[NUM='sg']
+        (prp[NUM=?n, PERSON=2] your)
+        (NP2[NUM='sg']
+          (adjP[] (adj[] medicine))
+          (NP2[NUM='sg'] (det[NUM='sg'] each) (N[NUM='sg'] tablet))))
+          )
+    (VP2[NUM='sg', PERSON=3]
+      (VP2[NUM='sg', PERSON=3]
+        (V[NUM='sg', PERSON=3] contains)
+        (NP2[NUM='sg']
+          (det[NUM='sg'] the)
+          (adjP[] (adj[] active))
+          (N[NUM='sg'] ingredient)))
+      (adjP[] (adj[] nifedipine))))
+  (NP1[NUM='sg'] (NP2[NUM='sg'] (CDP[] (cd[] 10)) (N[NUM='sg'] mg))))
+
+adipine&trade mr 10 is a medicine for the treatment of high blood pressure hypertension and for the prevention of coronary artery disease
+Named entities (drugs): [mr 10 high]
+Named entities (org): [adipine&trade]
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (NP1[NUM=?n]
+      (NP2[NUM='sg'] (N[NUM='sg'] adipine&trade))
+      (NP2[NUM=?n] (drug[] mr) (drug[] 10)))
+    (VP2[NUM='sg', PERSON=3]
+      (V[NUM='sg', PERSON=3] is)
+      (NP2[NUM='sg'] (N[NUM='sg'] a) (N[NUM='sg'] medicine))
+      (PP2[]
+        (VP2[NUM='sg', PERSON=?p]
+          (VP2[NUM='sg', PERSON=?p]
+            (PP2[]
+              (prep[] for)
+              (NP2[NUM='sg']
+                (det[NUM='sg'] the)
+                (N[NUM='sg'] treatment)))
+            (VP2[NUM='sg', PERSON=?p]
+              (PP2[] (prep[] of) (NP2[NUM=?n] (drug[] high)))
+              (VP2[NUM='sg', PERSON=?p]
+                (V[NUM=?n] blood)
+                (NP2[NUM='sg']
+                  (N[NUM='sg'] pressure)
+                  (N[NUM='sg'] hypertension))))
+                  )
+          (conj[] and)
+          (PP2[]
+            (prep[] for)
+            (NP2[NUM='sg']
+              (det[NUM='sg'] the)
+              (N[NUM='sg'] prevention))))
+        (prep[] of))))
+  (NP1[NUM='sg']
+    (NP2[NUM='sg']
+      (adjP[] (adj[] coronary))
+      (NP2[NUM='sg'] (N[NUM='sg'] artery)))
+    (NP2[NUM='sg'] (N[NUM='sg'] disease))))
+
+patients who are on kidney dialysis and have a very high blood pressure and a low blood volume may have a marked drop in their blood pressure
+Named entities (drugs): [high]
+(S[]
+  (VP1[NUM='sg', PERSON=2]
+    (NP1[NUM=?n]
+      (NP2[NUM='pl']
+        (N[NUM='pl'] patients)
+        (PP2[]
+          (VP2[NUM='sg', PERSON=2]
+            (wp[] who)
+            (VP2[NUM='sg', PERSON=2] (V[NUM='sg', PERSON=2] are)))
+          (prep[] on)
+          (VP2[NUM='sg', PERSON=2]
+            (VP2[NUM='sg', PERSON=2]
+              (VP2[NUM='sg', PERSON=?p]
+                (V[NUM=?n] kidney)
+                (NP2[NUM='sg'] (N[NUM='sg'] dialysis)))
+              (conj[] and)
+              (VP2[NUM='sg', PERSON=2]
+                (V[NUM='sg', PERSON=2] have)
+                (NP2[NUM='sg'] (N[NUM='sg'] a))))
+            (advP[] (adv[] very))))
+            )
+      (NP2[NUM='sg']
+        (NP2[NUM='sg']
+          (adjP[] (adj[] high))
+          (NP2[NUM='sg'] (N[NUM='sg'] blood) (N[NUM='sg'] pressure)))
+        (conj[] and)
+        (NP2[NUM='sg']
+          (det[NUM='sg'] a)
+          (adjP[] (adj[] low))
+          (N[NUM='sg'] blood))))
+    (VP2[NUM='sg', PERSON=2]
+      (NP2[NUM='sg'] (N[NUM='sg'] volume))
+      (md[] may)
+      (VP2[NUM='sg', PERSON=2] (V[NUM='sg', PERSON=2] have))))
+  (NP1[NUM='sg']
+    (NP2[NUM='sg']
+      (N[NUM='sg'] a)
+      (PP2[]
+        (VP2[NUM='pl', PERSON=?p]
+          (V[NUM=?n] marked)
+          (V[NUM='pl', PERSON=?n] drop))
+        (prep[] in)
+        (VP2[NUM='pl', PERSON=3]
+          (prp[NUM='pl', PERSON=3] their)
+          (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] blood))))
+          )
+    (NP2[NUM='sg'] (N[NUM='sg'] pressure))))
+
+patients who are on kidney dialysis and have a very high blood pressure and a low blood volume may have a marked drop in their blood pressure
+Named entities (drugs): [high]
+(S[]
+  (VP1[NUM='sg', PERSON=2]
+    (NP1[NUM=?n]
+      (NP2[NUM='pl']
+        (N[NUM='pl'] patients)
+        (PP2[]
+          (VP2[NUM='sg', PERSON=2]
+            (wp[] who)
+            (VP2[NUM='sg', PERSON=2] (V[NUM='sg', PERSON=2] are)))
+          (prep[] on)
+          (VP2[NUM='sg', PERSON=2]
+            (VP2[NUM='sg', PERSON=2]
+              (VP2[NUM='sg', PERSON=?p]
+                (V[NUM=?n] kidney)
+                (NP2[NUM='sg'] (N[NUM='sg'] dialysis)))
+              (conj[] and)
+              (VP2[NUM='sg', PERSON=2]
+                (V[NUM='sg', PERSON=2] have)
+                (NP2[NUM='sg'] (N[NUM='sg'] a))))
+            (advP[] (adv[] very))))
+            )
+      (NP2[NUM='sg']
+        (NP2[NUM='sg']
+          (adjP[] (adj[] high))
+          (NP2[NUM='sg'] (N[NUM='sg'] blood) (N[NUM='sg'] pressure)))
+        (conj[] and)
+        (NP2[NUM='sg']
+          (det[NUM='sg'] a)
+          (adjP[] (adj[] low))
+          (N[NUM='sg'] blood))))
+    (VP2[NUM='sg', PERSON=2]
+      (NP2[NUM='sg'] (N[NUM='sg'] volume))
+      (md[] may)
+      (VP2[NUM='sg', PERSON=2] (V[NUM='sg', PERSON=2] have))))
+  (NP1[NUM='sg']
+    (NP2[NUM='sg']
+      (N[NUM='sg'] a)
+      (PP2[]
+        (VP2[NUM='pl', PERSON=?p]
+          (V[NUM=?n] marked)
+          (V[NUM='pl', PERSON=?n] drop))
+        (prep[] in)
+        (VP2[NUM='pl', PERSON=3]
+          (prp[NUM='pl', PERSON=3] their)
+          (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] blood))))
+          )
+    (NP2[NUM='sg'] (N[NUM='sg'] pressure))))
+
+patient information leaflet on amoxil capsuleson amoxil
+Named entities (Chemical): [capsuleson]
+Named entities (drugs): [amoxil amoxil]
+(S[]
+  (NP1[NUM='sg']
+    (NP2[NUM='sg']
+      (adjP[] (adj[] patient))
+      (NP2[NUM='sg'] (N[NUM='sg'] information)))
+    (NP2[NUM='sg']
+      (N[NUM='sg'] leaflet)
+      (PP2[]
+        (prep[] on)
+        (NP2[NUM='sg']
+          (drug[] amoxil)
+          (NP2[NUM='sg']
+            (chemical[] capsuleson)
+            (NP2[NUM='sg'] (N[NUM='sg'] amoxil))))
+            ))))
+
+you may take amoxil before with or after food unless the label advises a specific time
+Named entities (drugs): [amoxil]
+Named entities (org): [label]
+(S[]
+  (NP1[NUM='sg']
+    (NP2[NUM=?n]
+      (NP2[NUM='sg']
+        (prp[NUM=?n, PERSON=2] you)
+        (NP2[NUM='sg']
+          (N[NUM='sg'] may)
+          (PP2[]
+            (VP2[NUM='sg', PERSON=?p]
+              (NP2[NUM='sg'] (N[NUM='sg'] take) (N[NUM='sg'] amoxil))
+              (advP[] (adv[] before)))
+            (prep[] with))))
+      (conj[] or)
+      (NP2[NUM=?n] (N[NUM=?n] after)))
+    (NP2[NUM='sg']
+      (N[NUM='sg'] food)
+      (PP2[]
+        (prep[] unless)
+        (NP2[NUM='sg'] (det[NUM='sg'] the) (N[NUM='sg'] label))))
+        )
+  (VP1[NUM='sg', PERSON=3]
+    (VP2[NUM='sg', PERSON=3]
+      (VP2[NUM='sg', PERSON=3]
+        (V[NUM='sg', PERSON=3] advises)
+        (NP2[NUM='sg'] (N[NUM='sg'] a)))
+      (adjP[] (adj[] specific)))
+    (NP2[NUM=?n] (N[NUM=?n] time))))
+
+and the bencard logo are trade marks
+Named entities (org): [logo]
+(S[]
+  (NP1[NUM=?n] (NP2[NUM=?n] (N[NUM=?n] and)))
+  (VP1[NUM='sg', PERSON=2]
+    (NP1[NUM='sg']
+      (NP2[NUM='sg'] (det[NUM='sg'] the) (N[NUM='sg'] bencard))
+      (NP2[NUM='sg'] (N[NUM='sg'] logo)))
+    (VP2[NUM='sg', PERSON=2]
+      (V[NUM='sg', PERSON=2] are)
+      (NP2[NUM=?n] (N[NUM='sg'] trade) (N[NUM='pl'] marks))))
+      )
+
+patient information leaflet on amoxil paediatric suspension
+Named entities (drugs): [amoxil paediatric suspension]
+(S[]
+  (NP1[NUM='sg']
+    (NP2[NUM='sg']
+      (adjP[] (adj[] patient))
+      (NP2[NUM='sg'] (N[NUM='sg'] information)))
+    (NP2[NUM='sg']
+      (N[NUM='sg'] leaflet)
+      (PP2[]
+        (prep[] on)
+        (NP2[NUM='sg']
+          (drug[] amoxil)
+          (NP2[NUM='sg']
+            (adjP[] (adj[] paediatric))
+            (NP2[NUM='sg'] (N[NUM='sg'] suspension))))
+            ))))
+
+follow your doctors directions about how and when to give your baby amoxil
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='pl', PERSON=?p]
+    (VP2[NUM='pl', PERSON=?p]
+      (V[NUM='pl', PERSON=?n] follow)
+      (NP2[NUM='pl']
+        (prp[NUM=?n, PERSON=2] your)
+        (NP2[NUM='pl']
+          (N[NUM='pl'] doctors)
+          (N[NUM='pl'] directions)))
+      (PP2[]
+        (prep[] about)
+        (NP2[NUM=?n] (wp[] how) (NP2[NUM=?n] (N[NUM=?n] and))))
+        )
+    (VP2[NUM='pl', PERSON=?p]
+      (wp[] when)
+      (VP2[NUM='pl', PERSON=?p]
+        (to[] to)
+        (V[NUM='pl', PERSON=?n] give))))
+  (NP1[NUM=?n]
+    (NP2[NUM='sg']
+      (prp[NUM=?n, PERSON=2] your)
+      (NP2[NUM='sg'] (N[NUM='sg'] baby)))
+    (NP2[NUM=?n] (drug[] amoxil))))
+
+and the bencard logo are trade marks
+Named entities (org): [logo]
+(S[]
+  (NP1[NUM=?n] (NP2[NUM=?n] (N[NUM=?n] and)))
+  (VP1[NUM='sg', PERSON=2]
+    (NP1[NUM='sg']
+      (NP2[NUM='sg'] (det[NUM='sg'] the) (N[NUM='sg'] bencard))
+      (NP2[NUM='sg'] (N[NUM='sg'] logo)))
+    (VP2[NUM='sg', PERSON=2]
+      (V[NUM='sg', PERSON=2] are)
+      (NP2[NUM=?n] (N[NUM='sg'] trade) (N[NUM='pl'] marks))))
+      )
+
+patient information leaflet on amoxil syrupon amoxil
+Named entities (Chemical): [syrupon]
+Named entities (drugs): [amoxil amoxil]
+(S[]
+  (NP1[NUM='sg']
+    (NP2[NUM='sg']
+      (adjP[] (adj[] patient))
+      (NP2[NUM='sg'] (N[NUM='sg'] information)))
+    (NP2[NUM='sg']
+      (N[NUM='sg'] leaflet)
+      (PP2[]
+        (prep[] on)
+        (NP2[NUM='sg']
+          (drug[] amoxil)
+          (NP2[NUM='sg']
+            (chemical[] syrupon)
+            (NP2[NUM='sg'] (N[NUM='sg'] amoxil))))
+            ))))
+
+amoxil syrup is prescribed mainly for children but may also be prescribed for adults
+Named entities (drugs): [amoxil syrup]
+(S[]
+  (NP1[NUM=?n]
+    (NP2[NUM=?n] (drug[] amoxil))
+    (NP2[NUM='sg'] (N[NUM='sg'] syrup)))
+  (VP1[NUM='sg', PERSON=3]
+    (VP2[NUM='sg', PERSON=3]
+      (VP2[NUM='sg', PERSON=3]
+        (V[NUM='sg', PERSON=3] is)
+        (V[NUM=?n] prescribed))
+      (advP[] (adv[] mainly)))
+    (NP1[NUM=?n]
+      (NP2[NUM='sg'] (N[NUM='sg'] for))
+      (NP2[NUM='pl'] (N[NUM='pl'] children))))
+  (conj[] but)
+  (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] may)))
+  (VP1[NUM=?n, PERSON=?p]
+    (VP2[NUM=?n, PERSON=?p]
+      (advP[] (adv[] also))
+      (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] be) (V[NUM=?n] prescribed)))
+    (NP2[NUM=?n] (N[NUM='sg'] for) (N[NUM='pl'] adults))))
+
+follow your doctors directions about how and when to give your child amoxil
+Named entities (drugs): [amoxil]
+(S[]
+  (VP1[NUM='pl', PERSON=?p]
+    (VP2[NUM='pl', PERSON=?p]
+      (V[NUM='pl', PERSON=?n] follow)
+      (NP2[NUM='pl']
+        (prp[NUM=?n, PERSON=2] your)
+        (NP2[NUM='pl']
+          (N[NUM='pl'] doctors)
+          (N[NUM='pl'] directions)))
+      (PP2[]
+        (prep[] about)
+        (NP2[NUM=?n] (wp[] how) (NP2[NUM=?n] (N[NUM=?n] and))))
+        )
+    (VP2[NUM='pl', PERSON=?p]
+      (wp[] when)
+      (VP2[NUM='pl', PERSON=?p]
+        (to[] to)
+        (V[NUM='pl', PERSON=?n] give))))
+  (NP1[NUM=?n]
+    (NP2[NUM=?n]
+      (prp[NUM=?n, PERSON=2] your)
+      (NP2[NUM=?n]
+        (adjP[] (adj[] child))
+        (NP2[NUM=?n] (drug[] amoxil))))
+        ))
+
+and the bencard logo are trade marks
+Named entities (org): [logo]
+(S[]
+  (NP1[NUM=?n] (NP2[NUM=?n] (N[NUM=?n] and)))
+  (VP1[NUM='sg', PERSON=2]
+    (NP1[NUM='sg']
+      (NP2[NUM='sg'] (det[NUM='sg'] the) (N[NUM='sg'] bencard))
+      (NP2[NUM='sg'] (N[NUM='sg'] logo)))
+    (VP2[NUM='sg', PERSON=2]
+      (V[NUM='sg', PERSON=2] are)
+      (NP2[NUM=?n] (N[NUM='sg'] trade) (N[NUM='pl'] marks))))
+      )
+
+if your doctor tells you that you no longer need to take cortisyl tablets follow your doctors advice carefully about how to finish off your course of treatment
+Named entities (drugs): [cortisyl tablets]
+(S[]
+  (VP1[NUM='pl', PERSON=?p]
+    (NP1[NUM=?n]
+      (NP2[NUM=?n] (N[NUM=?n] if))
+      (NP2[NUM='sg']
+        (prp[NUM=?n, PERSON=2] your)
+        (NP2[NUM='sg']
+          (N[NUM='sg'] doctor)
+          (PP2[]
+            (prep[] tells)
+            (NP2[NUM='sg']
+              (prp[NUM=?n, PERSON=2] you)
+              (NP2[NUM='sg']
+                (wp[] that)
+                (NP2[NUM='sg']
+                  (prp[NUM=?n, PERSON=2] you)
+                  (NP2[NUM='sg']
+                    (det[NUM='sg'] no)
+                    (adjP[] (adj[] longer))
+                    (N[NUM=?n] need))))
+                    ))))
+                    )
+    (VP2[NUM='pl', PERSON=?p]
+      (to[] to)
+      (V[NUM='pl', PERSON=?n] take)))
+  (NP1[NUM=?n]
+    (NP2[NUM='pl']
+      (adjP[] (adj[] cortisyl))
+      (NP2[NUM='pl']
+        (N[NUM='pl'] tablets)
+        (PP2[]
+          (VP2[NUM='pl', PERSON=?p]
+            (V[NUM='pl', PERSON=?n] follow)
+            (NP2[NUM='pl']
+              (prp[NUM=?n, PERSON=2] your)
+              (NP2[NUM='pl']
+                (N[NUM='pl'] doctors)
+                (PP2[]
+                  (VP2[NUM='pl', PERSON=?p]
+                    (VP2[NUM='pl', PERSON=?p]
+                      (V[NUM='pl', PERSON=?n] advice))
+                    (advP[] (adv[] carefully)))
+                  (prep[] about)
+                  (VP2[NUM='pl', PERSON=?p]
+                    (wp[] how)
+                    (VP2[NUM='pl', PERSON=?p]
+                      (to[] to)
+                      (V[NUM='pl', PERSON=?n] finish))))
+                      ))
+            (PP2[]
+              (prep[] off)
+              (NP2[NUM='sg']
+                (prp[NUM=?n, PERSON=2] your)
+                (NP2[NUM='sg'] (N[NUM='sg'] course))))
+                )
+          (prep[] of))))
+    (NP2[NUM='sg'] (N[NUM='sg'] treatment))))

@@ -1,6 +1,7 @@
 #Import all the required libraries
 import re
 import nltk
+import copy
 import argparse
 
 from nltk.grammar import FeatureGrammar
@@ -91,7 +92,7 @@ def extract_entities(tree, Named_Entity):
 
 
 #
-def NER_pipeline(file_path,grammar_path):
+def NER_pipeline(grammar_path,file_path):
 
   grammar_string = ""
 
@@ -116,7 +117,7 @@ def NER_pipeline(file_path,grammar_path):
       sent = sent.replace("&quot","")
       words = sent.split()
 
-      trees = parser.parse(words)
+      trees = list(parser.parse(words))
       final_named_entities = []
       
       print(j)
@@ -129,12 +130,13 @@ def NER_pipeline(file_path,grammar_path):
               final_named_entities = list(tuple(named_entities))
 
       if(len(final_named_entities)!=0):
+          print(sent)
           print(f"Named entities (Chemical): {final_named_entities}")
           ner_output += sent+"\n"
           ner_output += "Named entities (Chemical): ["+" ".join(final_named_entities)+"]\n"
           f = 1
 
-      trees = parser.parse(words)
+      trees = list(parser.parse(words))
       final_named_entities = []
       
       if trees != None:
@@ -145,13 +147,14 @@ def NER_pipeline(file_path,grammar_path):
               final_named_entities = list(tuple(named_entities))
 
       if(len(final_named_entities)!=0):
-          print(f"Named entities (Drugs): {final_named_entities}")
           if f==0:
+             print(sent)
              ner_output += sent+"\n"
+          print(f"Named entities (Drugs): {final_named_entities}")
           ner_output += "Named entities (drugs): ["+" ".join(final_named_entities)+"]\n"
           f = 1
       
-      trees = parser.parse(words)
+      trees = list(parser.parse(words))
       final_named_entities = []
       
       if trees != None:
@@ -162,14 +165,26 @@ def NER_pipeline(file_path,grammar_path):
               final_named_entities = list(tuple(named_entities))
       
       if(len(final_named_entities)!=0):
-          print(f"Named entities (org): {final_named_entities}")
           if f==0:
+             print(sent)
              ner_output += sent+"\n"
+          print(f"Named entities (org): {final_named_entities}")
           ner_output += "Named entities (org): ["+" ".join(final_named_entities)+"]\n"
-      
+          f = 1
+
+      if f==1:
+        trees = parser.parse(words)
+        
+        for i, tree in enumerate(trees):
+          print(tree)
+          ner_output += (str)(tree)
+          ner_output += "\n"
+          print("")
+          break
+
       j += 1
   
-  with open("../Results/NER.txt", "w",encoding='latin-1') as file:
+  with open("../Results/NER_with_annotations.txt", "w",encoding='latin-1') as file:
           file.write(ner_output)
 
 
