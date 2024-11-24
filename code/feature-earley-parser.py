@@ -129,8 +129,8 @@ def parser_pipeline(grammar_file_path,sentences_file_path):
           parsed_sent+=parsed_sents[i]+"\n"
           parsed_sents_and_trees += parsed_sents[i]+"\n"+(str)(parsed_trees[i])+"\n\n"
 
-       parsed_sent_path = sentences_file_path[0:sentences_file_path.rfind('/')]+"/good.txt"
-       sent_tree_path = sentences_file_path[0:sentences_file_path.rfind('/')]+"/good-annotations.txt"
+       parsed_sent_path = sentences_file_path[0:sentences_file_path.rfind('/')]+"/Results/good.txt"
+       sent_tree_path = sentences_file_path[0:sentences_file_path.rfind('/')]+"/Results/good-annotations.txt"
 
        # Write the sentences and parsers to the file
        with open(sent_tree_path, "w",encoding='latin-1') as file:
@@ -151,7 +151,7 @@ def parser_pipeline(grammar_file_path,sentences_file_path):
        print("The given grammar is insufficient to parse the following sentences")
        print(no_parsed_sent)
 
-       no_parse_path = sentences_file_path[0:sentences_file_path.rfind('/')]+"/False.txt"
+       no_parse_path = sentences_file_path[0:sentences_file_path.rfind('/')]+"/Results/False.txt"
 
        # Write only the non parsed sentences to the file
        with open(no_parse_path, "w",encoding='latin-1') as file:

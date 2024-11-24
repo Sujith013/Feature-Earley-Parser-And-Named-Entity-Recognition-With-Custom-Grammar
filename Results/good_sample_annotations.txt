@@ -1,0 +1,79 @@
+this leaflet
+(S[]
+  (NP1[NUM='sg']
+    (NP2[NUM='sg'] (det[NUM='sg'] this) (N[NUM='sg'] leaflet))))
+
+these pens
+(S[]
+  (NP1[NUM='pl']
+    (NP2[NUM='pl'] (det[NUM='pl'] these) (N[NUM='pl'] pens))))
+
+i have fever
+(S[]
+  (VP1[NUM='sg', PERSON=1]
+    (VP2[NUM='sg', PERSON=1]
+      (prp[NUM='sg', PERSON=1] i)
+      (VP2[NUM='sg', PERSON=1] (V[NUM='sg', PERSON=1] have))))
+  (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] fever))))
+
+he has fever
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (VP2[NUM='sg', PERSON=3]
+      (prp[NUM='sg', PERSON=3] he)
+      (VP2[NUM='sg', PERSON=3] (V[NUM='sg', PERSON=3] has))))
+  (NP1[NUM='sg'] (NP2[NUM='sg'] (N[NUM='sg'] fever))))
+
+we are holding
+(S[]
+  (VP1[NUM='pl', PERSON=1]
+    (VP2[NUM='pl', PERSON=1]
+      (prp[NUM='pl', PERSON=1] we)
+      (VP2[NUM='pl', PERSON=?p] (V[NUM='pl', PERSON=?n] are)))
+    (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] holding))))
+
+he prescribes
+(S[]
+  (VP1[NUM='sg', PERSON=3]
+    (VP2[NUM='sg', PERSON=3]
+      (prp[NUM='sg', PERSON=3] he)
+      (VP2[NUM='sg', PERSON=3] (V[NUM='sg', PERSON=3] prescribes)))))
+
+they have the pens
+(S[]
+  (VP1[NUM='pl', PERSON=3]
+    (VP2[NUM='pl', PERSON=3]
+      (prp[NUM='pl', PERSON=3] they)
+      (VP2[NUM='pl', PERSON=?p] (V[NUM='pl', PERSON=?n] have))))
+  (NP1[NUM='pl']
+    (NP2[NUM='pl'] (det[NUM='pl'] the) (N[NUM='pl'] pens))))
+
+they had the pens
+(S[]
+  (VP1[NUM='pl', PERSON=3]
+    (VP2[NUM='pl', PERSON=3]
+      (prp[NUM='pl', PERSON=3] they)
+      (VP2[NUM=?n, PERSON=?p] (V[NUM=?n] had))))
+  (NP1[NUM='pl']
+    (NP2[NUM='pl'] (det[NUM='pl'] the) (N[NUM='pl'] pens))))
+
+we are taking the tablets
+(S[]
+  (VP1[NUM='pl', PERSON=1]
+    (VP2[NUM='pl', PERSON=1]
+      (prp[NUM='pl', PERSON=1] we)
+      (VP2[NUM='pl', PERSON=?p]
+        (V[NUM='pl', PERSON=?n] are)
+        (V[NUM=?n] taking)))
+    (NP2[NUM='pl'] (det[NUM='pl'] the) (N[NUM='pl'] tablets))))
+
+they were taking the tablets
+(S[]
+  (VP1[NUM='pl', PERSON=3]
+    (VP2[NUM='pl', PERSON=3]
+      (prp[NUM='pl', PERSON=3] they)
+      (VP2[NUM='pl', PERSON=?p]
+        (V[NUM='pl', PERSON=?n] were)
+        (V[NUM=?n] taking)))
+    (NP2[NUM='pl'] (det[NUM='pl'] the) (N[NUM='pl'] tablets))))
+
